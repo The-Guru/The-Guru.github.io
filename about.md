@@ -4,18 +4,18 @@ title: Sobre Mí
 permalink: /about/
 ---
 
-Aquí estoy posando con el Cañón del Colca (Perú) detrás mío. 
+Aquí estoy posando con el Cañón del Colca (Perú) detrás mío:
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/sobre-mi.jpg"/>
 </p>
 
-Some information about you!
+Como podrás adivinar, una de mis mayores aficiones es viajar ya que te permite conocer otras culturas y apreciar mucho más lo que uno tiene. 
 
-### More Information
+## ¿Cómo he llegado aquí?
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+## Contact me
 
 [email@domain.com](mailto:email@domain.com)
