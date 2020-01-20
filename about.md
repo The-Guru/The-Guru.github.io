@@ -20,6 +20,8 @@ He participado en muchos proyectos a lo largo de mi vida pero hay tres que consi
 
 * Mi carrera como desarrollador de software continuó y hace unos 10 años participé en la creación del vídeo juego __Pocoyo Racing__ para la vídeo consola Wii de Nintendo en [Zinkia](https://www.zinkia.com/es). Es un desarrollo que recuerdo con mucho cariño debido al buen rollo que había en el equipo. El vídeo juego no salió al mercado hasta un año después de haber sido desarrollado. [Aquí tenéis un vídeo del juego](https://www.youtube.com/watch?v=1plG9CRfcJc) por si os pica la curiosidad.
 
+* Tras pasar una breve temporada trabajando en [Inglaterra](http://www.codemasters.com) y volver de nuevo a casa para trabajar en un [simulador de ciclismo](https://www.bkool.com/es), mi hermano y yo decidimos montar lo que a priorio iba a ser un pequeño estudio de vídeo juegos para teléfonos móviles. Todo empezó hace 8 años con el desarrollo de nuestro primer juegos [__Jeff Space__](https://apps.apple.com/es/app/jeff-space-action-packed-arcade-shooting-game/id604698524)
+
 ## Contact me
 
 [email@domain.com](mailto:email@domain.com)
