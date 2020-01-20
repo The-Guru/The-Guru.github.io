@@ -4,7 +4,7 @@ title: Sobre Mí
 permalink: /about/
 ---
 
-![_config.yml]({{ site.baseurl }}/images/sobre-mi.jpg)
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
 Some information about you!
 
