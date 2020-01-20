@@ -6,7 +6,9 @@ permalink: /about/
 
 Aquí estoy posando con el Cañón del Colca (Perú) detrás mío. 
 
-![_config.yml]({{ site.baseurl }}/images/sobre-mi.jpg)
+<p align="center">
+<img src="{{ site.baseurl }}/images/sobre-mi.jpg"/>
+</p>
 
 Some information about you!
 
