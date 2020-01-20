@@ -4,7 +4,9 @@ title: Sobre Mí
 permalink: /about/
 ---
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Aquí estoy posando con el Cañón del Colca (Perú) detrás mío. 
+
+![_config.yml]({{ site.baseurl }}/images/sobre-mi.jpg)
 
 Some information about you!
 
