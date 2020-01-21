@@ -26,7 +26,7 @@ He participado en muchos proyectos a lo largo de mi vida pero hay tres que consi
 
 ## ¿Qué puedo hacer por ti?
 
-Los artículos que posteo en este blog tratan principalmente sobre desarrollo del software, empredimiento, educación financiera e inversión. Mi intención es aportar mi gratito de arena a cada uno de estos campos basándome en mi experiencia. Si con ello consigo al menos despertar tu interés en dichos campos creo que el esfuerzo habrá valido la pena, ya que, te habré aportado algo de valor.
+Los artículos que posteo en este blog tratan principalmente sobre desarrollo del software, empredimiento, educación financiera e inversión. Mi intención es aportar mi gratito de arena a cada uno de estos campos basándome en mi experiencia. Si con ello consigo al menos despertar tu interés en dichos campos creo que el esfuerzo habrá merecido la pena, ya que, de algún modo te habré aportado valor.
 
 ## Contacto
 
