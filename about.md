@@ -4,13 +4,15 @@ title: Sobre Mí
 permalink: /about/
 ---
 
+Permíteme que me presente: Soy Óscar García, Ingeniero en informática y un apasionado del desarrollo de software, así como, del emprendimiento (cofundé una empresa y la vendí) y últimamente de la educación financiera y la inversión.  
+
 Aquí estoy posando con el Cañón del Colca (Perú) detrás mío:
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/sobre-mi.jpg"/>
 </p>
 
-Como podrás adivinar, una de mis mayores aficiones es viajar ya que te permite conocer otras culturas y apreciar mucho más lo que uno tiene. 
+Como podrás adivinar, una de mis mayores aficiones es viajar ya que te permite conocer otras culturas y apreciar mucho más lo que uno tiene.
 
 ## ¿Qué es lo que he estado haciendo?
 
