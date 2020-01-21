@@ -4,7 +4,7 @@ title: Sobre Mí
 permalink: /about/
 ---
 
-Permíteme que me presente: Soy Óscar García, Ingeniero en informática y un apasionado del desarrollo de software, así como, del emprendimiento (cofundé una empresa y la vendí) y últimamente de la educación financiera y la inversión.  
+Permíteme que me presente: Soy Óscar García, Ingeniero en informática y un apasionado del desarrollo de software, así como, del emprendimiento (cofundé una [empresa](https://labcavegames.com) y la vendí) y últimamente de la educación financiera y la inversión.
 
 Aquí estoy posando con el Cañón del Colca (Perú) detrás mío:
 
