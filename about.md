@@ -4,7 +4,7 @@ title: Sobre Mí
 permalink: /about/
 ---
 
-Permíteme que me presente: Soy Óscar García, Ingeniero en informática y un apasionado del desarrollo de software, así como, del emprendimiento (cofundé una [empresa](https://labcavegames.com) y la vendí) y últimamente de la educación financiera y la inversión.
+Permíteme que me presente: Soy Óscar García, Ingeniero en Informática y un apasionado del desarrollo de software, así como, del emprendimiento (cofundé una [empresa](https://labcavegames.com) y la vendí) y últimamente de la educación financiera y la inversión.
 
 Aquí estoy posando con el Cañón del Colca (Perú) detrás mío:
 
@@ -12,7 +12,7 @@ Aquí estoy posando con el Cañón del Colca (Perú) detrás mío:
 <img src="{{ site.baseurl }}/images/sobre-mi.jpg"/>
 </p>
 
-Como podrás adivinar, una de mis mayores aficiones es viajar ya que te permite conocer otras culturas y apreciar mucho más lo que uno tiene.
+Como podrás adivinar, una de mis mayores aficiones es viajar ya que me permite conocer otras culturas y apreciar mucho más lo que uno tiene.
 
 ## ¿Qué es lo que he estado haciendo?
 
@@ -26,7 +26,7 @@ He participado en muchos proyectos a lo largo de mi vida pero hay tres que consi
 
 ## ¿Qué puedo hacer por ti?
 
-Los artículos que posteo en este blog tratan principalmente sobre desarrollo del software, empredimiento, educación financiera e inversión. Mi intención es aportar mi gratito de arena a cada uno de estos campos basándome en mi experiencia. Si con ello consigo al menos despertar tu interés en dichos campos creo que el esfuerzo habrá merecido la pena, ya que, de algún modo, te habré aportado valor.
+Los artículos que publico en este blog tratan principalmente sobre desarrollo del software, empredimiento, educación financiera e inversión. Mi intención es aportar mi gratito de arena a cada uno de estos campos basándome en mi experiencia. Si con ello consigo al menos despertar tu interés en dichos campos creo que el esfuerzo habrá merecido la pena, ya que, de algún modo, te habré aportado valor.
 
 ## Contacto
 
