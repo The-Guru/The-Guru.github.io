@@ -23,7 +23,6 @@ Como podéis observar, la pirámide está compuesta por 4 niveles:
 4. Tiempo
 
 Donde el más importante es la base, es decir, __los ingresos__.
-
 Los siguientes artículos del blog estarán dedicados a cada uno de los niveles de la pirámide empezando por la base.
 
 ¡Muchas gracias!
