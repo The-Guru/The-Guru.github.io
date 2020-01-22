@@ -9,8 +9,17 @@ Imagina por un momento que te toca la lotería, ¿Qué harías?. Seguro que lo p
 
 En mi caso cuento con una Ingeniería en Informática, es decir, he pasado por el colegio, el instituto y la universidad. En ninguna de estas instituciones jamás recibí formación a cerca de cómo gestionar tus propias finanzas. Ni siquiera había alguna asignatura optativa que hablara del tema. Si os dais cuenta vivimos en una sociedad que nos prepara para ser buenos profesionales pero a la que no le interesa que sepas gestionar tus finanzas de una forma adecuada.
 
-Para mi la educación financiera se reduce a una serie de niveles que subdividen una pirámide, dónde la importancia es mayor en la base (primer nivel) y menor según se va ascendiendo por los diferentes niveles:
+Para mi la educación financiera se reduce a una serie de niveles que subdividen una pirámide, donde la importancia es mayor en la base (primer nivel) y menor según se va ascendiendo por los diferentes niveles:
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/piramide-financiera.png" style="width: 400px; height: 400px;"/>
 </p>
+
+Como podéis observar, la pirámide está compuesta por 4 niveles:
+
+1. Ingresos
+2. Ahorro
+3. Inversión
+4. Tiempo
+
+Donde el más importante es la base, es decir, __los ingresos__
