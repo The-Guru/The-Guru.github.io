@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Las pirámides de la Educación Financiera
+title: La pirámide de la Educación Financiera
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Qué mejor forma de inaugurar este blog que escribiendo sobre educación financiera. Tengo que decir que no empencé a preocuparme sobre este tema hasta hace poco.
 
 <p align="center">
 ![_config.yml]({{ site.baseurl }}/images/sobre-mi.jpg)
