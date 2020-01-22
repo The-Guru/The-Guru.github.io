@@ -12,6 +12,5 @@ En mi caso cuento con una Ingeniería en Informática, es decir, he pasado por e
 Para mi la educación financiera se reduce a una serie de niveles que subdividen una pirámide, dónde la importancia es mayor en la base (primer nivel) y menor según se va ascendiendo por los diferentes niveles:
 
 <p align="center">
-![_config.yml]({{ site.baseurl }}/images/sobre-mi.jpg)
+<img src="{{ site.baseurl }}/images/piramide-financiera.png" style="width: 400px; height: 400px;"/>
 </p>
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
