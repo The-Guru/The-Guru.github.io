@@ -1,6 +1,7 @@
 ---
 layout: post
 title: La pirámide de la Educación Financiera
+comments: false
 ---
 
 Qué mejor forma de inaugurar este blog que escribiendo sobre *educación financiera*. He de decir que no empencé a preocuparme sobre este tema hasta hace poco. En concreto, hasta que no obtuve el dinero proveniente de la venta de la empresa que cofundé.
