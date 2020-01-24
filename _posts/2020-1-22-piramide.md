@@ -3,7 +3,7 @@ layout: post
 title: La pirámide de la Educación Financiera
 ---
 
-Qué mejor forma de inaugurar este blog que escribiendo sobre *educación financiera*. He de decir que no empencé a preocuparme sobre este tema hasta hace poco. En concreto, hasta que no obtuve el dinero proveniente de la venta de la empresa que cofundé.
+Qué mejor forma de inaugurar este blog que escribiendo sobre *educación financiera*. He de decir que no empecé a preocuparme sobre este tema hasta hace poco. En concreto, hasta que no obtuve el dinero proveniente de la venta de la empresa que cofundé.
 
 Imagina por un momento que te toca la lotería, ¿Qué harías?. Seguro que lo primero que te pasa por la cabeza es comprarte un buen coche, disfrutar de unas buenas vacaciones o quizás cancelar la hipoteca o comprarte una casa. Yo creo que todas estas ocurrencias son debidas a que la mayoría de nosotros no contamos con una buena *educación financiera*.
 
