@@ -18,7 +18,7 @@ Como podrás adivinar, una de mis mayores aficiones es viajar ya que me permite 
 
 He participado en muchos proyectos a lo largo de mi vida pero hay tres que considero un verdadero éxito y que hacen sentirme muy orgullo de poder haber participado en ellos:   
 
-* En 2003 trabajé en el desarrollo de un [simulador de grúa torre](http://simfor.es/wp/?portfolio=grua-torre) que permitía convalidar un cierto número de horas prácitcas obligatorias para poder sacarse el carnet de operador de grúa torre haciendo uso del simulador. El simulador tuvo un grán éxito y la [Fundación laboral de la Contrucción](https://www.fundacionlaboral.org) lo adquirió para todos sus centros docentes. La empresa donde lo desarrollé se llamaba GSC (Grupo simulación de conducción) que actualmente se llama [Simfor](http://simfor.es/wp/). 
+* En 2003 trabajé en el desarrollo de un [simulador de grúa torre](http://simfor.es/wp/?portfolio=grua-torre) que permitía convalidar un cierto número de horas prácticas obligatorias para poder sacarse el carnet de operador de grúa torre haciendo uso del simulador. El simulador tuvo un grán éxito y la [Fundación laboral de la Contrucción](https://www.fundacionlaboral.org) lo adquirió para todos sus centros docentes. La empresa donde lo desarrollé se llamaba GSC (Grupo simulación de conducción) que actualmente se llama [Simfor](http://simfor.es/wp/). 
 
 * Mi carrera como desarrollador de software continuó y en 2008 participé en la creación del vídeo juego __Pocoyo Racing__ para la vídeo consola Wii de Nintendo en [Zinkia](https://www.zinkia.com/es). Es un desarrollo que recuerdo con mucho cariño debido al buen rollo que había en el equipo. El vídeo juego no salió al mercado hasta un año después de haber sido terminado. [Aquí tenéis un vídeo del juego](https://www.youtube.com/watch?v=1plG9CRfcJc) por si os pica la curiosidad.
 
@@ -26,7 +26,7 @@ He participado en muchos proyectos a lo largo de mi vida pero hay tres que consi
 
 ## ¿Qué puedo hacer por ti?
 
-Los artículos que publico en este blog tratan principalmente sobre desarrollo del software, empredimiento, educación financiera e inversión. Mi intención es aportar mi gratito de arena a cada uno de estos campos basándome en mi experiencia. Si con ello consigo al menos despertar tu interés en dichos campos creo que el esfuerzo habrá merecido la pena, ya que, de algún modo, te habré aportado valor.
+Los artículos que publico en este blog tratan principalmente sobre desarrollo del software, empredimiento, educación financiera e inversión. Mi intención es aportar mi granito de arena a cada uno de estos campos basándome en mi experiencia. Si con ello consigo al menos despertar tu interés en dichos campos creo que el esfuerzo habrá merecido la pena, ya que, de algún modo, te habré aportado valor.
 
 ## Contacto
 
