@@ -9,4 +9,4 @@ Una buena definición para ingresos podría ser: cantidad de dinero ganada o rec
 
 * Ingresos Activos:
 
-* Igresos Pasivos: 
+* Igresos Pasivos:
