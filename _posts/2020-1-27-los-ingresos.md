@@ -13,7 +13,7 @@ Son todos aquellos ingresos que obtenemos mediante una acción nuestra continuad
 
 ## Ingresos Pasivos
 
-Son todos aquellos ingresos que obtenemos de forma pasiva, es decir, ningún tipo de acción por nuestra parte es necesaria para obtener una remuneración. Dicho así parece cosa de magia, *algo* que pone dinero en nuestros bolsillos sin que tengamos que hacer nada... ¿dónde hay que firmar?. Ese *algo* es lo que comúnmente se suele llamar **activo**. Así pues, un **activo** pone dinero en nuestro bolsillo normalmente de forma pasiva. Cuantos más activos tengamos mucho mejor. Algunos ejemplos podrían ser:
+Son todos aquellos ingresos que obtenemos de forma pasiva, es decir, ningún tipo de acción por nuestra parte es necesaria para obtener una remuneración. Dicho así parece cosa de magia, *algo* que pone dinero en nuestros bolsillos sin que tengamos que hacer nada... ¿dónde hay que firmar?. Ese *algo* es lo que comúnmente se suele denominar **activo**. Así pues, un **activo** pone dinero en nuestro bolsillo normalmente de forma pasiva. Cuantos más activos tengamos mucho mejor. Algunos ejemplos podrían ser:
 
 * *Propiedad intelectual*: un libro, una aplicación/juego para teléfonos móviles, etc.
 * *Un negocio*: una lavandería autoservicio.
@@ -32,6 +32,6 @@ La mayoría de nosotros la parte de los ingresos activos la tenemos controlada (
 
 ## Lectura recomendada
 
-Os recomiendo que leáis el libro de *Robert T. Kiyosaki*: [Padre rico, padre pobre](https://www.amazon.es/Padre-Rico-padre-Pobre-enseñan/dp/846633212X/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=3CUSVMIWDM2GH&keywords=padre+rico+padre+pobre+en+español&qid=1580139058&sprefix=padre+ri%2Caps%2C149&sr=8-1) es un clásico que me abrió los ojos respecto al tema de la eduación financiera.
+Os recomiendo que leáis el libro de *Robert T. Kiyosaki*: [Padre Rico, padre Pobre](https://www.amazon.es/Padre-Rico-padre-Pobre-enseñan/dp/846633212X/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=3CUSVMIWDM2GH&keywords=padre+rico+padre+pobre+en+español&qid=1580139058&sprefix=padre+ri%2Caps%2C149&sr=8-1) es un clásico que me abrió los ojos respecto al tema de la eduación financiera.
 
 ¡Muchas gracias!
