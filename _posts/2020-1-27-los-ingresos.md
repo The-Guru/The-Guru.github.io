@@ -22,7 +22,7 @@ Son todos aquellos ingresos que obtenemos de forma pasiva, es decir, ningún tip
 
 ## ¿Ingresos activos o ingresos pasivos?
 
-En mi opinión un balance entre ambos sería lo óptimo. Por un lado obtenemos ingresos de forma activa a través de nuestro trajo y por otro añadimos una o varias fuentes de ingresos pasivos. De esta forma nuestro total de ingresos quedaría de esta manera:
+En mi opinión un balance entre ambos sería lo óptimo. Por un lado obtenemos ingresos de forma activa a través de nuestro trabajo y por otro, añadimos una o varias fuentes de ingresos pasivos. De esta forma, nuestro total de ingresos quedaría de esta manera:
 
 * **Ingresos = Ingresos activos + Ingresos pasivos**
 
@@ -32,6 +32,6 @@ La mayoría de nosotros la parte de los ingresos activos la tenemos controlada (
 
 ## Lectura recomendada
 
-Os recomiendo que leáis el libro de *Robert T. Kiyosaki*: [Padre Rico, padre Pobre](https://www.amazon.es/Padre-Rico-padre-Pobre-enseñan/dp/846633212X/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=3CUSVMIWDM2GH&keywords=padre+rico+padre+pobre+en+español&qid=1580139058&sprefix=padre+ri%2Caps%2C149&sr=8-1) es un clásico que me abrió los ojos respecto al tema de la eduación financiera.
+Os recomiendo que leáis el libro de *Robert T. Kiyosaki*: [Padre Rico, padre Pobre](https://www.amazon.es/Padre-Rico-padre-Pobre-enseñan/dp/846633212X/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=3CUSVMIWDM2GH&keywords=padre+rico+padre+pobre+en+español&qid=1580139058&sprefix=padre+ri%2Caps%2C149&sr=8-1) es un clásico que me abrió los ojos respecto al tema de la educación financiera.
 
 ¡Muchas gracias!
