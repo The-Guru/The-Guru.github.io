@@ -36,4 +36,4 @@ Yo uso la cuenta remunerada de [MyInvestor](https://myinvestor.es/cuenta-remuner
 
 # Págate a ti primero
 
-
+Normalmente cuando recibimos los ingresos (la nómina, por ejemplo) solemos pagar de inmediato los gastos comunes (hipoteca/alquiler, comida, teléfono móvil, etc.) (continuar aquí...)
