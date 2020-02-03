@@ -8,3 +8,8 @@ Para algunas personas es el grán desconocido. Y esto es debido a que no queda n
 # La carrera de la rata
 
 Esta frase acuñada por *Robert Kiyosaki* se refiere al ciclo infinito de trabajar para obtener ingresos, que a continuación usamos para pagar deudas y gastos, lo que nos deja nuevamente sin ingresos volviendo a tener que trabajar para obtener ingresos completando así dicho ciclo.
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/la-carrera-de-la-rata.png"/>
+</p>
+
