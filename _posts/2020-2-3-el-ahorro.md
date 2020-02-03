@@ -1,4 +1,5 @@
 ---
 layout: post
-title:  "Acendiendo por la pirámide: El Ahorro"
+title:  "Ascendiendo por la pirámide: El Ahorro"
 ---
+
