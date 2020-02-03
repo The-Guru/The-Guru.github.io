@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ascendiendo por la pirámide: El Ahorro"
+published: false
 ---
 
 Para algunas personas es el grán desconocido. Y esto es debido a que no queda nada de sus *ingresos* una vez han hecho frente a todas sus *deudas y gastos*. Lo que comúnmente se denomina estar atrapado en *la carrera de la rata*, y así, es imposible **ahorrar**.
