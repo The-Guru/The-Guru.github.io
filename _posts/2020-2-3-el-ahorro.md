@@ -13,6 +13,7 @@ Este término acuñado por *Robert Kiyosaki* se refiere al ciclo infinito de tra
 <img src="{{ site.baseurl }}/images/la-carrera-de-la-rata.png"/>
 </p>
 
-¿Cómo salimos de la carrera de la rata? os estaréis preguntando. Podríamos empezar reduciendo las deudas y los gastos. De esta forma, contaríamos con parte de nuestros ingresos que podríamos poner a trabajar por nosotros y obtener un rendimiento por ellos. En definitiva, se trata de que la siguiente expresión se cumpla siempre:
+¿Cómo salimos de la carrera de la rata? os estaréis preguntando. Podríamos empezar reduciendo las deudas y los gastos. De esta forma, contaríamos con parte de nuestros ingresos que podríamos poner a trabajar para nosotros y obtener un rendimiento por ellos. En definitiva, se trata de que la diferencia entre *Ingresos y Gastos* sea siempre **positiva**.
 
-* **Ingresos - Gastos > 0**
+# Objetivo del ahorro
+
