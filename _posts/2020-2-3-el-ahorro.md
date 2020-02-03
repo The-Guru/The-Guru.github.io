@@ -32,3 +32,7 @@ La cantidad de dinero que debería haber en este fondo suele ser igual al total 
 Al ser una cantidad de dinero que siempre tiene que estar disponible, lo recomendable es tenerla depositada en una cuenta del banco remunerada. De este modo, conseguimos que la inflacción no nos afecte tanto.
 
 Yo uso la cuenta remunerada de [MyInvestor](https://myinvestor.es/cuenta-remunerada/) que te da un 1% TAE hasta 15.000€ y se contrata a través de su página web.
+
+# Págate a ti primero
+
+
