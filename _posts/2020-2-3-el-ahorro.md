@@ -27,4 +27,6 @@ Con esto me refiero a todas esas deudas que suelen ser a *corto plazo* pero con 
 
 Se trata de crear un fondo para imprevistos que pudieran surgirnos como por ejemplo: pérdida del empleo, una gran avería en nuestro vehículo, etc.
 
-La cantidad de dinero que debería haber en este fondo suele ser igual al total de gastos mensuales que podramos tener multiplicado por 6 o por 12 dependiendo del colchón que queramos tener. A modo de ejemplo, si nuestros gastos fuesen 2.000€ al mes, deberíamos tener un fondo de emergencia de 12.000€ ó 24.000€ respectivamente.
+La cantidad de dinero que debería haber en este fondo suele ser igual al total de gastos mensuales que podramos tener multiplicado por 6 o por 12 dependiendo del colchón que queramos tener. A modo de ejemplo, si nuestros gastos mesuales fuesen 2.000€, deberíamos tener un fondo de emergencia de 12.000€ ó 24.000€ respectivamente.
+
+Al ser una cantidad de dinero que siempre tiene que estar disponible, lo recomendable es tenerla depositada en una cuenta del banco remunerada. De este modo, conseguimos que la inflacción no nos afecte tanto.  
