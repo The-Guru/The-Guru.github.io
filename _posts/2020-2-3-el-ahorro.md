@@ -28,7 +28,7 @@ Con esto me refiero a todas esas deudas que suelen ser a *corto plazo* pero con 
 
 Se trata de crear un fondo para imprevistos que pudieran surgirnos como por ejemplo: pérdida del empleo, una gran avería en nuestro vehículo, etc.
 
-La cantidad de dinero que debería haber en este fondo suele ser igual al total de gastos mensuales que podramos tener multiplicado por 6 o por 12 dependiendo del colchón que queramos tener. A modo de ejemplo, si nuestros gastos mesuales fuesen 2.000€, deberíamos tener un fondo de emergencia de 12.000€ ó 24.000€ respectivamente.
+La cantidad de dinero que debería haber en este fondo suele ser igual al total de gastos mensuales que podramos tener multiplicado por 3 o por 6 dependiendo del colchón que queramos tener. A modo de ejemplo, si nuestros gastos mesuales fuesen 2.000€, deberíamos tener un fondo de emergencia de 6.000€ ó 12.000€ respectivamente.
 
 Al ser una cantidad de dinero que siempre tiene que estar disponible, lo recomendable es tenerla depositada en una cuenta del banco remunerada. De este modo, conseguimos que la inflacción no nos afecte tanto.
 
@@ -41,4 +41,7 @@ Normalmente cuando recibimos los ingresos (la nómina, por ejemplo) solemos paga
 <p align="center">
 <img src="{{ site.baseurl }}/images/presupuesto.png"/>
 </p>
+
+Es importante destacar de este ejemplo, que la partida dedicada al fondo de emergencia tendría que distribuirse al resto de partidas una vez se haya alcanzado la cantidad objetivo de dicho fondo. También es importante destacar la partida asignada a nuestra formación y crecimiento personal ya que considero que es de vital importancia continuar mejorando en nuestras competencias. Interesante tambíen, la partida dedicada a las donaciones, pienso que es importante ayudar aquellos que más lo necesitan y donando parte de nuestros ingresos a cualquier ONG con la que nos sintamos identificados contribuirá a que cada día tengamos un mundo mejor. Por último, un porcentaje del 10% para el ahorro es más que razonable y no debería ser nunca inferior a éste.
+
 
