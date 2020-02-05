@@ -29,9 +29,9 @@ Se trata de crear un fondo para imprevistos que pudieran surgirnos como por ejem
 
 La cantidad de dinero que debería haber en este fondo suele ser igual al total de gastos mensuales que podramos tener multiplicado por 3 o por 6 dependiendo del colchón que queramos tener. A modo de ejemplo, si nuestros gastos mesuales fuesen 2.000€, deberíamos tener un fondo de emergencia de 6.000€ ó 12.000€ respectivamente.
 
-Al ser una cantidad de dinero que siempre tiene que estar disponible, lo recomendable es tenerla depositada en una cuenta del banco remunerada. De este modo, conseguimos que la inflacción no nos afecte tanto.
+Al ser una cantidad de dinero que siempre tiene que estar disponible, lo recomendable es tenerla depositada en una cuenta del banco remunerada. De este modo, conseguiremos que la inflacción no nos afecte tanto.
 
-Yo uso la cuenta remunerada de [MyInvestor](https://myinvestor.es/cuenta-remunerada/) que te da un 1% TAE hasta 15.000€ y se contrata a través de su página web.
+Yo uso la cuenta remunerada de [MyInvestor](https://myinvestor.es/cuenta-remunerada/) que te da un 1% TAE hasta 15.000€ y se contrata a través de su página web. **NOTA: Esto es una recomendación (yo no me llevo ningún tipo de comisión por ello), en ningún caso pretendo que os abráis una cuenta en dicha entidad. Eso es una decisión a tomar por vosotros. Existen muchas más opciones de cuentas remuneradas en el mercado**.
 
 # Págate a ti primero
 
