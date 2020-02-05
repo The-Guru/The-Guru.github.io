@@ -44,4 +44,4 @@ Normalmente cuando recibimos los ingresos (la nómina, por ejemplo) solemos paga
 
 Es importante destacar de este ejemplo, que la partida dedicada al fondo de emergencia tendría que distribuirse al resto de partidas una vez se haya alcanzado la cantidad objetivo de dicho fondo. También es importante destacar la partida asignada a nuestra formación y crecimiento personal ya que considero que es de vital importancia continuar mejorando en nuestras competencias. Interesante tambíen, la partida dedicada a las donaciones, pienso que es importante ayudar a aquellos que más lo necesitan y donando parte de nuestros ingresos a cualquier ONG con la que nos sintamos identificados contribuirá a que cada día tengamos un mundo mejor. Por último, un porcentaje del 10% para el ahorro es más que razonable y no debería ser nunca inferior a éste.
 
-
+# Lectura recomendada
