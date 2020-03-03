@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La Inversión, capítulo I"
+title:  "La Inversión (I)"
 published: false
 ---
 
@@ -15,4 +15,14 @@ Una respuesta válida a esta pregunta podría ser: para que la inflacción no se
 * Para tener un futuro financiero más sólido.
 
 Además, al invertir, estaremos usando la fuerza más poderosa del universo según Albert Einstein. **El interés compuesto**.
-TODO: Seguir aquí... explicando el interés compuesto
+Se trata de aplicar un efecto "*bola de nieve*" al capital que invertimos aplicándose la siguiente fórmula:
+
+* **Cf = Ci x (1 + i)n**
+* **Cf** es el capital que tendremos al final
+* **Ci** es el capital inicial que aportamos
+* **i** es el tipo de interés —o la rentabilidad— que obtendremos en cada período
+* **n** es el número de períodos (normalmente, años)
+
+El interés compuesto se refiere a que los intereses que recibiremos en los períodos sucesivos se calcularán no sólo sobre el capital inicial, sino también sobre los intereses que vayamos obteniendo. Aunque a priori pudiera no parecer muy relevante, cuantos más años se acumulen, más importancia tendrá.
+
+Lo vamos a ver más claro con un ejemplo. Imaginaros que invertimos un capital incial de 10.000€ en un producto financiero que nos genere un retorno del 5% anual. Al final del año habremos obtenido 500€. Pero, ¿cuánto obtedríamos el segundo año? En este caso, el 5% ya no sólo se calcularía sobre los 10.000€, sino sobre 10.500€, que es el dinero que tendríamos, con lo cual conseguiríamos 525€. El tercer año, el 5% se calcularía sobre 11.025€ (10.500€ + 525€), y así sucesivamente.
