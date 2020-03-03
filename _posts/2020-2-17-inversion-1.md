@@ -26,3 +26,9 @@ Se trata de aplicar un efecto "*bola de nieve*" al capital que invertimos aplic�
 El interés compuesto se refiere a que los intereses que recibiremos en los períodos sucesivos se calcularán no sólo sobre el capital inicial, sino también sobre los intereses que vayamos obteniendo. Aunque a priori pudiera no parecer muy relevante, cuantos más años se acumulen, más importancia tendrá.
 
 Lo vamos a ver más claro con un ejemplo. Imaginaros que invertimos un capital incial de 10.000€ en un producto financiero que nos genere un retorno del 5% anual. Al final del año habremos obtenido 500€. Pero, ¿cuánto obtedríamos el segundo año? En este caso, el 5% ya no sólo se calcularía sobre los 10.000€, sino sobre 10.500€, que es el dinero que tendríamos, con lo cual conseguiríamos 525€. El tercer año, el 5% se calcularía sobre 11.025€ (10.500€ + 525€), y así sucesivamente.
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/interes-compuesto.png"/>
+</p>
+
+//TODO: Seguir aquí, explicar regla del 72 que vale para aportación inicial no para cuando vamos aportado todos los meses por ejemplo. 
