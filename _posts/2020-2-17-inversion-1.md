@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La Inversión (I)"
-published: true
+published: false
 ---
 
 Pues ya hemos llegado al tercer nivel de [La pirámide de la Educación Financiera]({% post_url 2020-1-22-piramide %}). Este tercer nivel lo he dividido en varias partes ya que hay bastante información que contar al respecto.
@@ -40,3 +40,13 @@ Imaginemos ahora un caso más habitual. Vamos a ir haciendo aportaciones mensual
 </p>
 
 Al finalizar los 25 años, habríamos invertido 75.000€ (3.000€ × 25 años), y tendríamos 150.340€ en nuestra cuenta. Un gran complemento para nuestra pensión, ¿verdad?
+
+# El nivel de riesgo
+
+Antes de contratar cualquier producto de inversión, es imprescindible saber qué nivel de riesgo podemos asumir. Toda inversión está sujeta a un riesgo, normalmente cuanto más rentable pueda ser una inversión, mayor riesgo deberemos asumir. En los folletos de todos los productos de inversión que nos vamos a encontrar normalmente aparecerá un indicador de riesgo que suele ser un número indicativo de éste. Por ejemplo:
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/riesgo.png"/>
+</p>
+
+//TODO: Seguir aquí, indicar que solo hay que invertir el dinero que no se vaya a necesitar.
