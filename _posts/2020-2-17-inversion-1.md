@@ -49,4 +49,5 @@ Antes de contratar cualquier producto de inversión, es imprescindible saber qu�
 <img src="{{ site.baseurl }}/images/riesgo.png"/>
 </p>
 
-//TODO: Seguir aquí, indicar que solo hay que invertir el dinero que no se vaya a necesitar.
+¡Ojo! que lo que muestra el folleto del producto es el nivel de riesgo de dicho producto, ¡no nuestro nivel de riesgo!
+Si es la primera vez que vamos a invertir no tendremos ni idea de cual es nivel de riesgo que podemos tolerar. 
