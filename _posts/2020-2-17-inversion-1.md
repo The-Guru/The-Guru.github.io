@@ -4,7 +4,7 @@ title:  "La Inversión (I)"
 published: false
 ---
 
-Pues ya hemos llegado al tercer nivel de [La pirámide de la Educación Financiera]({% post_url 2020-1-22-piramide %}). Este tercer nivel lo he dividido en dos capítulos ya que hay bastante información que contar al respecto.
+Pues ya hemos llegado al tercer nivel de [La pirámide de la Educación Financiera]({% post_url 2020-1-22-piramide %}). Este tercer nivel lo he dividido en varias partes ya que hay bastante información que contar al respecto.
 
 # ¿Por qué invertir?
 
@@ -31,4 +31,12 @@ Lo vamos a ver más claro con un ejemplo. Imaginaros que invertimos un capital i
 <img src="{{ site.baseurl }}/images/interes-compuesto.png"/>
 </p>
 
-//TODO: Seguir aquí, explicar regla del 72 que vale para aportación inicial no para cuando vamos aportado todos los meses por ejemplo. 
+Como podemos observar en la tabla, a los 15 años habríamos doblado el capital inicial. En los 20 años que hemos considerado, habríamos ganado 16.533€ de intereses. Si en vez del compuesto, calculásemos el interés simple, serían 500€ al año x 20 años = 10.000€. La diferencia es significativa, un 65,33% más de intereses.
+
+Imaginemos ahora un caso más habitual. Vamos a ir haciendo aportaciones mensuales de unos 250€ lo que suponen unos 3000€ al año y que por ese dinero vamos a obtener una rentabilidad anual del 5%. Ahora viene lo bueno del interés compuesto. Supongamos que empezamos a los 42 años, y vamos a utilizar lo que acumulemos para nuestra jubilación, dentro de 25 años:
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/interes-compuesto2.png"/>
+</p>
+
+Al finalizar los 25 años, habríamos invertido 75.000€ (3.000€ × 25 años), y tendríamos 150.340€ en nuestra cuenta.
