@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La Inversión (I)"
-published: false
+published: true
 ---
 
 Pues ya hemos llegado al tercer nivel de [La pirámide de la Educación Financiera]({% post_url 2020-1-22-piramide %}). Este tercer nivel lo he dividido en varias partes ya que hay bastante información que contar al respecto.
@@ -39,4 +39,4 @@ Imaginemos ahora un caso más habitual. Vamos a ir haciendo aportaciones mensual
 <img src="{{ site.baseurl }}/images/interes-compuesto2.png"/>
 </p>
 
-Al finalizar los 25 años, habríamos invertido 75.000€ (3.000€ × 25 años), y tendríamos 150.340€ en nuestra cuenta.
+Al finalizar los 25 años, habríamos invertido 75.000€ (3.000€ × 25 años), y tendríamos 150.340€ en nuestra cuenta. Un gran complemento para nuestra pensión, ¿verdad?
