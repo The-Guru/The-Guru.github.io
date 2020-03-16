@@ -62,7 +62,7 @@ Mi consejo es empezar con un nivel **conservador** e ir ajustándolo hacia nivel
 <img src="{{ site.baseurl }}/images/caida-cartera.png"/>
 </p>
 
-Aunque no llevo ni un año invertido, empecé con un perfil conservador y lo fui ajustando hasta que la rentabilidad/riesgo me pareció adecuada. No es lo mismo saber el camino que andar el camino.
+Aunque no llevo ni un año invertido, empecé con un perfil conservador y lo fui ajustando hasta que la rentabilidad/riesgo me pareció adecuada. No es lo mismo conocer el camino que andar el camino.
 
 Otro concepto en el que creo que muchos inversores no saben interpretar correctamente es la **volatilidad**. La volatilidad viene a indicarnos cómo se "mueve" el precio de un activo en el tiempo. Así pues, cuanta más volatilidad muestre un activo, más rápidas y extremas será sus impredecibles fluctuaciones. Pero se trata simplemente de un valor *descriptivo*, en realidad no nos está diciendo nada sobre la naturaleza y riesgo del proceso subyacente que la produce. Por lo que considerar la volatilidad igual al nivel de riesgo es un concepto erróneo. El problema es que incluso la CNMV usa una escala de riesgo de entre 1 y 7 en función de la volatilidad para clasificar los fondos de inversión. Podríamos tener un fondo que perdiera todos los meses un 1% siendo su volatilidad de 0 y según la CNMV tendría un nivel de riesgo de 1. Para profundicar más en este tema os recomiendo leer [¿Volatilidad = Riesgo?](https://elinversorsobrio.com/volatilidad-≠-riesgo) de Marcos Pérez - [@Inversobrio](https://twitter.com/inversobrio)
 
