@@ -30,7 +30,7 @@ Lo vamos a ver más claro con un ejemplo. Imaginaros que invertimos un capital i
 <img src="{{ site.baseurl }}/images/interes-compuesto.png"/>
 </p>
 
-Como podemos observar en la tabla, a los 15 años habríamos doblado el capital inicial. En los 20 años que hemos considerado, habríamos ganado 16.533€ de intereses. Si en vez del compuesto, calculásemos el interés simple, serían 500€ al año x 20 años = 10.000€. La diferencia es significativa, un 65,33% más de intereses.
+Como podemos observar en la imagen, a los 15 años habríamos doblado el capital inicial. En los 20 años que hemos considerado, habríamos ganado 16.533€ de intereses. Si en vez del compuesto, calculásemos el interés simple, serían 500€ al año x 20 años = 10.000€. La diferencia es significativa, un 65,33% más de intereses.
 
 Imaginemos ahora un caso más habitual. Vamos a ir haciendo aportaciones mensuales de unos 250€ lo que suponen unos 3000€ al año y que por ese dinero vamos a obtener una rentabilidad anual del 5%. Ahora viene lo bueno del interés compuesto. Supongamos que empezamos a los 42 años, y vamos a utilizar lo que acumulemos para nuestra jubilación, dentro de 25 años:
 
@@ -55,7 +55,7 @@ Si es la primera vez que vamos a invertir no tendremos ni idea de cuál es el ni
 * Moderado (riesgo medio)
 * Agresivo (riesgo alto)
 
-Mi consejo es empezar con un nivel **conservador** e ir ajustándolo hacia niveles superiores en función de cómo vayamos tolerando el riesgo. Cuando el mercado está en una línea alcista es muy fácil sobreestimar nuestra tolerancia al riesgo y cuando llegue una bajada del mercado no aguantar la posible pérdida y querernos salir del mercado como está pasando ahora con la crisis del *Coronavirus* en la que muchos inversores están salíendose del mercado por no tener una perfil de riesgo adecuado. En mi caso, tengo un perfil de riesgo en el límite de lo moderado y estoy aguantando bien una caida de casi el 14% que tengo en mi cartera:
+Mi consejo es empezar con un nivel **conservador** e ir ajustándolo hacia niveles superiores en función de cómo vayamos tolerando el riesgo. Cuando el mercado está en una línea alcista es muy fácil sobreestimar nuestra tolerancia al riesgo y cuando llegue una bajada del mercado no aguantar la posible pérdida y querernos salir del mercado como está pasando ahora con la crisis del *Coronavirus* en la que muchos inversores están salíendose del mercado por no tener un perfil de riesgo adecuado. En mi caso, tengo un perfil de riesgo en el límite de lo moderado y estoy aguantando bien una caída de casi el 14% que tengo en mi cartera:
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/caida-cartera.png"/>
@@ -67,7 +67,7 @@ Otro concepto en el que creo que muchos inversores no saben interpretar correcta
 
 # ¿Gestión activa o gestión pasiva?
 
-Seguramente muchos de vosotros habréis oido los términos de *gestión activa* y *gestión pasiva* referido a productos de inversión. Voy a a explicar sus diferencias puesto que considero relevante que todo inversor entienda bien estos términos.
+Seguramente muchos de vosotros habréis oido los términos de *gestión activa* y *gestión pasiva* referido a productos de inversión. Voy a a explicar sus diferencias puesto que considero relevante que todo inversor entienda bien estos términos:
 
 * **Gestión activa**: Son productos comercializados por una gestora cuyo objetivo es batir al mercado, esto es, superar al índice de referencia. Tienen comisiones más altas puesto que hay un equipo detrás comprando y vendiendo activos con el objetivo de batir al mercado. Pueden obtener buenas rentabilidades a corto plazo. A largo plazo son muy pocos los productos de gestión activa que baten al mercado.
 
