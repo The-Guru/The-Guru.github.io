@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La Inversión (I)"
-published: false
+published: true
 ---
 
 Pues ya hemos llegado al tercer nivel de [La pirámide de la Educación Financiera]({% post_url 2020-1-22-piramide %}). Este tercer nivel lo he dividido en varias partes ya que hay bastante información que contar al respecto.
@@ -41,7 +41,7 @@ Imaginemos ahora un caso más habitual. Vamos a ir haciendo aportaciones mensual
 
 Al finalizar los 25 años, habríamos invertido 75.000€ (3.000€ × 25 años), y tendríamos 150.340€ en nuestra cuenta. Un gran complemento para nuestra pensión, ¿verdad?
 
-# El nivel de riesgo
+# El perfil de riesgo
 
 Antes de contratar cualquier producto de inversión, es imprescindible saber qué nivel de riesgo podemos asumir. Toda inversión está sujeta a un riesgo, normalmente cuanto más rentable pueda ser una inversión, mayor riesgo deberemos asumir. En los folletos de todos los productos de inversión que nos vamos a encontrar normalmente aparecerá un indicador de riesgo que suele ser un número indicativo de éste. Por ejemplo:
 
@@ -49,5 +49,17 @@ Antes de contratar cualquier producto de inversión, es imprescindible saber qu�
 <img src="{{ site.baseurl }}/images/riesgo.png"/>
 </p>
 
-¡Ojo! que lo que muestra el folleto del producto es el nivel de riesgo de dicho producto, ¡no nuestro nivel de riesgo!
-Si es la primera vez que vamos a invertir no tendremos ni idea de cual es nivel de riesgo que podemos tolerar. 
+¡Ojo! que lo que muestra el folleto del producto es el nivel de riesgo de dicho producto, ¡no nuestro perfil de riesgo!
+Si es la primera vez que vamos a invertir no tendremos ni idea de cuál es el nivel de riesgo que podemos tolerar. Para ello, tendremos que hacernos un perfil de riesgo. Normalmente, consiste en contestar una serie de preguntas como nuestra edad, ingresos, horizonte temporal de nuestra inversión, etc. Hay algunos productos que antes de contratarlos nos harán dicho perfil como es el caso de [Indexa Capital](https://indexacapital.com/es/questions) pero en general la mayoria de los inversores encajaremos en alguno de estos perfiles:
+
+* Conservador (riesgo bajo)
+* Moderado (riesgo medio)
+* Agresivo (riesgo alto)
+
+Mi consejo es empezar con un nivel **conservador** e ir ajustándolo hacia niveles superiores en función de cómo vayamos tolerando el riesgo. Cuando el mercado está en una línea alcista es muy fácil sobreestimar nuestra tolerancia al riesgo y cuando llegue una bajada del mercado no aguantar la posible pérdida y querernos salir del mercado como está pasando ahora con la crisis del *Coronavirus* en la que muchos inversores están salíendose del mercado por no tener una perfil de riesgo adecuado. En mi caso yo tengo un perfil de riesgo en el límite de lo moderado y estoy aguantando bien una caida de casi el 14% que tengo en mi cartera:
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/caida-cartera.png"/>
+</p>
+
+Aunque no llevo ni un año invertido, empecé con un perfil conservador y lo fui ajustando hasta que la rentabilidad/riesgo me pareció adecuada. No es lo mismo saber el camino que andar el camino.
