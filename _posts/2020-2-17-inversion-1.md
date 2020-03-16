@@ -76,3 +76,10 @@ Seguramente muchos de vosotros habréis oido los términos de *gestión activa* 
 
 # ¿Dónde invertir?
 
+Existen infinidad de productos financieros donde invertir nuestros ahorros. Pero habrá que elegir aquellos productos que:
+
+* Tengan bajas comisiones
+* Se ajusten a nuestro perfil de riesgo
+* Ofrezcan una buena rentabilidad a largo plazo
+
+Por lo general este tipo de productos suelen ser los **fondos indexados de gestión pasiva** puesto que tienen muy bajas comisiones, se ajustan a cualquier perfil de riesgo y suelen ofrecer una buena rentabilidad a largo plazo.
