@@ -56,7 +56,7 @@ Si es la primera vez que vamos a invertir no tendremos ni idea de cuál es el ni
 * Moderado (riesgo medio)
 * Agresivo (riesgo alto)
 
-Mi consejo es empezar con un nivel **conservador** e ir ajustándolo hacia niveles superiores en función de cómo vayamos tolerando el riesgo. Cuando el mercado está en una línea alcista es muy fácil sobreestimar nuestra tolerancia al riesgo y cuando llegue una bajada del mercado no aguantar la posible pérdida y querernos salir del mercado como está pasando ahora con la crisis del *Coronavirus* en la que muchos inversores están salíendose del mercado por no tener una perfil de riesgo adecuado. En mi caso yo tengo un perfil de riesgo en el límite de lo moderado y estoy aguantando bien una caida de casi el 14% que tengo en mi cartera:
+Mi consejo es empezar con un nivel **conservador** e ir ajustándolo hacia niveles superiores en función de cómo vayamos tolerando el riesgo. Cuando el mercado está en una línea alcista es muy fácil sobreestimar nuestra tolerancia al riesgo y cuando llegue una bajada del mercado no aguantar la posible pérdida y querernos salir del mercado como está pasando ahora con la crisis del *Coronavirus* en la que muchos inversores están salíendose del mercado por no tener una perfil de riesgo adecuado. En mi caso, tengo un perfil de riesgo en el límite de lo moderado y estoy aguantando bien una caida de casi el 14% que tengo en mi cartera:
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/caida-cartera.png"/>
@@ -66,9 +66,13 @@ Aunque no llevo ni un año invertido, empecé con un perfil conservador y lo fui
 
 Otro concepto en el que creo que muchos inversores no saben interpretar correctamente es la **volatilidad**. La volatilidad viene a indicarnos cómo se "mueve" el precio de un activo en el tiempo. Así pues, cuanta más volatilidad muestre un activo, más rápidas y extremas será sus impredecibles fluctuaciones. Pero se trata simplemente de un valor *descriptivo*, en realidad no nos está diciendo nada sobre la naturaleza y riesgo del proceso subyacente que la produce. Por lo que considerar la volatilidad igual al nivel de riesgo es un concepto erróneo. El problema es que incluso la CNMV usa una escala de riesgo de entre 1 y 7 en función de la volatilidad para clasificar los fondos de inversión. Podríamos tener un fondo que perdiera todos los meses un 1% siendo su volatilidad de 0 y según la CNMV tendría un nivel de riesgo de 1. Para profundicar más en este tema os recomiendo leer [¿Volatilidad = Riesgo?](https://elinversorsobrio.com/volatilidad-≠-riesgo) de Marcos Pérez - [@Inversobrio](https://twitter.com/inversobrio)
 
+# ¿Gestión activa o gestión pasiva?
+
+Seguramente muchos de vosotros habréis oido los términos de *gestión activa* y *gestión pasiva* referido a productos de inversión. Voy a a explicar sus diferencias puesto que considero relevante que todo inversor entienda bien estos términos.
+
+* **Gestión activa**: Son productos comercializados por una gestora cuyo objetivo es batir al mercado, esto es, superar al índice de referencia. Tienen comisiones más altas puesto que hay un equipo detrás comprando y vendiendo activos con el objetivo de batir al mercado. Pueden obtener buenas rentabilidades a corto plazo. A largo plazo son muy pocos los productos de gestión activa que baten al mercado.
+
+* **Gestión pasiva**: Son productos que replican un índice, es decir, obtienen la rentabilidad del índice que están replicando. Las comisiones son muy bajas debido a que normalmente el gestor del producto revisa la cartera de activos una vez al año. Son muy buenos instrumentos de inversión a largo plazo.
+
 # ¿Dónde invertir?
-
-
-
-
 
