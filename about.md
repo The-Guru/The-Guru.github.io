@@ -33,3 +33,7 @@ Los artículos que publico en este blog tratan principalmente sobre desarrollo d
 * Por correo en __ogbaro@gmail.com__
 * En [Twitter](https://twitter.com/ogbaro)
 * Puedes echarle un ojo a mi [LinkedIn](https://www.linkedin.com/in/ogbaro/) para saber más sobre los proyectos en los que he trabajado.
+
+## Aviso legal
+
+Este blog tiene una intención puramente educacional. No constituye una oferta ni solicitud de compra o venta de ningún producto financiero, ni las opiniones expresadas pueden ser consideradas como recomendaciones personalizadas de inversión o asesoramiento financiero. Por lo tanto, no se responsabiliza de las consecuencias de su uso y no acepta ninguna responsabilidad derivada de su contenido. Igualmente, no se responsabiliza de las opiniones o sugerencias expresadas por terceros en en los comentarios o las entradas escritas por firmas invitadas.
