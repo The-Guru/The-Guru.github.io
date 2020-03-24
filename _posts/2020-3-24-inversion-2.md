@@ -26,3 +26,6 @@ El patrimonio del fondo puede aumentar o disminuir por dos motivos:
 
 2. Variaciones en el mercado de los activos que componen la cartera del fondo. Estas fluctuaciones en la valoración de la cartera son las que determinan la obtención de resultados positivos o negativos para el fondo y, en consecuencia, para cada uno de los partícipes.
 
+**Es muy importante que entendamos que los resultados, ya sean beneficios o pérdidas, no los percibiremos de manera efectiva mientras nos mantengamos invertidos, esto es, no realicemos un reembolso de las participaciones**. El tratamiento fiscal de las participaciones en fondos de inversión resulta ventajoso porque **hasta el momento del reembolso no tributaremos por las plusvalías**.
+
+// TODO: Seguir aquí: Seguir leyendo el documento de la CNMV y hablar de la operación de traspaso y luego hablar de fondos de gestión activa y ya centrarnos en los de gestión pasiva. Seguir guión escrito
