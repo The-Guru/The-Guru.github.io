@@ -29,3 +29,21 @@ El patrimonio del fondo puede aumentar o disminuir por dos motivos:
 **Es muy importante que entendamos que los resultados, ya sean beneficios o pérdidas, no los percibiremos de manera efectiva mientras nos mantengamos invertidos, esto es, no realicemos un reembolso de las participaciones**. El tratamiento fiscal de las participaciones en fondos de inversión resulta ventajoso porque **hasta el momento del reembolso no tributaremos por las plusvalías**.
 
 A cambio de contar con una gestión profesional de nuestras inversiones, los partícipes pagamos ciertas comisiones que varían según los fondos (y que se detallan en su folleto explicativo), dentro de unos límites máximos fijados por la ley. Dichas comisiones suelen aparecer en el folleto con sus siglas en inglés **TER (Total Expense Ratio)** que es un porcentaje anual de todos los gastos que se descuenta diariamente del valor liquidativo de las participaciones.
+
+# Fondos indexados
+
+Son fondos de inversión que intentan replicar un índice bursátil determinado (por ejemplo el S&P 500, IBEX 35 etc.). La gestora es la que se encarga de comprar los activos que replican el índice en cuestión (por ejemplo la gestora Vanguard es una de las más famosas respecto de la gestión indexada) creando un fondo al que podemos suscribirnos y convertirnos en partícipes del mismo.
+
+Como ya vimos en el anterior capítulo, el objetivo de un fondo indexado es obtener la rentabilidad del índice que está replicando. Algunas ventajas de este vehículo de inversión son:
+
+* Bajos costes: Los fondos indexados suelen tener un TER bastante competitivo, sobre todo si los comparamos con fondos de gestión activa.
+
+* Seguimiento sencillo: Sólo tenemos que revisar el comportamiento general del índice al que el fondo está replicando.
+
+* De fácil contratación: Existen infinidad de bancos donde podemos contratarlos, así como, roboadvisors que por una pequeña comisión adicional al TER del fondo se encargan de automatizar aún más el proceso tanto de contratación como de gestión de la cartera de activos.
+
+# Antes de invertir...
+
+
+
+
