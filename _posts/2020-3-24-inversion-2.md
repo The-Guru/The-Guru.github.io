@@ -28,4 +28,4 @@ El patrimonio del fondo puede aumentar o disminuir por dos motivos:
 
 **Es muy importante que entendamos que los resultados, ya sean beneficios o pérdidas, no los percibiremos de manera efectiva mientras nos mantengamos invertidos, esto es, no realicemos un reembolso de las participaciones**. El tratamiento fiscal de las participaciones en fondos de inversión resulta ventajoso porque **hasta el momento del reembolso no tributaremos por las plusvalías**.
 
-// TODO: Seguir aquí: Seguir leyendo el documento de la CNMV y hablar de la operación de traspaso y luego hablar de fondos de gestión activa y ya centrarnos en los de gestión pasiva. Seguir guión escrito
+A cambio de contar con una gestión profesional de nuestras inversiones, los partícipes pagamos ciertas comisiones que varían según los fondos (y que se detallan en su folleto explicativo), dentro de unos límites máximos fijados por la ley. Dichas comisiones suelen aparecer en el folleto con sus siglas en inglés **TER (Total Expense Ratio)** que es un porcentaje anual de todos los gastos que se descuenta diariamente del valor liquidativo de las participaciones.
