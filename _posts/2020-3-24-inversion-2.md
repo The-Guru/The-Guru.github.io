@@ -34,7 +34,7 @@ A cambio de contar con una gestión profesional de nuestras inversiones, los par
 
 Son fondos de inversión que intentan replicar un índice bursátil determinado (por ejemplo el S&P 500, IBEX 35 etc.). La gestora es la que se encarga de comprar los activos que replican el índice en cuestión (por ejemplo la gestora Vanguard es una de las más famosas respecto de la gestión indexada) creando un fondo al que podemos suscribirnos y convertirnos en partícipes del mismo.
 
-Como ya vimos en el anterior capítulo, el objetivo de un fondo indexado es obtener la rentabilidad del índice que está replicando. Algunas ventajas de este vehículo de inversión son:
+Como ya vimos en el [anterior capítulo]({% post_url 2020-2-17-inversion-1 %}), el objetivo de un fondo indexado es obtener la rentabilidad del índice que está replicando. Algunas ventajas de este vehículo de inversión son:
 
 * Bajos costes: Los fondos indexados suelen tener un TER bastante competitivo, sobre todo si los comparamos con fondos de gestión activa.
 
@@ -43,7 +43,4 @@ Como ya vimos en el anterior capítulo, el objetivo de un fondo indexado es obte
 * De fácil contratación: Existen infinidad de bancos donde podemos contratarlos, así como, roboadvisors que por una pequeña comisión adicional al TER del fondo se encargan de automatizar aún más el proceso tanto de contratación como de gestión de la cartera de activos.
 
 # Antes de invertir...
-
-
-
 
