@@ -81,3 +81,7 @@ Un ejemplo de una cartera 60/40 diversificada podría ser:
 - Bonos Europeos ligados a la inflacción 23%
 - Bonos de Gobiernos Europeos 11%
 - Bonos de Empresas Europeas 6%
+
+Si observamos la distribución de la cartera, podríamos decir que estamos comprando "el mundo", una buena forma de diversificar y de estar preparados para un futuro incierto que desconocemos.
+
+TODO: Hablar de donde puedo contratar estos productos y poner mi enlace de invitación a Indexa Cápital. ¿Hablar del DCA vs Lump sun?
