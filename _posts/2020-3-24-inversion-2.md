@@ -63,7 +63,9 @@ Una vez elegida la estrategia con la que vamos a invertir en el mercado (en nues
 Una cartera se suele dividir en:
 
 * Activos arriesgados: Renta variable (acciones)
-* Activos sin riesgo: Bonos
+* Activos sin riesgo: Renta fija (bonos)
 
 Existen algunos métodos para elegir el porcentaje de cada uno de los activos que llevaremos en la cartera. Por ejemplo, el de restar 100 a nuestra edad y el resultado sería el porcentaje de activos arriesgados que deberíamos llevar en la cartera. Está claro que a mayor horizonte de inversión más riesgo deberíamos poder soportar. Aunque desde mi punto de vista no deberíamos llevar más de un 80% de activos de riesgo en la cartera. En mi caso, tengo una cartera 60/40. Como ya he comentado en anteriores ocasiones, es mejor empezar con una cartera más conservadora e ir adaptándola hacia una más arriesgada en función de nuestra tolerancia al riesgo. Y es que hasta que no pasemos por un mercado bajista, no vamos a saber a ciencia cierta cual será nuestra reacción a la pérdida de dinero.
+
+Hay que destacar que el ulterior propósito de nuestra cartera es que nos proteja del carácter imprevisible de los elementos. Como no sabemos que nos deparará el futuro, es muy importante **diversificar**, esto eso, repartir nuestra inversión en distintos activos con el fin de reducir riesgo sin renunciar a la rentabilidad.
 
