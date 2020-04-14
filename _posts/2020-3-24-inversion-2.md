@@ -69,3 +69,15 @@ Existen algunos métodos para elegir el porcentaje de cada uno de los activos qu
 
 Hay que destacar que el ulterior propósito de nuestra cartera es que nos proteja del carácter imprevisible de los elementos. Como no sabemos que nos deparará el futuro, es muy importante **diversificar**, esto eso, repartir nuestra inversión en distintos activos con el fin de reducir riesgo sin renunciar a la rentabilidad.
 
+Un ejemplo de una cartera 60/40 diversificada podría ser:
+
+* Renta Variable:
+- Acciones de Estados Unidos 30%
+- Acciones de Europa 15%
+- Acciones de Economías Emergentes 9%
+- Acciones de Japón 6%
+
+* Renta Fija:
+- Bonos Europeos ligados a la inflacción 23%
+- Bonos de Gobiernos Europeos 11%
+- Bonos de Empresas Europeas 6%
