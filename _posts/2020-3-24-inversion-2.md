@@ -58,4 +58,12 @@ Permitídme que haga un pequeño recordatoria de algunas cosas que tendríamos q
 
 # Asignación de activos (Asset Allocation)
 
-TODO: Seguir aquí... hablando de "los ladrillos", parte de riesgo de la cartera vs parte segura (acciones vs bonos) importancia de la diversificación. Regla del 100-la edad para sacar el % de Renta variable a llevar.
+Una vez elegida la estrategia con la que vamos a invertir en el mercado (en nuestro caso la indexación) es hora de conocer los "*ladrillos*" con los que contamos para configurar una buena cartera de inversión.
+
+Una cartera se suele dividir en:
+
+* Activos arriesgados: Renta variable (acciones)
+* Activos sin riesgo: Bonos
+
+Existen algunos métodos para elegir el porcentaje de cada uno de los activos que llevaremos en la cartera. Por ejemplo, el de restar 100 a nuestra edad y el resultado sería el porcentaje de activos arriesgados que deberíamos llevar en la cartera. Está claro que a mayor horizonte de inversión más riesgo deberíamos poder soportar. Aunque desde mi punto de vista no deberíamos llevar más de un 80% de activos de riesgo en la cartera. En mi caso, tengo una cartera 60/40. Como ya he comentado en anteriores ocasiones, es mejor empezar con una cartera más conservadora e ir adaptándola hacia una más arriesgada en función de nuestra tolerancia al riesgo. Y es que hasta que no pasemos por un mercado bajista, no vamos a saber a ciencia cierta cual será nuestra reacción a la pérdida de dinero.
+
