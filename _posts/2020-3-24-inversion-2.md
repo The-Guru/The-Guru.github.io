@@ -44,7 +44,7 @@ Como ya vimos en el [anterior capítulo]({% post_url 2020-2-17-inversion-1 %}), 
 
 # Antes de invertir...
 
-Permitídme que haga un pequeño recordatoria de algunas cosas que tendríamos que tener en cuenta antes de invertir:
+Permitídme que haga un pequeño resumen de algunas cosas que tendríamos que tener en cuenta antes de invertir:
 
 * Invertir sólamente capital que no vayamos a necesitar hasta dentro de 10 años o más, sabiendo que dicho capital podría llegar a perderse.
 
