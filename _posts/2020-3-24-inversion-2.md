@@ -86,7 +86,7 @@ Si observamos la distribución de la cartera, podríamos decir que estamos compr
 
 Para poder crearnos una cartera de este tipo existen varias entidades en las que podremos contratar los diferentes fondos. Como por ejemplo: [MyInvestor](https://myinvestor.es), [Self Bank](https://www.selfbank.es), [Open Bank](https://www.openbank.es), etc.
 
-Si lo que queremos es automatizar nuestra inversión, hacer nuestras aportaciones mensuales y olvidarnos, existe la opción de contratar un *roboadvisor*, que en función de nuestro perfil de riesgo se encargará de crearnos una cartera y gestionarla por nosotros. Personalmente creo que es una buena forma de empezar a invertir y ver un poco de que va todo esto. De hecho yo tengo una cuenta en [Indexa Capital](https://indexacapital.com/es/t/raIa2f) uno de los mejores roboadvisors que podemos contratar. Si os animáis a invertir con Indexa Capital y utilizáis el enlace que he puesto anteriormente, nos beneficiaremos de no pagar las comisiones de Indexa Capital sobre **10.000€** durante un año.
+Si lo que queremos es *automatizar* nuestra inversión, hacer nuestras aportaciones mensuales y olvidarnos, existe la opción de contratar un *roboadvisor*, que en función de nuestro perfil de riesgo se encargará de crearnos una cartera y gestionarla por nosotros. Personalmente creo que es una buena forma de empezar a invertir y ver un poco de que va todo esto. De hecho yo tengo una cuenta en [Indexa Capital](https://indexacapital.com/es/t/raIa2f) uno de los mejores roboadvisors que podemos contratar. Si os animáis a invertir con Indexa Capital y utilizáis el enlace que he puesto anteriormente, nos beneficiaremos de no pagar las comisiones de Indexa Capital sobre **10.000€** durante un año.
 
 # Rebalancear la cartera
 
