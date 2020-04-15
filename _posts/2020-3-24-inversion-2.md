@@ -90,7 +90,7 @@ Si lo que queremos es *automatizar* nuestra inversión, hacer nuestras aportacio
 
 # Rebalancear la cartera
 
-Como hemos visto, los activos que conforman una cartera de inversión tienen unos porcentajes asignados. Rebalancear la cartera consiste en devolver la cartera a su asignación de activos inicial después de que por el devenir de los mercados haya sufrido variaciones. Normalmente el rebalanceo de una cartera se suele hacer una vez cada 1 ó 2 años. Las ventajas de rebalancear la cartera son:
+Como hemos visto, los activos que conforman una cartera de inversión tienen unos porcentajes iniciales asignados. Rebalancear la cartera consiste en devolver la cartera a su asignación de activos inicial después de que por el devenir de los mercados haya sufrido variaciones. Normalmente el rebalanceo de una cartera se suele hacer una vez cada 1 ó 2 años. Las ventajas de rebalancear la cartera son:
 
 * Reduce el riesgo: Deja la cartera en su asignación de activos inicial, impidiendo que uno o varios activos tengan un percentaje superior al establecido, evitando mayor exposición al riesgo.
 
