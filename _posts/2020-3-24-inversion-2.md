@@ -96,4 +96,6 @@ Como hemos visto, los activos que conforman una cartera de inversión tienen uno
 
 * Aumenta la rentabilidad: Permite vender caro y comprar barato, esto es, vender los activos revalorizados por encima de lo deseado en nuestra distribución de activos, síntoma de que están caros, mientras que estamos comprando otros activos que están baratos (porque han perdido peso). Hay estudios que demuestran que el rebalanceo de una cartera puede llegar a añadir alrededor de un **0.5%** de rentabilidad adicional anual, respecto a una cartera que no se rebalancee.
 
-En mi caso al estar invertido con un roboadvisor, no me tengo que preocupar de hacer el rebalanceo de la cartera puesto que es el propio roboadvisor quien ser encarga de ello. Esta es otra de las ventajas de invertir a través de un roboadvisor.
+En mi caso al estar invertido con un roboadvisor, no me tengo que preocupar de hacer el rebalanceo de la cartera puesto que es el propio roboadvisor quien ser encarga de ello. Ésta es otra de las ventajas de invertir a través de un roboadvisor.
+
+# Lectura recomendada
