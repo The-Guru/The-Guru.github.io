@@ -99,3 +99,7 @@ Como hemos visto, los activos que conforman una cartera de inversión tienen uno
 En mi caso al estar invertido con un roboadvisor, no me tengo que preocupar de hacer el rebalanceo de la cartera puesto que es el propio roboadvisor quien ser encarga de ello. Ésta es otra de las ventajas de invertir a través de un roboadvisor.
 
 # Lectura recomendada
+
+* Os recomiendo que leáis el libro de William Bernstein: [Los cuatro pilares de la inversión](https://www.amazon.es/gp/product/8423425754/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) Un paseo por la teoría, historia, psicología y negocio de la inversión. Un libro imprescindible para cualquier inversor.
+
+¡Muchas gracias!
