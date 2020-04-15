@@ -62,8 +62,8 @@ Una vez elegida la estrategia con la que vamos a invertir en el mercado (en nues
 
 Una cartera se suele dividir en:
 
-* Activos arriesgados: Renta variable (acciones)
-* Activos sin riesgo: Renta fija (bonos)
+* *Activos arriesgados:* Renta variable (acciones)
+* *Activos sin riesgo:* Renta fija (bonos)
 
 Existen algunos métodos para elegir el porcentaje de cada uno de los activos que llevaremos en la cartera. Por ejemplo, el de restar 100 a nuestra edad y el resultado sería el porcentaje de activos arriesgados que deberíamos llevar en la cartera. Está claro que a mayor horizonte de inversión más riesgo deberíamos poder soportar. Aunque desde mi punto de vista no deberíamos llevar más de un 80% de activos de riesgo en la cartera. En mi caso, tengo una cartera 60/40. Como ya he comentado en anteriores ocasiones, es mejor empezar con una cartera más conservadora e ir adaptándola hacia una más arriesgada en función de nuestras necesidades y tolerancia al riesgo. Y es que hasta que no pasemos por un mercado bajista, no vamos a saber a ciencia cierta cual será nuestra reacción a la pérdida de dinero.
 
@@ -92,9 +92,9 @@ Si lo que queremos es *automatizar* nuestra inversión, hacer nuestras aportacio
 
 Como hemos visto, los activos que conforman una cartera de inversión tienen unos porcentajes iniciales asignados. Rebalancear la cartera consiste en devolver la cartera a su asignación de activos inicial después de que por el devenir de los mercados haya sufrido variaciones. Normalmente el rebalanceo de una cartera se suele hacer una vez cada 1 ó 2 años. Las ventajas de rebalancear la cartera son:
 
-* Reduce el riesgo: Deja la cartera en su asignación de activos inicial, impidiendo que uno o varios activos tengan un percentaje superior al establecido, evitando mayor exposición al riesgo.
+* *Reduce el riesgo:* Deja la cartera en su asignación de activos inicial, impidiendo que uno o varios activos tengan un percentaje superior al establecido, evitando mayor exposición al riesgo.
 
-* Aumenta la rentabilidad: Permite vender caro y comprar barato, esto es, vender los activos revalorizados por encima de lo deseado en nuestra distribución de activos, síntoma de que están caros, mientras que estamos comprando otros activos que están baratos (porque han perdido peso). Hay estudios que demuestran que el rebalanceo de una cartera puede llegar a añadir alrededor de un **0.5%** de rentabilidad adicional anual, respecto a una cartera que no se rebalancee.
+* *Aumenta la rentabilidad:* Permite vender caro y comprar barato, esto es, vender los activos revalorizados por encima de lo deseado en nuestra distribución de activos, síntoma de que están caros, mientras que estamos comprando otros activos que están baratos (porque han perdido peso). Hay estudios que demuestran que el rebalanceo de una cartera puede llegar a añadir alrededor de un **0.5%** de rentabilidad adicional anual, respecto a una cartera que no se rebalancee.
 
 En mi caso al estar invertido con un roboadvisor, no me tengo que preocupar de hacer el rebalanceo de la cartera puesto que es el propio roboadvisor quien ser encarga de ello. Ésta es otra de las ventajas de invertir a través de un roboadvisor.
 
