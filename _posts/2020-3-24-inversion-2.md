@@ -56,7 +56,7 @@ Permitídme que haga un pequeño recordatoria de algunas cosas que tendríamos q
 
 * Deja que el tiempo y el interés compuesto hagan su trabajo.
 
-# Asignación de activos (Asset Allocation)
+# Asignación de activos (asset allocation)
 
 Una vez elegida la estrategia con la que vamos a invertir en el mercado (en nuestro caso la indexación) es hora de conocer los "*ladrillos*" con los que contamos para configurar una buena cartera de inversión.
 
@@ -84,4 +84,9 @@ Un ejemplo de una cartera 60/40 diversificada podría ser:
 
 Si observamos la distribución de la cartera, podríamos decir que estamos comprando "*el mundo*", una buena forma de diversificar y de estar preparados para un futuro incierto que desconocemos.
 
-TODO: Hablar de donde puedo contratar estos productos y poner mi enlace de invitación a Indexa Cápital. ¿Hablar del DCA vs Lump sun?, ¿hablar del rebalanceo de carteras?
+Para poder crearnos una cartera de este tipo existen varias entidades en las que podremos adquirir los diferentes fondos. Como por ejemplo [MyInvestor](https://myinvestor.es), [Self Bank](https://www.selfbank.es), [Open Bank](https://www.openbank.es), etc.
+
+Si lo que queremos es automatizar nuestra inversión, hacer nuestras aportaciones mensuales y olvidarnos, existe la opción de contratar un *roboadvisor*, que en función de nuestro perfil de riesgo se encargará de crearnos una cartera y gestionarla por nosotros. Personalmente creo que es una buena forma de empezar a invertir y ver un poco de que va todo esto. De hecho yo tengo una cuenta en [Indexa Capital](https://indexacapital.com/es/t/raIa2f) uno de los mejores roboadvisors que podemos contratar. Si os animáis a invertir con Indexa Capital y utilizáis el enlace que he puesto anteriormente, nos beneficiaremos de no pagar las comisiones de Indexa Capital sobre 10.000€ durante un año.
+
+# Rebalancear la cartera
+
