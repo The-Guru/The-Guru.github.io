@@ -69,24 +69,31 @@ Existen algunos métodos para elegir el porcentaje de cada uno de los activos qu
 
 Hay que destacar que el ulterior propósito de nuestra cartera es que nos proteja del carácter imprevisible de los elementos. Como no sabemos que nos deparará el futuro, es muy importante **diversificar**, esto eso, repartir nuestra inversión en distintos activos con el fin de reducir riesgo sin renunciar a la rentabilidad.
 
-Un ejemplo de una cartera 60/40 diversificada podría ser:
+Un ejemplo de una **cartera 60/40** diversificada podría ser:
 
-* Renta Variable:
+* **Renta variable:**
 - Acciones de Estados Unidos 30%
 - Acciones de Europa 15%
 - Acciones de Economías Emergentes 9%
 - Acciones de Japón 6%
 
-* Renta Fija:
+* **Renta fija:**
 - Bonos Europeos ligados a la inflacción 23%
 - Bonos de Gobiernos Europeos 11%
 - Bonos de Empresas Europeas 6%
 
 Si observamos la distribución de la cartera, podríamos decir que estamos comprando "*el mundo*", una buena forma de diversificar y de estar preparados para un futuro incierto que desconocemos.
 
-Para poder crearnos una cartera de este tipo existen varias entidades en las que podremos adquirir los diferentes fondos. Como por ejemplo [MyInvestor](https://myinvestor.es), [Self Bank](https://www.selfbank.es), [Open Bank](https://www.openbank.es), etc.
+Para poder crearnos una cartera de este tipo existen varias entidades en las que podremos adquirir los diferentes fondos. Como por ejemplo: [MyInvestor](https://myinvestor.es), [Self Bank](https://www.selfbank.es), [Open Bank](https://www.openbank.es), etc.
 
-Si lo que queremos es automatizar nuestra inversión, hacer nuestras aportaciones mensuales y olvidarnos, existe la opción de contratar un *roboadvisor*, que en función de nuestro perfil de riesgo se encargará de crearnos una cartera y gestionarla por nosotros. Personalmente creo que es una buena forma de empezar a invertir y ver un poco de que va todo esto. De hecho yo tengo una cuenta en [Indexa Capital](https://indexacapital.com/es/t/raIa2f) uno de los mejores roboadvisors que podemos contratar. Si os animáis a invertir con Indexa Capital y utilizáis el enlace que he puesto anteriormente, nos beneficiaremos de no pagar las comisiones de Indexa Capital sobre 10.000€ durante un año.
+Si lo que queremos es automatizar nuestra inversión, hacer nuestras aportaciones mensuales y olvidarnos, existe la opción de contratar un *roboadvisor*, que en función de nuestro perfil de riesgo se encargará de crearnos una cartera y gestionarla por nosotros. Personalmente creo que es una buena forma de empezar a invertir y ver un poco de que va todo esto. De hecho yo tengo una cuenta en [Indexa Capital](https://indexacapital.com/es/t/raIa2f) uno de los mejores roboadvisors que podemos contratar. Si os animáis a invertir con Indexa Capital y utilizáis el enlace que he puesto anteriormente, nos beneficiaremos de no pagar las comisiones de Indexa Capital sobre **10.000€** durante un año.
 
 # Rebalancear la cartera
 
+Como hemos visto, los activos que conforman una cartera de inversión tienen unos porcentajes asignados. Rebalancear la cartera consiste en devolver la cartera a su asignación de activos inicial después de que por el devenir de los mercados haya sufrido variaciones. Normalmente el rebalanceo de una cartera se suele hacer una vez cada 1 ó 2 años. Las ventajas de rebalancear la cartera son:
+
+* Reduce el riesgo: Deja la cartera en su asignación de activos inicial, impidiendo que uno o varios activos tengan un percentaje superior al establecido, evitando mayor exposición al riesgo.
+
+* Aumenta la rentabilidad: Permite vender caro y comprar barato, esto es, vender los activos revalorizados por encima de lo deseado en nuestra distribución de activos, síntoma de que están caros, mientras que estamos comprando otros activos que están baratos (porque han perdido peso). Hay estudios que demuestran que el rebalanceo de una cartera puede llegar a añadir alrededor de un **0.5%** de rentabilidad adicional anual, respecto a una cartera que no se rebalancee.
+
+En mi caso al estar invertido con un roboadvisor, no me tengo que preocupar de hacer el rebalanceo de la cartera puesto que es el propio roboadvisor quien ser encarga de ello. Esta es otra de las ventajas de invertir a través de un roboadvisor.
