@@ -52,7 +52,7 @@ Permitídme que haga un pequeño resumen de algunas cosas que tendríamos que te
 
 * Mantener los costes siempre lo más bajo posible. Mi recomendación es fijarse en fondos indexados cuyo TER esté por debajo del 1%. Además, no hay que olvidarse de la inflacción. La mayoría de gráficos de los fondos indexados muestran la **rentabilidad nominal**, esto es, la rentabilidad sin tener en cuenta la inflacción. De ahí la importancia de mantener los costes lo más bajo posible.
 
-* Mantener el rumbo (stay the course que dería John Bogle) En nuestra vida como inversores a largo plazo nos veremos envueltos en más de un mercado bajista. En estos momentos es cuando hay que ¡tener la cabeza fría y mantener el rumbo!. Por favor, no hagas rembolsos de tus inversiones, es el peor momento para hacerlo.
+* Mantener el rumbo (*stay the course* que dería John Bogle) En nuestra vida como inversores a largo plazo nos veremos envueltos en más de un mercado bajista. En estos momentos es cuando hay que ¡tener la cabeza fría y mantener el rumbo!. Por favor, no hagas rembolsos de tus inversiones, es el peor momento para hacerlo.
 
 * Deja que el tiempo y el interés compuesto hagan su trabajo.
 
