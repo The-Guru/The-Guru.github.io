@@ -22,9 +22,9 @@ La unidad de inversión es la **participación**. Su precio o valor de mercado e
 
 El patrimonio del fondo puede aumentar o disminuir por dos motivos:
 
-1. Entradas o salidas de partícipes: los fondos de inversión son instituciones de carácter abierto, es decir, en general cualquier inversor puede entrar o salir del fondo según su conveniencia, comprando o vendiendo participaciones. La compra de participaciones se denomina **subscripción**, y la venta supone un **reembolso**, parcial o total, de la cantidad invertida. Por tanto, el número de participaciones en circulación varía constantemente, a medida que los inversores entran o salen del fondo.
+1. *Entradas o salidas de partícipes:* los fondos de inversión son instituciones de carácter abierto, es decir, en general cualquier inversor puede entrar o salir del fondo según su conveniencia, comprando o vendiendo participaciones. La compra de participaciones se denomina **subscripción**, y la venta supone un **reembolso**, parcial o total, de la cantidad invertida. Por tanto, el número de participaciones en circulación varía constantemente, a medida que los inversores entran o salen del fondo.
 
-2. Variaciones en el mercado de los activos que componen la cartera del fondo. Estas fluctuaciones en la valoración de la cartera son las que determinan la obtención de resultados positivos o negativos para el fondo y, en consecuencia, para cada uno de los partícipes.
+2. *Variaciones en el mercado de los activos que componen la cartera del fondo:* Estas fluctuaciones en la valoración de la cartera son las que determinan la obtención de resultados positivos o negativos para el fondo y, en consecuencia, para cada uno de los partícipes.
 
 **Es muy importante que entendamos que los resultados, ya sean beneficios o pérdidas, no los percibiremos de manera efectiva mientras nos mantengamos invertidos, esto es, no realicemos un reembolso de las participaciones**. El tratamiento fiscal de las participaciones en fondos de inversión resulta ventajoso porque **hasta el momento del reembolso no tributaremos por las plusvalías**.
 
@@ -36,11 +36,11 @@ Son fondos de inversión que intentan replicar un índice bursátil determinado 
 
 Como ya vimos en el [anterior capítulo]({% post_url 2020-2-17-inversion-1 %}), el objetivo de un fondo indexado es obtener la rentabilidad del índice que está replicando. Algunas ventajas de este vehículo de inversión son:
 
-* Bajos costes: Los fondos indexados suelen tener un TER bastante competitivo, sobre todo si los comparamos con fondos de gestión activa.
+* *Bajos costes:* Los fondos indexados suelen tener un TER bastante competitivo, sobre todo si los comparamos con fondos de gestión activa.
 
-* Seguimiento sencillo: Sólo tenemos que revisar el comportamiento general del índice al que el fondo está replicando.
+* *Seguimiento sencillo:* Sólo tenemos que revisar el comportamiento general del índice al que el fondo está replicando.
 
-* De fácil contratación: Existen infinidad de bancos donde podemos contratarlos, así como, roboadvisors que por una pequeña comisión adicional al TER del fondo se encargan de automatizar aún más el proceso tanto de contratación como de gestión de la cartera de activos.
+* *De fácil contratación:* Existen infinidad de entidades donde podemos contratarlos, así como, roboadvisors que por una pequeña comisión adicional al TER del fondo se encargan de automatizar aún más el proceso tanto de contratación como de gestión de la cartera de activos.
 
 # Antes de invertir...
 
@@ -100,6 +100,6 @@ En mi caso al estar invertido con un roboadvisor, no me tengo que preocupar de h
 
 # Lectura recomendada
 
-* Os recomiendo que leáis el libro de William Bernstein: [Los cuatro pilares de la inversión](https://www.amazon.es/gp/product/8423425754/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) Un paseo por la teoría, historia, psicología y negocio de la inversión. Un libro imprescindible para cualquier inversor.
+* Os recomiendo que leáis el libro de William Bernstein: [Los cuatro pilares de la inversión](https://www.amazon.es/gp/product/8423425754/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1). Un paseo por la teoría, historia, psicología y negocio de la inversión. Un libro imprescindible para cualquier inversor.
 
 ¡Muchas gracias!
