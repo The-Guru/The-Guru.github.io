@@ -17,9 +17,9 @@ Siempre que nos marcamos un objetivo solemos subestimar el tiempo que nos llevar
 Y es que a veces olvidamos el poder de *una acción* en el tiempo. Algunos ejemplos:
 
 * Lectura de libros
-  * Suponiendo que un libro tiene de media 250 páginas, si leyésemos 25 páginas al día, podríamos leer un libro cada 10 días, 3 libros al mes, 36 libros al año.
+  * Suponiendo que un libro tiene de media 250 páginas, si leyéramos 25 páginas al día, podríamos leer un libro cada 10 días, 3 libros al mes, **36 libros al año**.
 * Ejercicio
-  * Si hiciésemos 10 flexiones cada hora, una media de 10 horas al día, tendríamos 100 flexiones al día, 700 a la semana, 2800 flexiones al mes.
+  * Si hiciésemos 10 flexiones cada hora, una media de 10 horas al día, haríamos 100 flexiones al día, 700 a la semana, **2800 flexiones al mes**.
 
 # El tiempo en las inversiones
 - El interés compuesto
