@@ -14,7 +14,7 @@ Siempre que nos marcamos un objetivo solemos subestimar el tiempo que nos llevar
   * Lo que solemos hacer: Muchos ejercicios de cardio (correr, elíptica, etc.), dietas muy restrictivas, consumir suplementos *mágicos*. Resultado: Pérdida de peso en el corto plazo imposible de sostener a largo plazo que nos lleva a un sentimiento de frustración.
   * Cómo debería hacerse: Planear un deficit calórico para una pérdida de grasa corporal de entre 0,5kg a un 1kg a la semana consumiendo buenas fuentes de proteina y que nos permita generar una buena adherencia al plan. Entrenamiento de fuerza (sentadillas, zancadas, flexiones, etc) y menos ejercicios de cardio. Medir el progreso y ajustar el plan según los objetivos marcados. Resultado: Consecución del objetivo de pérdida de grasa al poder haber mantenido el plan en el tiempo.
 
-Y es que a veces olvidamos el poder de *una acción* en el tiempo. Algunos ejemplos:
+Y es que, a veces, olvidamos el poder de *una acción* en el tiempo. Algunos ejemplos:
 
 * Lectura de libros
   * Suponiendo que un libro tiene de media 250 páginas, si leyéramos 25 páginas al día, podríamos leer un libro cada 10 días, 3 libros al mes, **36 libros al año**.
@@ -22,6 +22,9 @@ Y es que a veces olvidamos el poder de *una acción* en el tiempo. Algunos ejemp
   * Si hiciésemos 10 flexiones cada hora, una media de 10 horas al día, haríamos 100 flexiones al día, 700 a la semana, **2800 flexiones al mes**.
 
 # El tiempo en las inversiones
+
+- TODO: Seguir aquí mostrando la imagen del valor de 1$ en el tiempo en el mercado bursatil de EEUU
+
 - El interés compuesto
 - Invertir tiene que ser aburrido
 
