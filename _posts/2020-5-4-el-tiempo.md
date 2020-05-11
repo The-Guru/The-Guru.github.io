@@ -32,7 +32,7 @@ Por ejemplo, la gráfica que se muestra a continuación demuestra que **1 dólar
 
 Obviamente la gráfica no tiene en cuenta las posibles comisiones e impuestos que hubiera tenido dicha inversión, pero si nos sirve para mostrar el potencial de una inversión mantenida en el tiempo junto con la aplicación del interés compuesto.
 
-En el fondo **invertir debería ser algo aburrido**, es decir, podría reducirse a tener una aportación mensual programada y dejar pasar el tiempo hasta que se cumpla nuestro objetivo. Teniendo siempre en cuenta que durante el camino nos encontraremos con mercados tanto alcistas como bajistas y que como pasa cuando se está perdiendo peso... hay que ceñirse al plan establecido hasta llegar al objetivo.
+En el fondo **invertir debería ser algo aburrido**, es decir, podría reducirse a tener una aportación mensual programada a un fondeo de inversión y dejar pasar el tiempo hasta que se cumpla nuestro objetivo. Teniendo siempre en cuenta que durante el camino nos encontraremos con mercados tanto alcistas como bajistas y que como pasa cuando se está perdiendo peso... hay que ceñirse al plan establecido hasta llegar al objetivo.
 
 # Lectura recomendada
 
