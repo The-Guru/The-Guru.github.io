@@ -24,7 +24,7 @@ Y es que, a veces, olvidamos el poder de *una acción* en el tiempo. Algunos eje
 # El tiempo en las inversiones
 
 Al igual que para perder peso, en las inversiones, tambíen necesitamos que pase el tiempo para obtener rentabilidades.
-Por ejemplo, la gráfcia que se muestra a continuación demuestra que 1 Dólar invertido en el mercado bursatil de Estados Unidos en el año 1790 habría aumentado hasta los 23 millones de dólares en el año 2000.
+Por ejemplo, la gráfcia que se muestra a continuación demuestra que **1 dólar** invertido en el mercado bursatil de Estados Unidos en el año 1790 habría aumentado hasta los **23 millones de dólares** en el año 2000.
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/valor-dollar.jpg"/>
@@ -32,4 +32,4 @@ Por ejemplo, la gráfcia que se muestra a continuación demuestra que 1 Dólar i
 
 Obviamente la gráfica no tiene en cuenta las posibles comisiones e impuestos que hubiera tenido dicha inversión, pero si nos sirve para mostrar el potencial de una inversión mantenida en el tiempo junto con la aplicación del interés compuesto.
 
-En el fondo invertir debería ser algo aburrido, es decir, podría reducirse a tener una aportación mensual programada y dejar pasar el tiempo hasta que se cumpla nuestro objetivo. Teniendo siempre en cuenta que durante el camino nos encontraremos con mercados tanto alcistas como bajistas y que como pasa cuando se está perdiendo peso... hay que ceñirse al plan establecido hasta llegar al objetivo.
+En el fondo **invertir debería ser algo aburrido**, es decir, podría reducirse a tener una aportación mensual programada y dejar pasar el tiempo hasta que se cumpla nuestro objetivo. Teniendo siempre en cuenta que durante el camino nos encontraremos con mercados tanto alcistas como bajistas y que como pasa cuando se está perdiendo peso... hay que ceñirse al plan establecido hasta llegar al objetivo.
