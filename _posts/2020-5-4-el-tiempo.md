@@ -33,3 +33,9 @@ Por ejemplo, la gráfcia que se muestra a continuación demuestra que **1 dólar
 Obviamente la gráfica no tiene en cuenta las posibles comisiones e impuestos que hubiera tenido dicha inversión, pero si nos sirve para mostrar el potencial de una inversión mantenida en el tiempo junto con la aplicación del interés compuesto.
 
 En el fondo **invertir debería ser algo aburrido**, es decir, podría reducirse a tener una aportación mensual programada y dejar pasar el tiempo hasta que se cumpla nuestro objetivo. Teniendo siempre en cuenta que durante el camino nos encontraremos con mercados tanto alcistas como bajistas y que como pasa cuando se está perdiendo peso... hay que ceñirse al plan establecido hasta llegar al objetivo.
+
+# Lectura recomendada
+
+* Esta vez os voy a recomendar un libro que me ha parecido increible respecto a como crear buenos hábitos, mantenerlos en el tiempo y deshacernos de los malos. Es el libro de James Clear: [Atomic Habits](https://www.amazon.es/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1589187479&sr=8-1)
+
+¡Muchas gracias!
