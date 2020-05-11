@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La cúspide de la pirámide: El Tiempo"
-published: false
+published: true
 ---
 
 Y llegamos al último árticulo de la serie de [la pirámide de la Educación Financiera]({% post_url 2020-1-22-piramide %}). La cúspide de dicha pirámide. El tiempo. 
@@ -34,11 +34,14 @@ Obviamente la gráfica no tiene en cuenta las posibles comisiones e impuestos qu
 
 En el fondo **invertir debería ser algo aburrido**, es decir, podría reducirse a tener una aportación mensual programada y dejar pasar el tiempo hasta que se cumpla nuestro objetivo. Teniendo siempre en cuenta que durante el camino nos encontraremos con mercados tanto alcistas como bajistas y que como pasa cuando se está perdiendo peso... hay que ceñirse al plan establecido hasta llegar al objetivo.
 
-# Palabras finales sobre la pirámide de la educación financiera
-
-
 # Lectura recomendada
 
 * Esta vez os voy a recomendar un libro que me ha parecido increible respecto a como crear buenos hábitos, mantenerlos en el tiempo y deshacernos de los malos. Es el libro de James Clear: [Atomic Habits](https://www.amazon.es/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1589187479&sr=8-1)
+
+# Palabras finales sobre La pirámide de la Educación Financiera
+
+Mi objetivo durante estos 6 artículos ha sido mostraros que aprender los conceptos básicos de una buena educación financiera está al alcance de cualquiera. Siempre teniendo clara la importancia y el ordern de los diferentes niveles (ingresos, ahorro, inversión y tiempo) de la pirámide estaremos mucho más capacitadados para gestionar nuestras finanzas y de plantearnos objetivos que de otro modo ni se nos hubieran pasado por la cabeza.
+
+Me gustaría pediros un poco de feedback respecto a esta serie de artículos, así como, del blog en general. ¿Os gustaría que siguiera publicando artículos sobre eduación financiera? ¿Preferís algo sobre empredimiento?. Podéis dejar vuestro feedback en los comentarios de este artículo, mandándome un e-mail, por Twitter, etc.
 
 ¡Muchas gracias!
