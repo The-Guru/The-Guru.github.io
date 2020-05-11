@@ -40,7 +40,7 @@ En el fondo **invertir debería ser algo aburrido**, es decir, podría reducirse
 
 # Palabras finales sobre La pirámide de la Educación Financiera
 
-Mi objetivo durante estos 6 artículos ha sido mostraros que aprender los conceptos básicos de una buena educación financiera está al alcance de cualquiera. Siempre teniendo clara la importancia y el ordern de los diferentes niveles (ingresos, ahorro, inversión y tiempo) de la pirámide estaremos mucho más capacitadados para gestionar nuestras finanzas y de plantearnos objetivos que de otro modo ni se nos hubieran pasado por la cabeza.
+Mi objetivo durante estos 6 artículos ha sido mostraros que aprender los conceptos básicos de una buena educación financiera está al alcance de cualquiera. Siempre teniendo clara la importancia y el orden de los diferentes niveles (ingresos, ahorro, inversión y tiempo) de la pirámide estaremos mucho más capacitadados para gestionar nuestras finanzas y de plantearnos objetivos que, de otro modo, ni se nos hubieran pasado por la cabeza.
 
 Me gustaría pediros un poco de feedback respecto a esta serie de artículos, así como, del blog en general. ¿Os gustaría que siguiera publicando artículos sobre eduación financiera? ¿Preferís algo sobre empredimiento?. Podéis dejar vuestro feedback en los comentarios de este artículo, mandándome un e-mail, por Twitter, etc.
 
