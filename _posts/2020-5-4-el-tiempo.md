@@ -24,6 +24,8 @@ Y es que, a veces, olvidamos el poder de *una acción* en el tiempo. Algunos eje
 # El tiempo en las inversiones
 
 Al igual que para perder peso, en las inversiones, tambíen necesitamos que pase el tiempo para obtener rentabilidades.
+Por ejemplo, la gráfcia que se muestra a continuación demuestra que 1 Dólar invertido en el mercado bursatil de Estados Unidos en el año 1790 habría aumentado hasta los 23 millones de dólares en el año 2000.
+
 
 
 - El interés compuesto
