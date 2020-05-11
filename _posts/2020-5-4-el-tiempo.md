@@ -27,10 +27,9 @@ Al igual que para perder peso, en las inversiones, tambíen necesitamos que pase
 Por ejemplo, la gráfcia que se muestra a continuación demuestra que 1 Dólar invertido en el mercado bursatil de Estados Unidos en el año 1790 habría aumentado hasta los 23 millones de dólares en el año 2000.
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/valor-dollar.png"/>
+<img src="{{ site.baseurl }}/images/valor-dollar.jpg"/>
 </p>
 
-- El interés compuesto
-- Invertir tiene que ser aburrido
+Obviamente la gráfica no tiene en cuenta las posibles comisiones e impuestos que hubiera tenido dicha inversión, pero si nos sirve para mostrar el potencial de una inversión mantenida en el tiempo junto con la aplicación del interés compuesto.
 
-# La importancia de los hábitos
+En el fondo invertir debería ser algo aburrido, es decir, podría reducirse a tener una aportación mensual programada y dejar pasar el tiempo hasta que se cumpla nuestro objetivo. Teniendo siempre en cuenta que durante el camino nos encontraremos con mercados tanto alcistas como bajistas y que como pasa cuando se está perdiendo peso... hay que ceñirse al plan establecido hasta llegar al objetivo.
