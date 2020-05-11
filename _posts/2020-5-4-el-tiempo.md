@@ -26,7 +26,9 @@ Y es que, a veces, olvidamos el poder de *una acción* en el tiempo. Algunos eje
 Al igual que para perder peso, en las inversiones, tambíen necesitamos que pase el tiempo para obtener rentabilidades.
 Por ejemplo, la gráfcia que se muestra a continuación demuestra que 1 Dólar invertido en el mercado bursatil de Estados Unidos en el año 1790 habría aumentado hasta los 23 millones de dólares en el año 2000.
 
-
+<p align="center">
+<img src="{{ site.baseurl }}/images/valor-dollar.png"/>
+</p>
 
 - El interés compuesto
 - Invertir tiene que ser aburrido
