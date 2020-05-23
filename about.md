@@ -30,7 +30,7 @@ Los artículos que publico en este blog tratan principalmente sobre desarrollo d
 
 ## Contacto
 
-* Por correo en __ogbaro@gmail.com__
+* Por correo en [ogbaro@gmail.com](mailto:ogbaro@gmail.com)
 * En [Twitter](https://twitter.com/ogbaro)
 * Puedes echarle un ojo a mi [LinkedIn](https://www.linkedin.com/in/ogbaro/) para saber más sobre los proyectos en los que he trabajado.
 
