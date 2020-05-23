@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacidad
+title: Política de Privacidad - Privacy Policy
 permalink: /privacy/
 ---
 
