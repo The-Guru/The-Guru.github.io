@@ -50,3 +50,5 @@ Es importante destacar de este ejemplo, que la partida dedicada al fondo de emer
 * También os recomiendo la lectura del libro de George S. Clason: [El Hombre más rico de Babilonia](https://www.amazon.es/Hombre-más-rico-Babilonia-Obelisco/dp/8491114548/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=2LE5J5MGB0VKD&keywords=el+hombre+más+rico+de+babilonia&qid=1580930302&sprefix=el+hombre+más+ri%2Caps%2C153&sr=8-1) A través de una serie de historias que ocurren en la antigua Babilonia, George nos explicará los principios fundamentales que necesitaremos para triunfar en el terreno financiero. 
 
 ¡Muchas gracias!
+
+[Siguiente capítulo -> La Inversión (I)]({% post_url 2020-2-17-inversion-1 %})
