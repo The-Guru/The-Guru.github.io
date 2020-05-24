@@ -4,7 +4,7 @@ title:  "La cúspide de la pirámide: El Tiempo"
 published: true
 ---
 
-Y llegamos al último árticulo de la serie de [La pirámide de la Educación Financiera]({% post_url 2020-1-22-piramide %}). La cúspide de dicha pirámide. El tiempo. 
+Y llegamos al último capítulo de la serie de [La pirámide de la Educación Financiera]({% post_url 2020-1-22-piramide %}). La cúspide de dicha pirámide. El tiempo. 
 
 # La importancia del tiempo en el resultado de nuestros objetivos
 
@@ -40,7 +40,7 @@ En el fondo **invertir debería ser algo aburrido**, es decir, podría reducirse
 
 # Palabras finales sobre La pirámide de la Educación Financiera
 
-Mi objetivo durante estos 6 artículos ha sido mostraros que aprender los conceptos básicos de una buena educación financiera está al alcance de cualquiera. Siempre teniendo clara la importancia y el orden de los diferentes niveles (ingresos, ahorro, inversión y tiempo) de la pirámide estaremos mucho más capacitadados para gestionar nuestras finanzas y de plantearnos objetivos que, de otro modo, ni se nos hubieran pasado por la cabeza.
+Mi objetivo durante estos 6 capítulos ha sido mostraros que aprender los conceptos básicos de una buena educación financiera está al alcance de cualquiera. Siempre teniendo clara la importancia y el orden de los diferentes niveles (ingresos, ahorro, inversión y tiempo) de la pirámide estaremos mucho más capacitadados para gestionar nuestras finanzas y de plantearnos objetivos que, de otro modo, ni se nos hubieran pasado por la cabeza.
 
 Me gustaría pediros un poco de feedback respecto a esta serie de artículos, así como, del blog en general. ¿Os gustaría que siguiera publicando artículos sobre eduación financiera? ¿Preferís algo sobre empredimiento?. Podéis dejar vuestro feedback en los comentarios, mandándome un e-mail, por Twitter, etc.
 
