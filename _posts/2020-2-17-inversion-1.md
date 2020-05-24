@@ -88,3 +88,5 @@ Por lo general este tipo de productos suelen ser los **fondos indexados de gesti
 * Os recomiendo que leáis el libro de John C. Bogle: [El pequeño libro para invertir con sentido común](https://www.amazon.es/pequeño-libro-invertir-sentido-común/dp/8423425401/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=1P3H9FBOQBEO5&keywords=el+pequeño+libro+para+invertir+con+sentido+común&qid=1584373216&sprefix=el+pequeño+libro+para+i%2Caps%2C155&sr=8-1) buena introducción a la inversión indexada.
 
 ¡Muchas gracias!
+
+[Siguiente capítulo -> La Inversión (II)]({% post_url 2020-3-24-inversion-2 %})
