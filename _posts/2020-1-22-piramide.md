@@ -28,4 +28,4 @@ Los siguientes artículos del blog estarán dedicados a cada uno de los niveles 
 
 ¡Muchas gracias!
 
-[La base de la pirámide: Los Ingresos]({% post_url 2020-1-27-los-ingresos %})
+[Siguiente capítulo -> La base de la pirámide: Los Ingresos]({% post_url 2020-1-27-los-ingresos %})
