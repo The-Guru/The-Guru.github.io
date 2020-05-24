@@ -35,3 +35,5 @@ La mayoría de nosotros la parte de los ingresos activos la tenemos controlada (
 Os recomiendo que leáis el libro de *Robert T. Kiyosaki*: [Padre Rico, padre Pobre](https://www.amazon.es/Padre-Rico-padre-Pobre-enseñan/dp/846633212X/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=3CUSVMIWDM2GH&keywords=padre+rico+padre+pobre+en+español&qid=1580139058&sprefix=padre+ri%2Caps%2C149&sr=8-1) es un clásico que me abrió los ojos respecto al tema de la educación financiera.
 
 ¡Muchas gracias!
+
+[Siguiente capítulo -> Ascendiendo por la pirámide: El Ahorro]({% post_url 2020-2-3-el-ahorro %})
