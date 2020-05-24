@@ -27,3 +27,5 @@ Donde el más importante es la base, es decir, __los ingresos__.
 Los siguientes artículos del blog estarán dedicados a cada uno de los niveles de la pirámide empezando por la base.
 
 ¡Muchas gracias!
+
+[La base de la pirámide: Los Ingresos]({% post_url 2020-1-27-los-ingresos %})
