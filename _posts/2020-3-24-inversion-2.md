@@ -103,3 +103,5 @@ En mi caso al estar invertido con un roboadvisor, no me tengo que preocupar de h
 * Os recomiendo que leáis el libro de William Bernstein: [Los cuatro pilares de la inversión](https://www.amazon.es/gp/product/8423425754/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1). Un paseo por la teoría, historia, psicología y negocio de la inversión. Un libro imprescindible para cualquier inversor.
 
 ¡Muchas gracias!
+
+[Siguiente capítulo -> La cúspide de la pirámide: El Tiempo]({% post_url 2020-5-4-el-tiempo %})
