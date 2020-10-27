@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invertir en un mundo incierto"
-published: true
+published: false
 ---
 
 # Diversificación estructural
