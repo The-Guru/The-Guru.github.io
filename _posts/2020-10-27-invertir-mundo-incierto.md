@@ -21,6 +21,9 @@ Así pues, a modo de ejemplo, si hubiéramos invertido en la última década en 
 <img src="{{ site.baseurl }}/images/Classic-60-40.png"/>
 </p>
 
+Un buen rendimiento para esta cartera teniendo en cuenta que la última década ha sido una de las mejores para la renta variable. Hasta aquí, no estamos
+descubriendo nada nuevo puesto que lo mínimo que lo podemos pedir a este tipo de cartera es que se comporte bien cuando estamos en un escenario de crecimiento.
+TODO: ahora hablar de la volatilidad que hemos tenido que soportar para llegar a dicho rendimiento mostrando mi cartera bogle.
 
 # Diversificación estructural
 # Harry Browne y su cartera permanente
