@@ -4,7 +4,8 @@ title:  "Invertir en un mundo incierto"
 published: false
 ---
 
-Vivimos en un mundo incierto... eran las palabras que casi siempre solía recordarnos Harry Browne, el creador de la Cartera Permanente
+¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos Harry Browne, escritor, político,
+aseror financiero amricano y creador de **La Cartera Permanente**
 
 
 # Diversificación estructural
