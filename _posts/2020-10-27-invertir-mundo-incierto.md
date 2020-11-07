@@ -17,7 +17,9 @@ En este tipo de escenarios, cuanto más porcentaje de renta variable tengamos en
 Así pues, a modo de ejemplo, si hubiéramos invertido en la última década en una cartera clásica **Bogle 60/40 USA** 
 (60% renta variable / 40% renta fija del mercado estadounidense) hubiéramos obtenido un rendimiento anualizado cercano al **8%** como se muestra a continuación.
 
-
+<p align="center">
+<img src="{{ site.baseurl }}/images/Classic-60-40.png"/>
+</p>
 
 
 # Diversificación estructural
