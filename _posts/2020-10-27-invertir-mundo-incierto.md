@@ -15,7 +15,9 @@ Básicamente os animaba a haceros una cartera **Bogle**, de hecho, yo mismo teng
 Este tipo de cartera tiene un marcado sesgo a crecimiento, esto es, estamos apostando que a largo plazo las cosas irán bien y la economía crecerá.
 En este tipo de escenarios, cuanto más porcentaje de renta variable tengamos en la cartera mayor rendimiento sacaremos a la misma.
 Así pues, a modo de ejemplo, si hubiéramos invertido en la última década en una cartera clásica **Bogle 60/40 USA** 
-(60% renta variable / 40% renta fija del mercado estadounidense) hubiéramos obtenido un rendimiento anualizado cercano al **8%** como se muestra a continuación
+(60% renta variable / 40% renta fija del mercado estadounidense) hubiéramos obtenido un rendimiento anualizado cercano al **8%** como se muestra a continuación.
+
+
 
 
 # Diversificación estructural
