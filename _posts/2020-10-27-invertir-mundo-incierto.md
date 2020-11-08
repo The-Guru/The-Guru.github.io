@@ -38,14 +38,23 @@ obtenido un nada desdeñable 8% de rendimiento, pero, ¿Cuántos baches hubiéra
 <img src="{{ site.baseurl }}/images/Classic-60-40-2010-drawdowns.png"/>
 </p>
 
-Los dos peores baches nos hubieran dejado **bajo el agua 5 y 7 meses con caidas en nuestra cartera del 9,55% y del 7,90% respectivamente**.
-¿Cuántos inversores están preparados para aguntar estas caidas y continuar en el camino? Además, a toro pasado todo se ve mucho más fácil, sobre todo,
-viendo que solo fueron unos meses los que estuvimos bajo el agua... pero hay que ponerse en la situación en la que no sabemos cuanto durará la caida,
+Los dos peores baches nos hubieran dejado **bajo el agua 5 y 7 meses con caídas en nuestra cartera del 9,55% y del 7,90% respectivamente**.
+¿Cuántos inversores están preparados para aguntar estas caídas y continuar en el camino? Además, a toro pasado todo se ve mucho más fácil, sobre todo,
+viendo que solo fueron unos meses los que estuvimos bajo el agua... pero hay que ponerse en la situación en la que no sabemos cuanto durará la caída,
 ¿y si sigue bajando?, ¿cuánto tiempo voy a tardar en recuperarme?, etc. Si estos baches os han parecido duros, veamos qué baches nos hubiéramos encontrado en
 la década de la crisis de las .com.
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Classic-60-40-2000-drawdowns.png"/>
+</p>
+
+En esta década nos hubiéramos topado con la crisis de las .com y también con la de las subprimes habiendo tenido que estar **bajo el agua durante periodos de más
+de 3 años con caídas en nuestra cartera del 18,41% y del 26,40%**. Tendríamos que haber tenido la cabeza muy fría para haber aguantado esas terribles caidas sin
+haber vendido nuestras participaciones. Por último, os voy a mostrar como lo está haciendo la cartera Bogle 60/40 que tengo en
+[Indexa Capital](https://indexacapital.com/es/esp/t/raIa2f).
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/Mi-Bogle-60-40.png"/>
 </p>
 
 
