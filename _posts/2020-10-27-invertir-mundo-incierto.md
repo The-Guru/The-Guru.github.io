@@ -64,7 +64,14 @@ sustenta.
 
 # Diversificación estructural
 
+Dado que nadie sabe que ocurrirá en la economía ni en los mercados financieros en el futuro. ¿Cómo podemos invertir?
+Bueno, lo que si que sabemos con certeza es que la economía transitará por alguno de estos estados: crecimiento, recesión, inflacción y deflacción.
+No existen más estados, aunque si una combinación de ellos como: crecimiento inflaccionario, recesión deflaccionaria, etc.
 
+TODO: Incluir imagen de diversificación estructural
+
+Una vez que hemos entendido que podemos estar en alguno de los estados anteriormente citados, ¿Por qué no componemos una cartera con aquellos **activos que
+funcionen estructuralmente mejor en cada uno de los estados**?
 
 
 # Harry Browne y su cartera permanente
