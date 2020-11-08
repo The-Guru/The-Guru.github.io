@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invertir en un mundo incierto"
-published: true
+published: false
 ---
 
 ¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos Harry Browne, escritor, político,
@@ -73,7 +73,7 @@ No existen más estados, aunque si una combinación de ellos: crecimiento inflac
 </p>
 
 Una vez que hemos entendido que podemos estar en alguno de los estados anteriormente citados, ¿Por qué no componemos una cartera con aquellos **activos que
-funcionen estructuralmente mejor en cada uno de los estados**?
+funcionen estructuralmente mejor en cada uno de los estados**? TODO:...
 
 
 # Harry Browne y su cartera permanente
