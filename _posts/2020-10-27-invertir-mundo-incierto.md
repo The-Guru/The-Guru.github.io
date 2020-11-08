@@ -34,6 +34,18 @@ hay que hablar de la **volatilidad** de la cartera. Cuando hablamos de volatilid
 encontrarnos en el camino durante nuestra vida como inversores. Hemos visto que en la década del 2010, una de las mejores para la renta variable, hubiéramos
 obtenido un nada desdeñable 8% de rendimiento, pero, ¿Cuántos baches hubiéramos tenido en el camino?
 
+<p align="center">
+<img src="{{ site.baseurl }}/images/Classic-60-40-2010-drawdowns.png"/>
+</p>
+
+Los dos peores baches nos hubieran dejado **bajo el agua 5 y 7 meses con caidas en nuestra cartera del 9,55% y del 7,90% respectivamente**.
+¿Cuántos inversores están preparados para aguntar estas caidas y continuar en el camino? Además, a toro pasado todo se ve mucho más fácil, sobre todo,
+viendo que solo fueron unos meses los que estuvimos bajo el agua... pero hay que ponerse en la situación en la que no sabemos cuanto durará la caida,
+¿y si sigue bajando?, ¿Cuánto tiempo voy a tardar en recuperarme?, etc.
+
+TODO: Mostrar el gráfico para la década del 2000
+
+
 # Diversificación estructural
 # Harry Browne y su cartera permanente
 # Los 4 activos (RV, RF, Oro, Cash)
