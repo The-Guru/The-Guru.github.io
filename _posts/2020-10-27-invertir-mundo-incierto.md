@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invertir en un mundo incierto"
-published: false
+published: true
 ---
 
 ¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos Harry Browne, escritor, político,
@@ -35,7 +35,7 @@ encontrarnos en el camino durante nuestra vida como inversores. Hemos visto que 
 obtenido un nada desdeñable 8% de rendimiento, pero, ¿Cuántos baches hubiéramos tenido en el camino?
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/Classic-60-40-2010-drawdowns.png"/>
+<img src="{{ site.baseurl }}/images/Classic-60-40-2010-drawdowns.png" style="width: 400px; height: 400px;"/>
 </p>
 
 Los dos peores baches nos hubieran dejado **bajo el agua 5 y 7 meses con caidas en nuestra cartera del 9,55% y del 7,90% respectivamente**.
