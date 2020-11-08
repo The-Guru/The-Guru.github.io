@@ -23,7 +23,11 @@ Así pues, a modo de ejemplo, si hubiéramos invertido en la última década en 
 
 Un buen rendimiento para esta cartera teniendo en cuenta que la última década ha sido una de las mejores para la renta variable. Hasta aquí, no estamos
 descubriendo nada nuevo puesto que lo mínimo que lo podemos pedir a este tipo de cartera es que se comporte bien cuando estamos en un escenario de crecimiento.
-TODO: ahora hablar de la volatilidad que hemos tenido que soportar para llegar a dicho rendimiento mostrando mi cartera bogle.
+Pero, ¿qué pasa cuando sometemos a esta cartera a un escenario para el cual no está lista para brillar? pongamos por ejemplo, la década de la crisis de las .com, del año 2000 al 2010.
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/Classic-60-40-underperfom.png"/>
+</p>
 
 # Diversificación estructural
 # Harry Browne y su cartera permanente
