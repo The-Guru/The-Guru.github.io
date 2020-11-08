@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invertir en un mundo incierto"
-published: true
+published: false
 ---
 
 ¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos Harry Browne, escritor, político,
@@ -41,7 +41,7 @@ obtenido un nada desdeñable 8% de rendimiento, pero, ¿Cuántos baches hubiéra
 Los dos peores baches nos hubieran dejado **bajo el agua 5 y 7 meses con caidas en nuestra cartera del 9,55% y del 7,90% respectivamente**.
 ¿Cuántos inversores están preparados para aguntar estas caidas y continuar en el camino? Además, a toro pasado todo se ve mucho más fácil, sobre todo,
 viendo que solo fueron unos meses los que estuvimos bajo el agua... pero hay que ponerse en la situación en la que no sabemos cuanto durará la caida,
-¿y si sigue bajando?, ¿Cuánto tiempo voy a tardar en recuperarme?, etc.
+¿y si sigue bajando?, ¿cuánto tiempo voy a tardar en recuperarme?, etc.
 
 TODO: Mostrar el gráfico para la década del 2000
 
