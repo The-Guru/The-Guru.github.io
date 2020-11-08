@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invertir en un mundo incierto"
-published: false
+published: true
 ---
 
 ¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos Harry Browne, escritor, político,
@@ -57,9 +57,14 @@ haber vendido nuestras participaciones. Por último, os voy a mostrar como lo es
 <img src="{{ site.baseurl }}/images/Mi-Bogle-60-40.png"/>
 </p>
 
-
+Para llevar poco tiempo invertido me ha pillado la crisis del COVID-19 en la que **vi caer mi cartera un 18,4% y en la que he pasado unos 8 meses bajo el agua**.
+Mucho "Stay the Course" que diría John Bogle pero, ¿no habría una manera de obtener una rentabilidad moderada con nuestra cartera a la vez que los baches por los
+que tengamos que pasar fueran menos pronunciados? Por supuesto que la hay, pero antes de entrar de lleno en ella, os voy a explicar los conceptos en los que se
+sustenta.
 
 # Diversificación estructural
+
+
 # Harry Browne y su cartera permanente
 # Los 4 activos (RV, RF, Oro, Cash)
 # Mi cartera permanente
