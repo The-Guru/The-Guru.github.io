@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invertir en un mundo incierto"
-published: true
+published: false
 ---
 
 ¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos **Harry Browne**, escritor, político,
@@ -23,7 +23,8 @@ Así pues, a modo de ejemplo, si hubiéramos invertido en la última década en 
 
 Un buen rendimiento para esta cartera teniendo en cuenta que la última década ha sido una de las mejores para la renta variable. Hasta aquí, no estamos
 descubriendo nada nuevo puesto que lo mínimo que lo podemos pedir a este tipo de cartera es que se comporte bien cuando estamos en un escenario de crecimiento.
-Pero, ¿qué pasa cuando sometemos a esta cartera a un escenario para el cual no está lista para brillar? pongamos por ejemplo, la década de la crisis de las .com, del año 2000 al 2010.
+Pero, ¿qué pasa cuando sometemos a esta cartera a un escenario para el cual no está lista para brillar? pongamos por ejemplo, la década de la crisis de las
+.com, del año 2000 al 2010.
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Classic-60-40-underperfom.png"/>
@@ -126,15 +127,23 @@ Así pues, estos son los escenarios económicos y, en relación con ellos, los t
 
 Sabiendo todo esto, la composición de **La Cartera Permanente** quedaría así:
 
-* 25% Renta variable
-* 25% Bonos a largo plazo de máxima calidad crediticia
-* 25% Oro
-* 25% Dinero en efectivo
+* 25% Renta variable.
+* 25% Bonos a largo plazo de máxima calidad crediticia.
+* 25% Oro.
+* 25% Dinero en efectivo.
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Cartera-permanente.png"/>
 </p>
 
+A primera vista podría parecer que La Cartera Permanente cuenta con unos activos que podrían neutralizarse los unos a los otros, es decir, mientras unos suben los
+otros bajan y no obtendríamos rentabilidad alguna. Quizá en el día a día sea así, pero en el largo plazo, los activos que lo hacen bien aportan más valor a la
+cartera que aquellos que lo hacen mal. Por ejemplo, en los años 1973-77, la bolsa americana perdió un 20% pero el oro obtuvo un incremento fascinante del 153%.
+De nuevo, en los años 1981-86, el oro cayó un 34% pero la bolsa subió un 80%. Durante estos periodos, las acciones y el oro no se cancelaron el uno al otro.
+
+
+
+# John Bogle vs Harry Browne
 # Mi cartera permanente
 # Referencias
 # Lectura recomendada
