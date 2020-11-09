@@ -79,16 +79,26 @@ funcionen estructuralmente mejor en cada uno de los estados**? Esta pregunta es 
 # Harry Browne y su Cartera Permanente
 
 [Harry Browne](https://es.wikipedia.org/wiki/Harry_Browne) sabía al igual que hoy sabemos que **vivimos en un mundo incierto**. Y como tal, tenemos que estar
-preparados para cualquier evento que pueda depararnos el futuro. Si hablamos de la economía y de mercados financieros deberíamos diseñar una estrategia que
-nos permitiera aprovecharnos de cualquier estado en el que se econtrara la economía en un momento dado. Es decir, una estrategia que hiciera uso de la 
+preparados para cualquier evento que pueda depararnos el futuro. Si hablamos de la economía y de mercados financieros deberíamos diseñar una cartera que
+nos permitiera aprovecharnos de cualquier estado en el que se econtrara la economía en un momento dado. Es decir, una cartera que hiciera uso de la 
 **diversificación estructural**.
 
 Harry Browne diseñó una cartera que pudiera protegernos sin importar lo que el futuro pudiera depararnos. Una cartera que cuidara de nuestro dinero, ese
 que tanto nos ha costado ganar. En definitiva, una cartera que tuviera estos requisitos:
 
-* Segura
-* Estable
-* Simple
+* Segura: debería protegernos ante cualquier evento económico futuro.
+* Estable: debería mantenerse estable sin importar el estado económico que estemos atravesando. 
+* Simple: debería ser fácil de crear, mantener y requerir poco tiempo de gestión por nuestra parte.
+
+A esta cartera la llamó **Cartera Permanente** ya que una vez creada nunca más tendremos que tocar su asignación de activos, podremos dejarla sola de forma
+permanente.
+
+Dado que Harry Browne conocía la diversificación estructural, definió los activos que más brillaban en cada uno de los estados en los que podía estar la 
+economía en un momento dado.
+
+* Crecimiento
+
+
 
 
 # Los 4 activos (RV, RF, Oro, Cash)
