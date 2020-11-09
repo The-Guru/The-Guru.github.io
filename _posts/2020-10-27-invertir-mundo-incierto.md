@@ -97,7 +97,7 @@ Dado que Harry Browne conocía la diversificación estructural, definió los act
 economía en un momento dado.
 
 * Crecimiento: Las empresas facturan más y por lo tanto crecen, los tipos de interés normalmente bajan al igual que lo hace el desempleo. Las cosas van bien.
-En este periodo **el activo que más brillará serán las acciones, la renta variable**.
+En este periodo los bonos a largo plazo se verán favorecidos pero **el activo que más brillará serán las acciones, la renta variable**.
 
 * Recesión: Es un periodo en el que el dinero escasea. Los tipos de interés tienden a subir al igual que lo hace el desempleo. La gente no tiene tanto dinero
 como se esperaba. En este periodo **no hay nigún activo que pueda beneficiarse**, aunque **el dinero en efectivo** amortiguará las pérdidas que la recesión pudiera
@@ -110,7 +110,8 @@ escenario **el oro brillará (valga la redundancia) más que ningún otro activo
 deflación puede conducirnos a una depresión económica. En este periodo los tipos de interés bajan y el precio de los bonos sube. Así que, **el activo que
 más brillará en este escenario serán los bonos a largo plazo de máxima calidad crediticia**.
 
-
+Estos cuatro escenarios son inclusivos, es decir, podemos estar en un periodo de crecimiento inflacionario o en una recesión deflacionaria. Pero lo que es
+seguro es que **llevando renta variable, oro, bonos a largo plazo y dinero en efectivo en nuestra cartera estaremos preparados para todos ellos*.
 
 
 
