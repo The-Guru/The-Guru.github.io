@@ -4,7 +4,7 @@ title:  "Invertir en un mundo incierto"
 published: false
 ---
 
-¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos Harry Browne, escritor, político,
+¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos **Harry Browne**, escritor, político,
 aseror financiero americano y creador de **La Cartera Permanente**.
 
 En la serie de capítulos sobre [La pirámide de la Educación Financiera]({% post_url 2020-1-22-piramide %}) os hablaba de invertir
@@ -65,7 +65,7 @@ sustenta.
 # Diversificación estructural
 
 Dado que nadie sabe que ocurrirá en la economía ni en los mercados financieros en el futuro. ¿Cómo podemos invertir?
-Bueno, lo que si sabemos con certeza es que la economía transitará por alguno de estos estados: crecimiento, recesión, inflacción y deflacción.
+Bueno, lo que si sabemos con certeza es que la economía transitará por alguno de estos estados: **crecimiento, recesión, inflacción y deflacción**.
 No existen más estados, aunque si una combinación de ellos: crecimiento inflaccionario, recesión deflaccionaria, etc.
 
 <p align="center">
@@ -73,10 +73,25 @@ No existen más estados, aunque si una combinación de ellos: crecimiento inflac
 </p>
 
 Una vez que hemos entendido que podemos estar en alguno de los estados anteriormente citados, ¿Por qué no componemos una cartera con aquellos **activos que
-funcionen estructuralmente mejor en cada uno de los estados**? TODO:...
+funcionen estructuralmente mejor en cada uno de los estados**? Esta pregunta es la que se hizo Harry Browne en la década de los 70 cuando ideó su famosa
+**Cartera Permanente**.
+
+# Harry Browne y su Cartera Permanente
+
+[Harry Browne](https://es.wikipedia.org/wiki/Harry_Browne) sabía al igual que hoy sabemos que **vivimos en un mundo incierto**. Y como tal, tenemos que estar
+preparados para cualquier evento que pueda depararnos el futuro. Si hablamos de la economía y de mercados financieros deberíamos diseñar una estrategia que
+nos permitiera aprovecharnos de cualquier estado en el que se econtrara la economía en un momento dado. Es decir, una estrategia que hiciera uso de la 
+**diversificación estructural**.
+
+Harry Browne diseñó una cartera que pudiera protegernos sin importar lo que el futuro pudiera depararnos. Una cartera que cuidara de nuestro dinero, ese
+que tanto nos ha costado ganar. En definitiva, una cartera que tuviera estos requisitos:
+
+* Segura
+* Estable
+* Simple
 
 
-# Harry Browne y su cartera permanente
 # Los 4 activos (RV, RF, Oro, Cash)
 # Mi cartera permanente
 # Referencias
+# Lectura recomendada
