@@ -115,14 +115,18 @@ seguro es que **llevando renta variable, oro, bonos a largo plazo y dinero en ef
 
 Debido a la diversificación estructural, mientras que las acciones y los bonos a largo plazo se ven favorecidos en escenarios de crecimiento, el oro lo estará
 haciendo mal y el dinero en efectivo será neutral. Es la magia de la diversificación estructural, según el periodo económico en el que nos encontremos, unos
-activos lo harán mejor o peor que otros, por eso, **dichos activos necesitan ser muy volátiles** (excepto el dinero en efectivo), para que las caídas de unos se
-compensen con las subidas de los otros.
+activos lo harán mejor o peor que otros, por eso, **dichos activos necesitan ser muy volátiles** (excepto el dinero en efectivo), para que cuando unos caen, los
+que suben lo hagan mejor que aquellos que cayeron.
 
 Así pues, estos son los escenarios económicos y, en relación con ellos, los tipos de activos que terminan funcionando mejor y peor en cada uno de ellos.
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Diversificacion-estructural-activos.jpg"/>
 </p>
+
+Sabiendo todo esto, la composición de **La Cartera Permanente** quedaría así:
+
+
 
 # Mi cartera permanente
 # Referencias
