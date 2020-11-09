@@ -118,6 +118,12 @@ haciendo mal y el dinero en efectivo será neutral. Es la magia de la diversific
 activos lo harán mejor o peor que otros, por eso, **dichos activos necesitan ser muy volátiles** (excepto el dinero en efectivo), para que las caídas de unos se
 compensen con las subidas de los otros.
 
+Así pues, estos son los escenarios económicos y, en relación con ellos, los tipos de activos que terminan funcionando mejor y peor en cada uno de ellos.
+
+
+
+
+
 
 # Mi cartera permanente
 # Referencias
