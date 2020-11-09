@@ -120,10 +120,9 @@ compensen con las subidas de los otros.
 
 Así pues, estos son los escenarios económicos y, en relación con ellos, los tipos de activos que terminan funcionando mejor y peor en cada uno de ellos.
 
-
-
-
-
+<p align="center">
+<img src="{{ site.baseurl }}/images/Diversificacion-estructural-activos.jpg"/>
+</p>
 
 # Mi cartera permanente
 # Referencias
