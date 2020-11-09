@@ -126,10 +126,14 @@ Así pues, estos son los escenarios económicos y, en relación con ellos, los t
 
 Sabiendo todo esto, la composición de **La Cartera Permanente** quedaría así:
 
+* 25% Renta variable
+* 25% Bonos a largo plazo de máxima calidad crediticia
+* 25% Oro
+* 25% Dinero en efectivo
+
 <p align="center">
 <img src="{{ site.baseurl }}/images/Cartera-permanente.png"/>
 </p>
-
 
 # Mi cartera permanente
 # Referencias
