@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invertir en un mundo incierto"
-published: false
+published: true
 ---
 
 ¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos **Harry Browne**, escritor, político,
@@ -40,7 +40,7 @@ obtenido un nada desdeñable 8% de rendimiento nominal, pero, ¿Cuántos baches 
 <img src="{{ site.baseurl }}/images/Classic-60-40-2010-drawdowns.png"/>
 </p>
 
-Los dos peores baches nos hubieran dejado **bajo el agua 5 y 7 meses con caídas en nuestra cartera del 9,55% y del 7,90% respectivamente**.
+Los dos peores baches nos hubieran dejado **bajo el agua 5 y 7 meses con caídas en nuestra cartera del -9,55% y del -7,90% respectivamente**.
 ¿Cuántos inversores están preparados para aguntar estas caídas y continuar en el camino? Además, a toro pasado todo se ve mucho más fácil, sobre todo,
 viendo que solo fueron unos meses los que estuvimos bajo el agua... pero hay que ponerse en la situación en la que no sabemos cuanto durará la caída,
 ¿y si sigue bajando?, ¿cuánto tiempo voy a tardar en recuperarme?, etc. Si estos baches os han parecido duros, veamos qué baches nos hubiéramos encontrado en
@@ -51,7 +51,7 @@ la década de la crisis de las .com.
 </p>
 
 En esta década nos hubiéramos topado con la crisis de las .com y también con la de las subprimes habiendo tenido que estar **bajo el agua durante periodos de más
-de 3 años con caídas en nuestra cartera del 18,41% y del 26,40%**. Tendríamos que haber tenido la cabeza muy fría para haber aguantado esas terribles caídas sin
+de 3 años con caídas en nuestra cartera del -18,41% y del -26,40%**. Tendríamos que haber tenido la cabeza muy fría para haber aguantado esas terribles caídas sin
 haber vendido nuestras participaciones. Por último, os voy a mostrar como lo está haciendo la cartera Bogle 60/40 que tengo en
 [Indexa Capital](https://indexacapital.com/es/esp/t/raIa2f).
 
@@ -59,7 +59,7 @@ haber vendido nuestras participaciones. Por último, os voy a mostrar como lo es
 <img src="{{ site.baseurl }}/images/Mi-Bogle-60-40.png"/>
 </p>
 
-Para llevar poco tiempo invertido me ha pillado la crisis del COVID-19 en la que **vi caer mi cartera un 18,4% y en la que he pasado unos 8 meses bajo el agua**.
+Para llevar poco tiempo invertido me ha pillado la crisis del COVID-19 en la que **vi caer mi cartera un -18,4% y en la que he pasado unos 8 meses bajo el agua**.
 Mucho "Stay the Course" que diría John Bogle pero, ¿no habría una manera de obtener una rentabilidad moderada con nuestra cartera a la vez que los baches por los
 que tengamos que pasar fueran menos pronunciados? Por supuesto que la hay, pero antes de entrar de lleno en ella, os voy a explicar los conceptos en los que se
 sustenta.
@@ -166,7 +166,7 @@ que ningún otro activo. Echemos uno ojo ahora a los baches en el camino.
 <img src="{{ site.baseurl }}/images/Cartera-permanente-drawdowns-2010-2020.png"/>
 </p>
 
-Los dos peores baches nos hubieran dejado **bajo el agua 1 año y 1 mes y 1 año y 5 meses con caídas en nuestra cartera del 6,78% y del 6,65% respectivamente**.
+Los dos peores baches nos hubieran dejado **bajo el agua 1 año y 1 mes y 1 año y 5 meses con caídas en nuestra cartera del -6,78% y del -6,65% respectivamente**.
 Ya observamos diferencias respecto de la cartera Bogle 60/40, para empezar, aunque en esta década estaríamos un poco más de tiempo bajo el agua que con una
 cartera Bogle 60/40, **las caídas serían menores que con la cartera Bogle 60/40**. Así pues, parece que La Cartera Permanente nos da una rentabilidad moderada
 además de pasar por baches menos pronunciados.
@@ -185,6 +185,10 @@ baches en el camino.
 <img src="{{ site.baseurl }}/images/Cartera-permanente-drawdowns-2000-2010.png"/>
 </p>
 
+Los dos peores baches nos hubieran dejado **bajo el agua 1 año y 7 meses con caídas en nuestra cartera del -13,52% y del -5,44% respectivamente**.
+No está nada mal teniendo en cuenta que la cartera pasó por la crisis de las .com y las subprime y donde la cartera Bogle 60/40 sufrió unas caídas de hasta
+un **-26,40%**. No hay que subestirmar la importancia de atravesar los baches de la manera menos pronunciada posible, una cosa es saber el camino y otra muy
+distinta es andar el camino.
 
 # Mi cartera permanente - Rebalanceos
 # Referencias
