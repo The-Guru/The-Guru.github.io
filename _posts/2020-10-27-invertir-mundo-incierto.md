@@ -111,11 +111,14 @@ deflación puede conducirnos a una depresión económica. En este periodo los ti
 más brillará en este escenario serán los bonos a largo plazo de máxima calidad crediticia**.
 
 Estos cuatro escenarios son inclusivos, es decir, podemos estar en un periodo de crecimiento inflacionario o en una recesión deflacionaria. Pero lo que es
-seguro es que **llevando renta variable, oro, bonos a largo plazo y dinero en efectivo en nuestra cartera estaremos preparados para todos ellos*.
+seguro es que **llevando renta variable, oro, bonos a largo plazo y dinero en efectivo en nuestra cartera estaremos preparados para todos ellos**.
+
+Debido a la diversificación estructural, mientras que las acciones y los bonos a largo plazo se ven favorecidos en escenarios de crecimiento, el oro lo estará
+haciendo mal y el dinero en efectivo será neutral. Es la magia de la diversificación estructural, según el periodo económico en el que nos encontremos, unos
+activos lo harán mejor o peor que otros, por eso, **dichos activos necesitan ser muy volátiles** (excepto el dinero en efectivo), para que las caídas de unos se
+compensen con las subidas de los otros.
 
 
-
-# Los 4 activos (RV, RF, Oro, Cash)
 # Mi cartera permanente
 # Referencias
 # Lectura recomendada
