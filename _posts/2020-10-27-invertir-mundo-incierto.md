@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invertir en un mundo incierto"
-published: false
+published: true
 ---
 
 ¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos **Harry Browne**, escritor, político,
@@ -141,9 +141,19 @@ otros bajan y no obtendríamos rentabilidad alguna. Quizá en el día a día sea
 cartera que aquellos que lo hacen mal. Por ejemplo, en los años 1973-77, la bolsa americana perdió un 20% pero el oro obtuvo un incremento fascinante del 153%.
 De nuevo, en los años 1981-86, el oro cayó un 34% pero la bolsa subió un 80%. Durante estos periodos, las acciones y el oro no se cancelaron el uno al otro.
 
-
+De hecho, es una cartera que desde 1978 hasta Octubre de 2020 ha dado una **rentabilidad anualizada del 8,37% (Cartera Permanente USA)**
 
 # John Bogle vs Harry Browne
-# Mi cartera permanente
+
+Con todo lo que hemos visto ahora, es el momento de contestar a la pregunta: ¿no habría una manera de obtener una rentabilidad moderada con nuestra cartera a la
+vez que los baches por los que tengamos que pasar fueran menos pronunciados?
+
+Y la respuesta es **sí, La Cartera Permanente**. Hemos visto que La Cartera Permanente ha obtenido un buen rendimiento en los últimos 42 años, ¿pero cómo han sido
+los baches que hemos encontrado en el camino? veámoslo.
+
+
+
+
+# Mi cartera permanente - Rebalanceos
 # Referencias
 # Lectura recomendada
