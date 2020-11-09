@@ -65,7 +65,7 @@ sustenta.
 # Diversificación estructural
 
 Dado que nadie sabe que ocurrirá en la economía ni en los mercados financieros en el futuro. ¿Cómo podemos invertir?
-Bueno, lo que si sabemos con certeza es que la economía transitará por alguno de estos estados: **crecimiento, recesión, inflacción y deflacción**.
+Bueno, lo que si sabemos con certeza es que la economía transitará por alguno de estos estados: **crecimiento, recesión, inflación y deflación**.
 No existen más estados, aunque si una combinación de ellos: crecimiento inflaccionario, recesión deflaccionaria, etc.
 
 <p align="center">
@@ -93,10 +93,23 @@ que tanto nos ha costado ganar. En definitiva, una cartera que tuviera estos req
 A esta cartera la llamó **Cartera Permanente** ya que una vez creada nunca más tendremos que tocar su asignación de activos, podremos dejarla sola de forma
 permanente.
 
-Dado que Harry Browne conocía la diversificación estructural, definió los activos que más brillaban en cada uno de los estados en los que podía estar la 
+Dado que Harry Browne conocía la diversificación estructural, definió los activos que más brillaban en cada uno de los estados en los que pudiera estar la 
 economía en un momento dado.
 
-* Crecimiento
+* Crecimiento: Las empresas facturan más y por lo tanto crecen, los tipos de interés normalmente bajan al igual que lo hace el desempleo. Las cosas van bien.
+En este periodo **el activo que más brillará serán las acciones, la renta variable**.
+
+* Recesión: Es un periodo en el que el dinero escasea. Los tipos de interés tienden a subir al igual que lo hace el desempleo. La gente no tiene tanto dinero
+como se esperaba. En este periodo **no hay nigún activo que pueda beneficiarse**, aunque **el dinero en efectivo** amortiguará las pérdidas que la recesión pudiera
+inflingir en el resto de la cartera.
+
+* Inflación: Cuando los precios suben de manera importante entramos en un periodo inflacionario, estamos hablando de subidas de un 6% en adelante. En este
+escenario **el oro brillará (valga la redundancia) más que ningún otro activo**.
+
+* Deflación: Los precios caen y la gente puede comprar más cosas con el mismo dinero. Esto no quiere decir que sea bueno, de hecho un periodo prolongado de
+deflación puede conducirnos a una depresión económica. En este periodo los tipos de interés bajan y el precio de los bonos sube. Así que, **el activo que
+más brillará en este escenario serán los bonos a largo plazo de máxima calidad crediticia**.
+
 
 
 
