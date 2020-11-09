@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invertir en un mundo incierto"
-published: true
+published: false
 ---
 
 ¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos **Harry Browne**, escritor, político,
@@ -189,6 +189,8 @@ Los dos peores baches nos hubieran dejado **bajo el agua 1 año y 7 meses con ca
 No está nada mal teniendo en cuenta que la cartera pasó por la crisis de las .com y las subprime y donde la cartera Bogle 60/40 sufrió unas caídas de hasta
 un **-26,40%**. No hay que subestirmar la importancia de atravesar los baches de la manera menos pronunciada posible, una cosa es saber el camino y otra muy
 distinta es andar el camino.
+
+No se trata de elegir entre Bogle o Browne, seguir aquí...
 
 # Mi cartera permanente - Rebalanceos
 # Referencias
