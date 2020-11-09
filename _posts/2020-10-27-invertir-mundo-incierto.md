@@ -25,7 +25,7 @@ a continuación.
 Un buen rendimiento para esta cartera teniendo en cuenta que la última década ha sido una de las mejores para la renta variable. Hasta aquí, no estamos
 descubriendo nada nuevo puesto que lo mínimo que lo podemos pedir a este tipo de cartera es que se comporte bien cuando estamos en un escenario de crecimiento.
 Pero, ¿qué pasa cuando sometemos a esta cartera a un escenario para el cual no está lista para brillar? pongamos por ejemplo, la década de la crisis de las
-.com, del año 2000 al 2010.
+.com y las subprime, la del 2000 al 2010.
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Classic-60-40-underperfom.png"/>
@@ -152,10 +152,37 @@ vez que los baches por los que tengamos que pasar fueran menos pronunciados?
 Y la respuesta es **sí, La Cartera Permanente**. Hemos visto que La Cartera Permanente ha obtenido un buen rendimiento en los últimos 42 años, ¿pero cómo han sido
 los baches que hemos encontrado en el camino? veámoslo.
 
-Primero echemos un ojo al rendimiento de La Cartera Permanente USA en la última década:
+Primero echemos un ojo al rendimiento de La Cartera Permanente USA en la última década.
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Cartera-permanente-performance-2010-2020.png"/>
+</p>
+
+Vemos que obtuvo un rendimiento nominal anualizado de **4,5%** un poco más de la mitad del rendimiento que nos dio la cartera Bogle 60/40 en la misma década.
+Si lo pensamos, tiene todo el sentido puesto que en la última década estuvimos en un escenario de crecimiento económico donde la renta variable brilló más 
+que ningún otro activo. Echemos uno ojo ahora a los baches en el camino.
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/Cartera-permanente-drawdowns-2010-2020.png"/>
+</p>
+
+Los dos peores baches nos hubieran dejado **bajo el agua 1 año y 1 mes y 1 año y 5 meses con caídas en nuestra cartera del 6,78% y del 6,65% respectivamente**.
+Ya observamos diferencias respecto de la cartera Bogle 60/40, para empezar, aunque en esta década estaríamos un poco más de tiempo bajo el agua que con una
+cartera Bogle 60/40, **las caídas serían menores que con la cartera Bogle 60/40**. Así pues, parece que La Cartera Permanente nos da una rentabilidad moderada
+además de pasar por baches menos pronunciados.
+
+Sometamos ahora a La Cartera Permanente a la década de la crisis de las .com y las subprime la del 2000 al 2010 al igual que hicimos con la cartera Bogle 60/40.
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/Cartera-permanente-performance-2000-2010.png"/>
+</p>
+
+Vemos que obtuvo un rendimiento anualizado de **4,2%** más o menos. ¡Increible!, la cartera Bogle 60/40 a penas obtuvo un 1% de rendimiento anualizado en la misma
+década. De nuevo, La Cartera Permanente nos da una rentabilidad moderada sea cual sea el clima económico en el que nos encontremos. Echemos un ojo ahora a los
+baches en el camino.
+
+<p align="center">
+<img src="{{ site.baseurl }}/images/Cartera-permanente-drawdowns-2000-2010.png"/>
 </p>
 
 
