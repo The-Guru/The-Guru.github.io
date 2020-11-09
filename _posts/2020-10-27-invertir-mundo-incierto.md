@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invertir en un mundo incierto"
-published: false
+published: true
 ---
 
 ¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos **Harry Browne**, escritor, político,
@@ -126,6 +126,9 @@ Así pues, estos son los escenarios económicos y, en relación con ellos, los t
 
 Sabiendo todo esto, la composición de **La Cartera Permanente** quedaría así:
 
+<p align="center">
+<img src="{{ site.baseurl }}/images/Cartera-permanente.png"/>
+</p>
 
 
 # Mi cartera permanente
