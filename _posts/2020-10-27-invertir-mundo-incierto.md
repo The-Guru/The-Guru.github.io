@@ -15,7 +15,8 @@ Básicamente os animaba a haceros una cartera **Bogle**, de hecho, yo mismo teng
 Este tipo de cartera tiene un marcado sesgo a crecimiento, esto es, estamos apostando que a largo plazo las cosas irán bien y la economía crecerá.
 En este tipo de escenarios, cuanto más porcentaje de renta variable tengamos en la cartera mayor rendimiento sacaremos a la misma.
 Así pues, a modo de ejemplo, si hubiéramos invertido en la última década en una cartera clásica **Bogle 60/40 USA** 
-(60% renta variable / 40% renta fija del mercado estadounidense) hubiéramos obtenido un rendimiento anualizado cercano al **8%** como se muestra a continuación.
+(60% renta variable / 40% renta fija del mercado estadounidense) hubiéramos obtenido un rendimiento nominal anualizado cercano al **8%** como se muestra
+a continuación.
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Classic-60-40.png"/>
@@ -30,10 +31,10 @@ Pero, ¿qué pasa cuando sometemos a esta cartera a un escenario para el cual no
 <img src="{{ site.baseurl }}/images/Classic-60-40-underperfom.png"/>
 </p>
 
-No hubiéramos obtenido ni siquiera un **1%** de rentabilidad anualizada tras una década de haber tenido nuestro dinero invertido. Además de todo esto,
+No hubiéramos obtenido ni siquiera un **1%** de rentabilidad nominal anualizada tras una década de haber tenido nuestro dinero invertido. Además de todo esto,
 hay que hablar de la **volatilidad** de la cartera. Cuando hablamos de volatilidad, a mi me gusta imaginarlo como la cantidad de baches que vamos a
 encontrarnos en el camino durante nuestra vida como inversores. Hemos visto que en la década del 2010, una de las mejores para la renta variable, hubiéramos
-obtenido un nada desdeñable 8% de rendimiento, pero, ¿Cuántos baches hubiéramos tenido en el camino?
+obtenido un nada desdeñable 8% de rendimiento nominal, pero, ¿Cuántos baches hubiéramos tenido en el camino?
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Classic-60-40-2010-drawdowns.png"/>
@@ -50,7 +51,7 @@ la década de la crisis de las .com.
 </p>
 
 En esta década nos hubiéramos topado con la crisis de las .com y también con la de las subprimes habiendo tenido que estar **bajo el agua durante periodos de más
-de 3 años con caídas en nuestra cartera del 18,41% y del 26,40%**. Tendríamos que haber tenido la cabeza muy fría para haber aguantado esas terribles caidas sin
+de 3 años con caídas en nuestra cartera del 18,41% y del 26,40%**. Tendríamos que haber tenido la cabeza muy fría para haber aguantado esas terribles caídas sin
 haber vendido nuestras participaciones. Por último, os voy a mostrar como lo está haciendo la cartera Bogle 60/40 que tengo en
 [Indexa Capital](https://indexacapital.com/es/esp/t/raIa2f).
 
@@ -151,7 +152,11 @@ vez que los baches por los que tengamos que pasar fueran menos pronunciados?
 Y la respuesta es **sí, La Cartera Permanente**. Hemos visto que La Cartera Permanente ha obtenido un buen rendimiento en los últimos 42 años, ¿pero cómo han sido
 los baches que hemos encontrado en el camino? veámoslo.
 
+Primero echemos un ojo al rendimiento de La Cartera Permanente USA en la última década:
 
+<p align="center">
+<img src="{{ site.baseurl }}/images/Cartera-permanente-performance-2010-2020.png"/>
+</p>
 
 
 # Mi cartera permanente - Rebalanceos
