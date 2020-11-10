@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invertir en un mundo incierto"
-published: false
+published: true
 ---
 
 ¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos **Harry Browne**, escritor, político,
@@ -199,13 +199,15 @@ puesto que para gustos los colores.
 He visto y sigo viendo mucha gente que tiene problemas para montarse una Cartera Permanente por si misma. Pues bien, en esta sección os voy a contar paso a paso
 como me he montado yo mi Cartera Permanente.
 
-Primero vamos a empezar con las recomendaciones para aquellos que lo quieren ya hecho. Actualmente existen un par de fondos que implementan una estrategía de
-Cartera Permanente, son los siguientes:
+Primero vamos a empezar con las recomendaciones para aquellos que lo quieren ya hecho. Actualmente existen un par de fondos que implementan una Cartera Permanente,
+son los siguientes:
 
-* River Cartera Permanente (**Kronos FI**) - Fondo gestionado por Rafael Ortega - Más información de los activos que componen la cartera, etc. [Aquí
-](https://www.riverpatrimonio.com) 
+* River Cartera Permanente (Kronos FI) - Fondo gestionado por Rafael Ortega - Más información de los activos que componen la cartera, forma de contratarlo,
+etc. [Aquí](https://www.riverpatrimonio.com)
+* Icaria Cartera Permanente - Fondo gestionado por Carlos Santiso -  Más información de los activos que componen la cartera, forma de contratarlo, etc.
+[Aquí](https://icariacapital.es)
 
-
+Ambos son fondos que han visto la luz en el 2020 y son gestionados por grandes gestores.
 
 # Referencias
 # Lectura recomendada
