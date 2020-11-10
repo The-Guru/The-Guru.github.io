@@ -88,9 +88,9 @@ nos permitiera aprovecharnos de cualquier estado en el que se econtrara la econo
 Harry Browne diseñó una cartera que pudiera protegernos sin importar lo que el futuro pudiera depararnos. Una cartera que cuidara de nuestro dinero, ese
 que tanto nos ha costado ganar. En definitiva, una cartera que tuviera estos requisitos:
 
-* Segura: debería protegernos ante cualquier evento económico futuro.
-* Estable: debería mantenerse estable sin importar el estado económico que estemos atravesando. 
-* Simple: debería ser fácil de crear, mantener y requerir poco tiempo de gestión por nuestra parte.
+* **Segura**: debería protegernos ante cualquier evento económico futuro.
+* **Estable**: debería mantenerse estable sin importar el estado económico que estemos atravesando. 
+* **Simple**: debería ser fácil de crear, mantener y requerir poco tiempo de gestión por nuestra parte.
 
 A esta cartera la llamó **Cartera Permanente** ya que una vez creada nunca más tendremos que tocar su asignación de activos, podremos dejarla sola de forma
 permanente.
@@ -187,11 +187,24 @@ baches en el camino.
 
 Los dos peores baches nos hubieran dejado **bajo el agua 1 año y 7 meses con caídas en nuestra cartera del -13,52% y del -5,44% respectivamente**.
 No está nada mal teniendo en cuenta que la cartera pasó por la crisis de las .com y las subprime y donde la cartera Bogle 60/40 sufrió unas caídas de hasta
-un **-26,40%**. No hay que subestirmar la importancia de atravesar los baches de la manera menos pronunciada posible, una cosa es saber el camino y otra muy
+un **-26,40%**. No hay que subestimar la importancia de atravesar los baches de la manera menos pronunciada posible, una cosa es saber el camino y otra muy
 distinta es andar el camino.
 
-No se trata de elegir entre Bogle o Browne, seguir aquí...
+Mi intención al comparar el rendimiento y las caídas de la cartera Bogle 60/40 y La Cartera Permanente ha sido resaltar la importancia de contar con tipos de
+activos en nuestra cartera que puedan favorecernos en cualquier clima económico que pueda depararnos el futuro. No se trata de proclamar una cartera vencedora
+puesto que para gustos los colores.  
 
-# Mi cartera permanente - Rebalanceos
+# Mi Cartera Permanente
+
+He visto y sigo viendo mucha gente que tiene problemas para montarse una Cartera Permanente por si misma. Pues bien, en esta sección os voy a contar paso a paso
+como me he montado yo mi Cartera Permanente.
+
+Primero vamos a empezar con las recomendaciones para vagos. Actualmente existen un par de fondos que implementan una estrategía de Cartera Permanente, son los
+siguientes:
+
+* River Cartera Permanente (Kronos FI) - ISIN ES0156572002
+
+
+
 # Referencias
 # Lectura recomendada
