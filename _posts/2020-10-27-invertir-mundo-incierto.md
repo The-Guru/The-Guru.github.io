@@ -199,10 +199,11 @@ puesto que para gustos los colores.
 He visto y sigo viendo mucha gente que tiene problemas para montarse una Cartera Permanente por si misma. Pues bien, en esta sección os voy a contar paso a paso
 como me he montado yo mi Cartera Permanente.
 
-Primero vamos a empezar con las recomendaciones para vagos. Actualmente existen un par de fondos que implementan una estrategía de Cartera Permanente, son los
-siguientes:
+Primero vamos a empezar con las recomendaciones para aquellos que lo quieren ya hecho. Actualmente existen un par de fondos que implementan una estrategía de
+Cartera Permanente, son los siguientes:
 
-* River Cartera Permanente (Kronos FI) - ISIN ES0156572002
+* River Cartera Permanente (**Kronos FI**) - Fondo gestionado por Rafael Ortega - Más información de los activos que componen la cartera, etc. [Aquí
+](https://www.riverpatrimonio.com) 
 
 
 
