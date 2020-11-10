@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Invertir en un mundo incierto"
-published: true
+published: false
 ---
 
 ¡Vivimos en un mundo incierto! Esas eran las palabras que casi siempre solía recordarnos **Harry Browne**, escritor, político,
@@ -34,7 +34,7 @@ Pero, ¿qué pasa cuando sometemos a esta cartera a un escenario para el cual no
 No hubiéramos obtenido ni siquiera un **1%** de rentabilidad nominal anualizada tras una década de haber tenido nuestro dinero invertido. Además de todo esto,
 hay que hablar de la **volatilidad** de la cartera. Cuando hablamos de volatilidad, a mi me gusta imaginarlo como la cantidad de baches que vamos a
 encontrarnos en el camino durante nuestra vida como inversores. Hemos visto que en la década del 2010, una de las mejores para la renta variable, hubiéramos
-obtenido un nada desdeñable 8% de rendimiento nominal, pero, ¿Cuántos baches hubiéramos tenido en el camino?
+obtenido un nada desdeñable 8% de rendimiento nominal anualizado, pero, ¿Cuántos baches hubiéramos tenido en el camino?
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Classic-60-40-2010-drawdowns.png"/>
@@ -42,15 +42,15 @@ obtenido un nada desdeñable 8% de rendimiento nominal, pero, ¿Cuántos baches 
 
 Los dos peores baches nos hubieran dejado **bajo el agua 5 y 7 meses con caídas en nuestra cartera del -9,55% y del -7,90% respectivamente**.
 ¿Cuántos inversores están preparados para aguntar estas caídas y continuar en el camino? Además, a toro pasado todo se ve mucho más fácil, sobre todo,
-viendo que solo fueron unos meses los que estuvimos bajo el agua... pero hay que ponerse en la situación en la que no sabemos cuanto durará la caída,
+viendo que solo fueron unos meses los que estuvimos bajo el agua... pero hay que ponerse en la situación en la que no sabemos cuánto durará la caída,
 ¿y si sigue bajando?, ¿cuánto tiempo voy a tardar en recuperarme?, etc. Si estos baches os han parecido duros, veamos qué baches nos hubiéramos encontrado en
-la década de la crisis de las .com.
+la década de la crisis de las .com. y las subprime
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Classic-60-40-2000-drawdowns.png"/>
 </p>
 
-En esta década nos hubiéramos topado con la crisis de las .com y también con la de las subprimes habiendo tenido que estar **bajo el agua durante periodos de más
+En esta década nos hubiéramos topado con la crisis de las .com y también con la de las subprime habiendo tenido que estar **bajo el agua durante periodos de más
 de 3 años con caídas en nuestra cartera del -18,41% y del -26,40%**. Tendríamos que haber tenido la cabeza muy fría para haber aguantado esas terribles caídas sin
 haber vendido nuestras participaciones. Por último, os voy a mostrar como lo está haciendo la cartera Bogle 60/40 que tengo en
 [Indexa Capital](https://indexacapital.com/es/esp/t/raIa2f).
@@ -80,19 +80,19 @@ funcionen estructuralmente mejor en cada uno de los estados**? Esta pregunta es 
 
 # Harry Browne y su Cartera Permanente
 
-[Harry Browne](https://es.wikipedia.org/wiki/Harry_Browne) sabía al igual que hoy sabemos que **vivimos en un mundo incierto**. Y como tal, tenemos que estar
+[Harry Browne](https://es.wikipedia.org/wiki/Harry_Browne) sabía al igual que hoy sabemos, que **vivimos en un mundo incierto**. Y como tal, tenemos que estar
 preparados para cualquier evento que pueda depararnos el futuro. Si hablamos de la economía y de mercados financieros deberíamos diseñar una cartera que
 nos permitiera aprovecharnos de cualquier estado en el que se econtrara la economía en un momento dado. Es decir, una cartera que hiciera uso de la 
 **diversificación estructural**.
 
 Harry Browne diseñó una cartera que pudiera protegernos sin importar lo que el futuro pudiera depararnos. Una cartera que cuidara de nuestro dinero, ese
-que tanto nos ha costado ganar. En definitiva, una cartera que tuviera estos requisitos:
+que tanto nos ha costado ganar. En definitiva, una cartera que cumpliera estos requisitos:
 
 * **Segura**: debería protegernos ante cualquier evento económico futuro.
 * **Estable**: debería mantenerse estable sin importar el estado económico que estemos atravesando. 
 * **Simple**: debería ser fácil de crear, mantener y requerir poco tiempo de gestión por nuestra parte.
 
-A esta cartera la llamó **Cartera Permanente** ya que una vez creada nunca más tendremos que tocar su asignación de activos, podremos dejarla sola de forma
+A esta cartera la llamó **Cartera Permanente** ya que una vez creada nunca más tendremos que tocar su asignación de activos, podremos dejarla sola, de forma
 permanente.
 
 Dado que Harry Browne conocía la diversificación estructural, definió los activos que más brillaban en cada uno de los estados en los que pudiera estar la 
@@ -118,7 +118,7 @@ seguro es que **llevando renta variable, oro, bonos a largo plazo y dinero en ef
 Debido a la diversificación estructural, mientras que las acciones y los bonos a largo plazo se ven favorecidos en escenarios de crecimiento, el oro lo estará
 haciendo mal y el dinero en efectivo será neutral. Es la magia de la diversificación estructural, según el periodo económico en el que nos encontremos, unos
 activos lo harán mejor o peor que otros, por eso, **dichos activos necesitan ser muy volátiles** (excepto el dinero en efectivo), para que cuando unos caen, los
-que suben lo hagan mejor que aquellos que cayeron.
+que suben, lo hagan mejor que aquellos que cayeron.
 
 Así pues, estos son los escenarios económicos y, en relación con ellos, los tipos de activos que terminan funcionando mejor y peor en cada uno de ellos.
 
@@ -146,7 +146,7 @@ De hecho, es una cartera que desde 1978 hasta Octubre de 2020 ha dado una **rent
 
 # John Bogle vs Harry Browne
 
-Con todo lo que hemos visto ahora, es el momento de contestar a la pregunta: ¿no habría una manera de obtener una rentabilidad moderada con nuestra cartera a la
+Con todo lo que hemos visto, ahora es el momento de contestar a la pregunta: ¿no habría una manera de obtener una rentabilidad moderada con nuestra cartera a la
 vez que los baches por los que tengamos que pasar fueran menos pronunciados?
 
 Y la respuesta es **sí, La Cartera Permanente**. Hemos visto que La Cartera Permanente ha obtenido un buen rendimiento en los últimos 42 años, ¿pero cómo han sido
@@ -202,9 +202,9 @@ como me he montado yo mi Cartera Permanente.
 Primero vamos a empezar con las recomendaciones para aquellos que lo quieren ya hecho. Actualmente existen un par de fondos que implementan una Cartera Permanente,
 son los siguientes:
 
-* River Cartera Permanente (Kronos FI) - Fondo gestionado por Rafael Ortega - Más información de los activos que componen la cartera, forma de contratarlo,
+* **River Cartera Permanente (Kronos FI)** - Fondo gestionado por Rafael Ortega - Más información de los activos que componen la cartera, forma de contratarlo,
 etc. [Aquí](https://www.riverpatrimonio.com)
-* Icaria Cartera Permanente - Fondo gestionado por Carlos Santiso -  Más información de los activos que componen la cartera, forma de contratarlo, etc.
+* **Icaria Cartera Permanente** - Fondo gestionado por Carlos Santiso -  Más información de los activos que componen la cartera, forma de contratarlo, etc.
 [Aquí](https://icariacapital.es)
 
 Ambos son fondos que han visto la luz en el 2020 y son gestionados por grandes gestores.
