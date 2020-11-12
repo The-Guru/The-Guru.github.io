@@ -209,5 +209,10 @@ etc. [Aquí](https://www.riverpatrimonio.com)
 
 Ambos son fondos que han visto la luz en el 2020 y son gestionados por grandes gestores.
 
+Y ahora continuemos con la parte *manual*. Yo he optado por montarme una **Cartera Permanente europea**, esto es, el conjunto de activos que la componen son de
+la economía donde vivo, obtengo mis ingresos, etc. Y es que la Cartera Permanente está diseñada para funcionar dentro de la economía en la que uno reside, en mi
+caso Europa, ya que España pertenece a la Unión Europea.
+
+
 # Referencias
 # Lectura recomendada
