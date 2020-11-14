@@ -233,6 +233,14 @@ modelo 720 del 1 de Enero al 31 de Marzo si nuestras posiciones abiertas superan
 sea la parte que más complica la operativa pero existen una gran cantidad de recursos en Internet donde se explica paso a paso como rellenar dichos modelos,
 existiendo además, la opción de contratar servicios profesionales que nos ayuden a presentar dichos modelos.
 
+## Renta variable
+
+Para la parte de la renta variable yo he obtado por el siguiente fondo indexado:
+* **Vanguard Eurozone Stock Index Fund - Investor EUR Acc. Que tiene un TER de 0.12% y cuyo ISIN es el IE0008248795**. Este fondo indexado sigue el índice 
+[MSCI EMU](https://www.msci.com/documents/10199/32798bd1-7370-451a-a740-eb31dc40adcd), es decir, empresas de grande y mediana capitalización de la zona Euro.
+Las compras de participaciones de este fondo las hago a través de mi cuenta en My Investor. Existen muchas más opciones para la renta variable, algunas de ellas
+podéis encontrarlas [aquí](https://www.carterapermanente.org/viewtopic.php?f=4&t=22).
+
 
 
 
