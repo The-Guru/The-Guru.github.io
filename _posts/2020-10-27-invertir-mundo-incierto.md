@@ -215,7 +215,12 @@ en mi caso Europa, ya que España pertenece a la Unión Europea. Ponernos a aña
 de rentabilidad pero también nos traería otros problemas como el riesgo divisa, problemas de índole política que podrían afectar a dichos activos, etc. La Cartera
 Permanete debe darnos **seguridad** y es que [creerte más listo que Harry Browne puede salirte caro](https://www.riverpatrimonio.com/post/creerte-más-listo-que-harry-browne-puede-salirte-caro).
 
-Ahora hablar de los brokers, etc.
+A la hora de montar tu propia Cartera Permanente tendrás que hacer uso de uno o varios bancos / brokers. A mayor cantidad de bancos / brokers, mayor
+diversificación del riesgo de que alguno de ellos pudiera quebrar. Yo hago uso de los siguientes:
+
+* **[My Investor](https://myinvestor.es)**:
+* **GPM**:
+* **Interactive Brokers**: 
 
 
 # Referencias
