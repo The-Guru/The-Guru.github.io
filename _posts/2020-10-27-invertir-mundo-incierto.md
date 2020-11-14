@@ -241,8 +241,9 @@ Para la parte de la renta variable yo he obtado por el siguiente fondo indexado:
 Las compras de participaciones de este fondo las hago a través de mi cuenta en My Investor. Existen muchas más opciones para la renta variable, algunas de ellas
 podéis encontrarlas [aquí](https://www.carterapermanente.org/viewtopic.php?f=4&t=22).
 
+## Bonos a largo plazo de la máxima calidad crediticia
 
-
+Para esta parte de la cartera he optado por usar los bonos alemanes a 30 años... seguir aquí
 
 
 
