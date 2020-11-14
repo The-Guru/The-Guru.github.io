@@ -218,9 +218,24 @@ Permanete debe darnos **seguridad** y es que [creerte más listo que Harry Brown
 A la hora de montar tu propia Cartera Permanente tendrás que hacer uso de uno o varios bancos / brokers. A mayor cantidad de bancos / brokers, mayor
 diversificación del riesgo de que alguno de ellos pudiera quebrar. Yo hago uso de los siguientes:
 
-* **[My Investor](https://myinvestor.es)**:
-* **GPM**:
-* **Interactive Brokers**: 
+* **[My Investor](https://myinvestor.es)**: A parte de tener una cuenta remunerada al 1% T.A.E hasta 15.000€, tiene una gran cantidad de fondos indexados que
+nos vienen de perlas tanto para la parte de renta variable como para la de los bonos a largo plazo de la cartera. De momento no combran comisión de custodia.
+* **[GPM Broker](https://www.gpmbroker.com)**: Al igual que My Investor, tiene una gran cantidad de fondos indexados para la renta variable y bonos a largo plazo
+de la cartera. La operativa es por e-mail y es bastante fluida. Las posiciones se pueden ver a través de un extracto que se descarga desde su web. No cobran
+comisión de custodia.
+* **[Interactive Brokers](https://www.interactivebrokers.eu)**: Para mi el mejor broker a nivel internacional que existe. Es un broker estadounidense pero la sede
+que da soporte a los clientes europeos está en Inglaterra aunque cuando entre el Brexit en vigor seremos atendidos desde la sede de Irlanda o Luxemburgo. Este
+broker dispone de cualquier activo financiero que podamos imaginar, de hecho, podríamos montar la Cartera Permanente por completo en él. Tiene una comisión fija
+de $10 al mes para carteras con activos por debajo de los $100.000 aunque dicha comisión se descuenta de las comisiones que hayamos tenido por compra/venta en
+dicho mes. Las comisiones por compra/venta también son de las más bajas que vamos a encontrar en un broker de este tipo. Por último, tendremos que presentar el 
+modelo D-6 en Enero si a 31 de Diciembre del año anterior teníamos posiciones abiertas al tratarse de un broker extranjero. También tendremos que presentar el
+modelo 720 del 1 de Enero al 31 de Marzo si nuestras posiciones abiertas superan más de 50.000€ al tratarse, nuevamente, de un broker extranjero. Quizá esta
+sea la parte que más complica la operativa pero existen una gran cantidad de recursos en Internet donde se explica paso a paso como rellenar dichos modelos,
+existiendo además, la opción de contratar servicios profesionales que nos ayuden a presentar dichos modelos.
+
+
+
+
 
 
 # Referencias
