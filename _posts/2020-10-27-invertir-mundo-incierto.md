@@ -203,9 +203,9 @@ Primero vamos a empezar con las recomendaciones para aquellos que lo quieren ya 
 son los siguientes:
 
 * **River Cartera Permanente (Kronos FI)** - Fondo gestionado por Rafael Ortega - Más información de los activos que componen la cartera, forma de contratarlo,
-etc. [Aquí](https://www.riverpatrimonio.com)
+etc. [Aquí](https://www.riverpatrimonio.com).
 * **Icaria Cartera Permanente** - Fondo gestionado por Carlos Santiso -  Más información de los activos que componen la cartera, forma de contratarlo, etc.
-[Aquí](https://icariacapital.es)
+[Aquí](https://icariacapital.es).
 
 Ambos son fondos que han visto la luz en el 2020 y son gestionados por grandes gestores.
 
@@ -220,9 +220,11 @@ diversificación del riesgo de que alguno de ellos pudiera quebrar. Yo hago uso 
 
 * **[My Investor](https://myinvestor.es)**: A parte de tener una cuenta remunerada al 1% T.A.E hasta 15.000€, tiene una gran cantidad de fondos indexados que
 nos vienen de perlas tanto para la parte de renta variable como para la de los bonos a largo plazo de la cartera. De momento no combran comisión de custodia.
+
 * **[GPM Broker](https://www.gpmbroker.com)**: Al igual que My Investor, tiene una gran cantidad de fondos indexados para la renta variable y bonos a largo plazo
 de la cartera. La operativa es por e-mail y es bastante fluida. Las posiciones se pueden ver a través de un extracto que se descarga desde su web. No cobran
 comisión de custodia.
+
 * **[Interactive Brokers](https://www.interactivebrokers.eu)**: Para mi el mejor broker a nivel internacional que existe. Es un broker estadounidense pero la sede
 que da soporte a los clientes europeos está en Inglaterra aunque cuando entre el Brexit en vigor seremos atendidos desde la sede de Irlanda o Luxemburgo. Este
 broker dispone de cualquier activo financiero que podamos imaginar, de hecho, podríamos montar la Cartera Permanente por completo en él. Tiene una comisión fija
@@ -236,6 +238,7 @@ existiendo además, la opción de contratar servicios profesionales que nos ayud
 ## Renta variable
 
 Para la parte de la renta variable yo he obtado por el siguiente fondo indexado:
+
 * **Vanguard Eurozone Stock Index Fund - Investor EUR Acc. Que tiene un TER de 0.12% y cuyo ISIN es el IE0008248795**. Este fondo indexado sigue el índice 
 [MSCI EMU](https://www.msci.com/documents/10199/32798bd1-7370-451a-a740-eb31dc40adcd), es decir, empresas de grande y mediana capitalización de la zona Euro.
 Las compras de participaciones de este fondo las hago a través de mi cuenta en My Investor. Existen muchas más opciones para la renta variable, algunas de ellas
@@ -264,12 +267,16 @@ De nuevo Harry Browne, recomendaba tener el oro lo más cercano posible a nosotr
 en nuestra posesión podría marcar la diferencia. No obstante, que la opción óptima sea tener el oro bajo nuestra posesión directa no significa que sea lo más
 práctico. De hecho, me atrevería a decir que la mayoría de los inversores que tienen una Cartera Permanente la parte correspondiente al oro la cubren con ETCs
 (fondos cotizados que nos permiten tener acceso a metales preciosos). En mi caso, para esta parte de la cartera he optado por los siguientes ETCs:
+
 *  **Xetra Gold (ETC). Que tiene un TER de 0.36% (0% en Interactive Brokers, etre otros) y cuyo ISIN es el DE000A0S9GB0**. Este ETC tiene como índice de referencia
 el precio del oro en dólares estadounidenses, convertido a euros empleando la tasa de cambio oficial. Cada participación nos otorga derechos sobre 0.033 onzas de
 oro y el subyacente es una réplica física en lingotes de oro que se encuentran en cámaras acorazadas en Alemania.
+
 * **WisdomTree Physical Swiss Gold ETC. Que tiene un TER de 0,15% y cuyo ISIN es el DE000A1DCTL3**. Este ETC tiene como índice de referencia el *Spot Gold LBMA*
 (precio del oro en el mercado de Londres). Cada participación nos otorga derechos sobre 0.10 onzas de oro y el subyacente es una réplica física en lingotes de
 oro que se encuentran en cámaras acorazadas en Zurich (Suiza).
+
+
 
 
 
