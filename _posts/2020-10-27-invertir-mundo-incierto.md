@@ -287,7 +287,8 @@ Existen otras opciones para esta parte de la cartera que podéis encontrar [aqu�
 
 Para esta parte de la cartera deberíamos usar bonos gubernamentales a corto plazo de máxima calidad crediticia. De hecho, adquirir letras del tesoro alemán sería
 una de las mejores opciones, el problema, es que en la actualidad, no podemos crearnos una cuenta en el tesoro alemán con lo que esta opción queda descartada.
-
+El resto de instrumentos disponibles está dando en la actualidad rentabilidades negativas y tampoco nos ofrecen una seguridad como la de los bonos gubernamentales
+a corto plazo de máxima calidad crediticia. En esta tesitura...
 
 
 # Referencias
