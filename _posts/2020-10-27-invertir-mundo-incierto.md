@@ -329,3 +329,5 @@ pasadas no garantizan rentabilidades futuras*.
 
 * Para entender un poco mejor la *diversificación estructural* os recomiendo que leáis la serie de artículos sobre la misma que Rafael Ortega ha escrito en su
 [blog](https://www.riverpatrimonio.com/post/diversificación-estructural-cap%C3%ADtulo-01).
+
+* Para ayudarnos a rellenar y presentar los modelos D-6 y 720, Jesús del blog [¡al fin libre!](https://alfinlibre.net) escribió [este artículo para el D-6](https://alfinlibre.net/como-presentar-el-modelo-d6-en-4-sencillos-pasos/) y [este otro para el 720](https://alfinlibre.net/modelo-720/).
