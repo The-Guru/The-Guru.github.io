@@ -303,13 +303,19 @@ para esta parte de la cartera he optado por los siguientes bancos:
 
 Existen otras opciones para esta parte de la cartera que podéis encontrar [aquí](https://www.carterapermanente.org/viewtopic.php?f=7&t=31).
 
+## Realizando aportaciones a la cartera
+
+Una vez que ya nos hayamos decidido por los activos que formarán nuestra cartera permanente, tendremos que realizar las aportaciones por igual a los cuatro
+activos. Por ejemplo, si empezáramos nuestra cartera con 4.000€, éstos se repartirían en 1.000€ para renta variable, 1.000€ para los bonos, 1.000€ para el oro y
+1.000€ en dinero en efectivo.
+
 ## Rebalancear la cartera
 
 Harry Browne estableció unas reglas básicas para rebalancear la cartera, echando un ojo una vez al año a la misma, si el valor de alguno de los cuatro activos
 que la componen **bajara un 15% o aumentara un 35%** tendríamos que aplicar un rebalanceo para dejar dichos activos en sus porcentajes originales. Esto lo
 conseguiríamos vendiendo los activos que han aumentado hasta dejarlos en el 25% y usaríamos el retorno de dichas ventas para comprar los activos que estén por
 debajo del 25% hasta dejarlos de nuevo en en su porcentaje original. De esta forma conseguiremos *"vender caro y comprar barato"* además de devolver la cartera
-a su estado original.
+a su nivel de riesgo original.
 
 ## ¿Qué rentabilidad esperar?
 
