@@ -325,5 +325,7 @@ pasadas no garantizan rentabilidades futuras*.
 
 # Lectura recomendada
 
-* Si queréis saber más sobre Hary Browne, seguridad financiera y La Cartera Permanente, recomiendo que os leáis su libro [Fail-Safe Investing]
-(https://www.amazon.es/Fail-Safe-Investing-Harry-Browne/dp/031226321X/) y el libro de Craig Rowland: [The Permanent Portfolio]
+* Si queréis saber más sobre Harry Browne, seguridad financiera y La Cartera Permanente, recomiendo que os leáis su libro [Fail-Safe Investing](https://www.amazon.es/Fail-Safe-Investing-Harry-Browne/dp/031226321X/) y el libro de Craig Rowland: [The Permanent Portfolio](https://www.amazon.es/Permanent-Portfolio-Long-Term-Investment-Strategy/dp/1118288254/).
+
+* Para entender un poco mejor la *diversificación estructural* os recomiendo que leáis la serie de artículos sobre la misma que Rafael Ortega ha escrito en su
+[blog](https://www.riverpatrimonio.com/post/diversificación-estructural-cap%C3%ADtulo-01).
