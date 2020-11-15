@@ -204,6 +204,7 @@ son los siguientes:
 
 * **River Cartera Permanente (Kronos FI)** - Fondo gestionado por Rafael Ortega - Más información de los activos que componen la cartera, forma de contratarlo,
 etc. [Aquí](https://www.riverpatrimonio.com).
+
 * **Icaria Cartera Permanente** - Fondo gestionado por Carlos Santiso -  Más información de los activos que componen la cartera, forma de contratarlo, etc.
 [Aquí](https://icariacapital.es).
 
@@ -316,5 +317,6 @@ La Cartera Permanente no puede garantizar que todos los años tengamos beneficio
 nos destuirá. No obstante, podemos esperar una rentabilidad real anualizada (ajustada a la inflacción) de entorno al **4%**, pero recuerda, *rentabilidades
 pasadas no garantizan rentabilidades futuras*.
 
-# Referencias
 # Lectura recomendada
+
+
