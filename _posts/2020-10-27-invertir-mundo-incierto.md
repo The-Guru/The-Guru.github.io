@@ -288,8 +288,17 @@ Existen otras opciones para esta parte de la cartera que podéis encontrar [aqu�
 Para esta parte de la cartera deberíamos usar bonos gubernamentales a corto plazo de máxima calidad crediticia. De hecho, adquirir letras del tesoro alemán sería
 una de las mejores opciones, el problema, es que en la actualidad, no podemos crearnos una cuenta en el tesoro alemán con lo que esta opción queda descartada.
 El resto de instrumentos disponibles está dando en la actualidad rentabilidades negativas y tampoco nos ofrecen una seguridad como la de los bonos gubernamentales
-a corto plazo de máxima calidad crediticia. En esta tesitura...
+a corto plazo de máxima calidad crediticia. En esta tesitura, el uso de cuentas bancarias remuneradas o depósitos es una opción válida, aunque conviene recordar,
+que los bancos no están exentos de una posible quiebra y deberíamos diversificar nuestro dinero en varias cuentas y bancos, así como, no superar nunca la cantidad
+máxima cubierta por el fondo de garantía de depósitos (*FGD*), que en la actualidad, asciende a la cantidad de *100.000€* por titular y entidad. En mi caso,
+para esta parte de la cartera he optado por los siguientes bancos:
 
+* **ING**. Es mi banco del día a día y donde hago uso de la Cuenta Naranja con una remuneración del 0.01% T.A.E hasta 1.5M€.
+* **Banco Pichincha**. Hago uso de la cuenta remunerada al 0.5% T.A.E hasta 1M€.
+* **My Investor**. Hago uso de la cuenta remunerada al 1% T.A.E hasta 15.000€.
+* **Orange Bank**. Hago uso de la cuenta remunerada al 1% T.A.E hasta 20.000€.
+
+Existen otras opciones para esta parte de la cartera que podéis encontrar [aquí](https://www.carterapermanente.org/viewtopic.php?f=7&t=31)
 
 # Referencias
 # Lectura recomendada
