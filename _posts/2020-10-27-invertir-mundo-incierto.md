@@ -251,9 +251,11 @@ la hago a través de mi cuenta en Interactive Brokers, su **ISIN es el DE0001102
 bonos directamente es que tendremos que rolar el bono cuando su duración se acerce a los 20 años, puesto que de no hacerlo así, estaríamos perdiendo la volatilidad
 que necesitamos en este activo. Otra opción sería rolar los bonos según se emitiese el siguiente bono a 30 años, normalmente el Gobierno alemán lo hace cada 2 años.
 
-
-
-
+Además de llevar el bono alemán a 30 años, he decidido diversificar un poco esta parte de la cartera y también llevar el siguiente fondo indexado:
+* **Vanguard 20+ Year Euro Treasury Index Fund EUR Acc. Que tiene un TER de 0.16% y cuyo ISIN es el IE00B246KL88**. Este fondo indexado sigue un índice de bonos
+gubernamentales de la zona Euro (Alemania, Francia, Holando, Bélgica y Austria) con una duración media de unos 22 años y una calidad crediticia AA/AAA. Lo bueno
+de este fondo es que el rolado de bonos se hará de forma automática y lo malo es que a fecha de la escritura de este capítulo, el fondo no es traspasable. Existen
+otras opciones para esta parte de la cartera que podéis encontrar [aquí](https://www.carterapermanente.org/viewtopic.php?f=5&t=23)
 
 
 # Referencias
