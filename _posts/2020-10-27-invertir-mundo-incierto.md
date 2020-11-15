@@ -258,8 +258,9 @@ Además de llevar el bono alemán a 30 años, he decidido diversificar un poco e
 * **Vanguard 20+ Year Euro Treasury Index Fund EUR Acc. Que tiene un TER de 0.16% y cuyo ISIN es el IE00B246KL88**. Este fondo indexado sigue un índice de bonos
 gubernamentales de la zona Euro (Alemania, Francia, Holando, Bélgica y Austria) con una duración media de unos 22 años y una calidad crediticia AA/AAA. Las compras
 de participaciones de este fondo las hago a través de mi cuenta en GPM Broker. Lo bueno de este fondo es que el rolado de bonos se hará de forma automática y lo
-malo es que a fecha de la escritura de este capítulo, el fondo no es traspasable. Existen otras opciones para esta parte de la cartera que podéis encontrar
-[aquí](https://www.carterapermanente.org/viewtopic.php?f=5&t=23)
+malo es que a fecha de la escritura de este capítulo, el fondo no es traspasable.
+
+Existen otras opciones para esta parte de la cartera que podéis encontrar [aquí](https://www.carterapermanente.org/viewtopic.php?f=5&t=23).
 
 ## Oro
 
@@ -281,7 +282,7 @@ WisdomTree nos dan la posibilidad de solitar el oro físico correspondiente a nu
 participaciones equivalantes a un lingote de 1gr. Además, tendremos que contar con una cuenta en un banco alemán, suizo, austriaco, inglés o luxemburgués que
 permita la custodia de oro físico y pagar los gastos por el envío. Como podéis observar, una opción al alcance de muy pocos.
 
-Existen otras opciones para esta parte de la cartera que podéis encontrar [aquí](https://www.carterapermanente.org/viewtopic.php?f=6&t=28)
+Existen otras opciones para esta parte de la cartera que podéis encontrar [aquí](https://www.carterapermanente.org/viewtopic.php?f=6&t=28).
 
 ## Dinero en efectivo
 
@@ -298,7 +299,7 @@ para esta parte de la cartera he optado por los siguientes bancos:
 * **My Investor**. Hago uso de la cuenta remunerada al 1% T.A.E hasta 15.000€.
 * **Orange Bank**. Hago uso de la cuenta remunerada al 1% T.A.E hasta 20.000€.
 
-Existen otras opciones para esta parte de la cartera que podéis encontrar [aquí](https://www.carterapermanente.org/viewtopic.php?f=7&t=31)
+Existen otras opciones para esta parte de la cartera que podéis encontrar [aquí](https://www.carterapermanente.org/viewtopic.php?f=7&t=31).
 
 # Referencias
 # Lectura recomendada
