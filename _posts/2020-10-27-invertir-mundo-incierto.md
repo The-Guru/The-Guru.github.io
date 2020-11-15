@@ -253,9 +253,20 @@ que necesitamos en este activo. Otra opción sería rolar los bonos según se em
 
 Además de llevar el bono alemán a 30 años, he decidido diversificar un poco esta parte de la cartera y también llevar el siguiente fondo indexado:
 * **Vanguard 20+ Year Euro Treasury Index Fund EUR Acc. Que tiene un TER de 0.16% y cuyo ISIN es el IE00B246KL88**. Este fondo indexado sigue un índice de bonos
-gubernamentales de la zona Euro (Alemania, Francia, Holando, Bélgica y Austria) con una duración media de unos 22 años y una calidad crediticia AA/AAA. Lo bueno
-de este fondo es que el rolado de bonos se hará de forma automática y lo malo es que a fecha de la escritura de este capítulo, el fondo no es traspasable. Existen
-otras opciones para esta parte de la cartera que podéis encontrar [aquí](https://www.carterapermanente.org/viewtopic.php?f=5&t=23)
+gubernamentales de la zona Euro (Alemania, Francia, Holando, Bélgica y Austria) con una duración media de unos 22 años y una calidad crediticia AA/AAA. Las compras
+de participaciones de este fondo las hago a través de mi cuenta en GPM Broker. Lo bueno de este fondo es que el rolado de bonos se hará de forma automática y lo
+malo es que a fecha de la escritura de este capítulo, el fondo no es traspasable. Existen otras opciones para esta parte de la cartera que podéis encontrar
+[aquí](https://www.carterapermanente.org/viewtopic.php?f=5&t=23)
+
+## Oro
+
+De nuevo Harry Browne, recomendaba tener el oro lo más cercano posible a nosotros, y es que, en caso de un inesperado desastre, contar con dicho material precioso
+en nuestra posesión podría marcar la diferencia. No obstante, que la opción óptima sea tener el oro bajo nuestra posesión directa no significa que sea lo más
+práctico. De hecho, me atrevería a decir que la mayoría de los inversores que tienen una Cartera Permanente la parte correspondiente al oro la cubren con ETCs
+(fondos cotizados que nos permiten tener acceso a metales preciosos). En mi caso, para esta parte de la cartera he optado por los siguientes ETCs:
+*  **Xetra Gold (ETC). y cuyo ISIN es el DE000A0S9GB0**. 
+
+
 
 
 # Referencias
