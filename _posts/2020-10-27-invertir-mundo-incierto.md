@@ -281,7 +281,13 @@ WisdomTree nos dan la posibilidad de solitar el oro físico correspondiente a nu
 participaciones equivalantes a un lingote de 1gr. Además, tendremos que contar con una cuenta en un banco alemán, suizo, austriaco, inglés o luxemburgués que
 permita la custodia de oro físico y pagar los gastos por el envío. Como podéis observar, una opción al alcance de muy pocos.
 
+Existen otras opciones para esta parte de la cartera que podéis encontrar [aquí](https://www.carterapermanente.org/viewtopic.php?f=6&t=28)
+
 ## Dinero en efectivo
+
+Para esta parte de la cartera deberíamos usar bonos gubernamentales a corto plazo de máxima calidad crediticia. De hecho, adquirir letras del tesoro alemán sería
+una de las mejores opciones, el problema, es que en la actualidad, no podemos crearnos una cuenta en el tesoro alemán con lo que esta opción queda descartada.
+
 
 
 # Referencias
