@@ -241,8 +241,9 @@ Para la parte de la renta variable yo he obtado por el siguiente fondo indexado:
 
 * **Vanguard Eurozone Stock Index Fund - Investor EUR Acc. Que tiene un TER de 0.12% y cuyo ISIN es el IE0008248795**. Este fondo indexado sigue el índice 
 [MSCI EMU](https://www.msci.com/documents/10199/32798bd1-7370-451a-a740-eb31dc40adcd), es decir, empresas de grande y mediana capitalización de la zona Euro.
-Las compras de participaciones de este fondo las hago a través de mi cuenta en My Investor. Existen muchas más opciones para la renta variable, algunas de ellas
-podéis encontrarlas [aquí](https://www.carterapermanente.org/viewtopic.php?f=4&t=22).
+Las compras de participaciones de este fondo las hago a través de mi cuenta en My Investor.
+
+Existen muchas más opciones para la renta variable, algunas de ellas podéis encontrarlas [aquí](https://www.carterapermanente.org/viewtopic.php?f=4&t=22).
 
 ## Bonos a largo plazo de máxima calidad crediticia
 
@@ -300,6 +301,20 @@ para esta parte de la cartera he optado por los siguientes bancos:
 * **Orange Bank**. Hago uso de la cuenta remunerada al 1% T.A.E hasta 20.000€.
 
 Existen otras opciones para esta parte de la cartera que podéis encontrar [aquí](https://www.carterapermanente.org/viewtopic.php?f=7&t=31).
+
+## Rebalancear la cartera
+
+Harry Browne estableció unas reglas básicas para rebalancear la cartera, echando un ojo una vez al año a la misma, si el valor de alguno de los cuatro activos
+que la componen **bajara un 15% o aumentara un 35%** tendríamos que aplicar un rebalanceo para dejar dichos activos en sus porcentajes originales. Esto lo
+conseguiríamos vendiendo los activos que han aumentado hasta dejarlos en el 25% y usaríamos el retorno de dichas ventas para comprar los activos que estén por
+debajo del 25% hasta dejarlos de nuevo en en su porcentaje original. De esta forma conseguiremos *"vender caro y comprar barato"* además de devolver la cartera
+a su estado original.
+
+## ¿Qué rentabilidad esperar?
+
+La Cartera Permanente no puede garantizar que todos los años tengamos beneficios, ninguna cartera puede, pero si podríamos decir con seguridad que ninguna crisis
+nos destuirá. No obstante, podemos esperar una rentabilidad real anualizada (ajustada a la inflacción) de entorno al **4%**, pero recuerda, *rentabilidades
+pasadas no garantizan rentabilidades futuras*.
 
 # Referencias
 # Lectura recomendada
