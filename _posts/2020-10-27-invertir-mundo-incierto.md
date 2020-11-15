@@ -241,9 +241,18 @@ Para la parte de la renta variable yo he obtado por el siguiente fondo indexado:
 Las compras de participaciones de este fondo las hago a través de mi cuenta en My Investor. Existen muchas más opciones para la renta variable, algunas de ellas
 podéis encontrarlas [aquí](https://www.carterapermanente.org/viewtopic.php?f=4&t=22).
 
-## Bonos a largo plazo de la máxima calidad crediticia
+## Bonos a largo plazo de máxima calidad crediticia
 
-Para esta parte de la cartera he optado por usar los bonos alemanes a 30 años... seguir aquí
+Harry Browne recomendaba para esta parte de la cartera bonos gubernamentales AAA (máxima calidad crediticia) a largo plazo. De nuevo la **seguridad** hace acto de
+presencia ya que es más difícil que un estado quiebre a que lo haga una empresa (bono corporativo). Al estar en la zona Euro, el mejor bono al que podemos optar
+para nuestra cartera es el **bono alemán a 30 años**. Aquí la duración es muy importante puesto que dotará al activo con una gran volatilidad, necesaria, para
+cuando tenga que tirar de la cartera. Para entender bien el funcionamiento de los bonos en la cartera recomiendo la lectura del artículo: [High profits at low rates: the benefits of bonds convexity](https://portfoliocharts.com/2019/05/27/high-profits-at-low-rates-the-benefits-of-bond-convexity/). La compra de este bono
+la hago a través de mi cuenta en Interactive Brokers, su **ISIN es el DE0001102481, bono alemán a 30 años con vencimiento en 2050**. La única pega de comprar los
+bonos directamente es que tendremos que rolar el bono cuando su duración se acerce a los 20 años, puesto que de no hacerlo así, estaríamos perdiendo la volatilidad
+que necesitamos en este activo. Otra opción sería rolar los bonos según se emitiese el siguiente bono a 30 años, normalmente el Gobierno alemán lo hace cada 2 años.
+
+
+
 
 
 
