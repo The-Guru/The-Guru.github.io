@@ -306,7 +306,7 @@ Existen otras opciones para esta parte de la cartera que podéis encontrar [aqu�
 ## Realizando aportaciones a la cartera
 
 Una vez que ya nos hayamos decidido por los activos que formarán nuestra cartera permanente, tendremos que realizar las aportaciones por igual a los cuatro
-activos. Por ejemplo, si empezáramos nuestra cartera con 4.000€, éstos se repartirían en 1.000€ para renta variable, 1.000€ para los bonos, 1.000€ para el oro y
+activos. Por ejemplo, si empezáramos nuestra cartera con 4.000€, éstos se repartirían en 1.000€ para la renta variable, 1.000€ para los bonos, 1.000€ para el oro y
 1.000€ en dinero en efectivo.
 
 ## Rebalancear la cartera
@@ -325,4 +325,5 @@ pasadas no garantizan rentabilidades futuras*.
 
 # Lectura recomendada
 
-
+* Si queréis saber más sobre Hary Browne, seguridad financiera y La Cartera Permanente, recomiendo que os leáis su libro [Fail-Safe Investing]
+(https://www.amazon.es/Fail-Safe-Investing-Harry-Browne/dp/031226321X/) y el libro de Craig Rowland: [The Permanent Portfolio]
