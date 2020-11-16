@@ -334,7 +334,7 @@ pasadas no garantizan rentabilidades futuras*.
 
 # Otros recursos
 
-Además de libros y artículos, existen algunos recursos más sobre La Cartera Permanente a los que merece la pena echar un vistazo.
+Además de libros y artículos, existen algunos recursos más sobre la Cartera Permanente a los que merece la pena echar un vistazo.
 
 * [Masterclass de 3 horas](https://youtu.be/8rbimzEvr9k) sobre La Cartera Permante dada por Jesús del blog ¡al fin libre! y Rafael Ortega, gestor de River
 Cartera Permanente (Kronos FI).
