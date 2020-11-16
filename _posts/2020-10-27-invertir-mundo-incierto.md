@@ -266,7 +266,7 @@ Existen otras opciones para esta parte de la cartera que podéis encontrar [aqu�
 
 ## Oro
 
-De nuevo Harry Browne, recomendaba tener el oro lo más cercano posible a nosotros, y es que, en caso de un inesperado desastre, contar con dicho material precioso
+De nuevo Harry Browne, recomendaba tener el oro lo más cercano posible a nosotros, y es que, en caso de un inesperado desastre, contar con dicho metal precioso
 en nuestra posesión podría marcar la diferencia. No obstante, que la opción óptima sea tener el oro bajo nuestra posesión directa no significa que sea lo más
 práctico. De hecho, me atrevería a decir que la mayoría de los inversores que tienen una Cartera Permanente la parte correspondiente al oro la cubren con ETCs
 (fondos cotizados que nos permiten tener acceso a metales preciosos). En mi caso, para esta parte de la cartera he optado por los siguientes ETCs:
