@@ -75,7 +75,7 @@ No existen más estados, aunque si una combinación de ellos: crecimiento inflac
 </p>
 
 Una vez que hemos entendido que podemos estar en alguno de los estados anteriormente citados, ¿Por qué no componemos una cartera con aquellos **activos que
-funcionen estructuralmente mejor en cada uno de los estados**? Esta pregunta es la que se hizo Harry Browne en la década de los 70 cuando ideó su famosa
+funcionen estructuralmente mejor en cada uno de los estados**? esta pregunta es la que se hizo Harry Browne en la década de los 70 cuando ideó su famosa
 **Cartera Permanente**.
 
 # Harry Browne y su Cartera Permanente
