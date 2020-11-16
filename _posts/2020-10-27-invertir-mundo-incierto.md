@@ -280,7 +280,7 @@ referencia el precio del oro en dólares estadounidenses, convertido a euros emp
 oro que se encuentran en cámaras acorazadas en Zurich (Suiza).
 
 ¿Existe la posibilidad de obtener el oro físico correspondiente a nuestras participaciones? La respuesta es sí, pero con algunos matices. Tanto Xetra como
-WisdomTree nos dan la posibilidad de solitar el oro físico correspondiente a nuestras participaciones, para ello, tendremos que contar con un mínimo de
+WisdomTree nos dan la posibilidad de solicitar el oro físico correspondiente a nuestras participaciones, para ello, tendremos que contar con un mínimo de
 participaciones equivalantes a un lingote de 1gr. Además, tendremos que contar con una cuenta en un banco alemán, suizo, austriaco, inglés o luxemburgués que
 permita la custodia de oro físico y pagar los gastos por el envío. Como podéis observar, una opción al alcance de muy pocos.
 
