@@ -238,7 +238,7 @@ existiendo además, la opción de contratar servicios profesionales que nos ayud
 
 ## Renta variable
 
-Para la parte de la renta variable yo he obtado por el siguiente fondo indexado:
+Para la parte de la renta variable yo he optado por el siguiente fondo indexado:
 
 * **Vanguard Eurozone Stock Index Fund - Investor EUR Acc. Que tiene un TER de 0.12% y cuyo ISIN es el IE0008248795**. Este fondo indexado sigue el índice 
 [MSCI EMU](https://www.msci.com/documents/10199/32798bd1-7370-451a-a740-eb31dc40adcd), es decir, empresas de grande y mediana capitalización de la zona Euro.
