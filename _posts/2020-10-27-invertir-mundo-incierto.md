@@ -68,7 +68,7 @@ sustenta.
 
 Dado que nadie sabe que ocurrirá en la economía ni en los mercados financieros en el futuro. ¿Cómo podemos invertir?
 bueno, lo que si sabemos con certeza es que la economía transitará por alguno de estos estados: **crecimiento, recesión, inflación y deflación**.
-No existen más estados, aunque si una combinación de ellos: crecimiento inflaccionario, recesión deflaccionaria, etc.
+No existen más estados, aunque si una combinación de ellos: crecimiento inflacionario, recesión deflacionaria, etc.
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Diversificacion-estructural.jpg"/>
