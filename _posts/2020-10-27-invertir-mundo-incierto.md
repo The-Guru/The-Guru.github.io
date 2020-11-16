@@ -305,7 +305,7 @@ Existen otras opciones para esta parte de la cartera que podéis encontrar [aqu�
 
 ## Realizando aportaciones a la cartera
 
-Una vez que ya nos hayamos decidido por los activos que formarán nuestra cartera permanente, tendremos que realizar las aportaciones por igual a los cuatro
+Una vez que ya nos hayamos decidido por los activos que formarán nuestra Cartera Permanente, tendremos que realizar las aportaciones por igual a los cuatro
 activos. Por ejemplo, si empezáramos nuestra cartera con 4.000€, éstos se repartirían en 1.000€ para la renta variable, 1.000€ para los bonos, 1.000€ para el oro y
 1.000€ en dinero en efectivo.
 
