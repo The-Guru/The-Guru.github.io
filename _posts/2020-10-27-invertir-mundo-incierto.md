@@ -60,7 +60,7 @@ haber vendido nuestras participaciones. Por último, os voy a mostrar como lo es
 </p>
 
 Para llevar poco tiempo invertido me ha pillado la crisis del COVID-19 en la que **vi caer mi cartera un -18,4% y en la que he pasado unos 8 meses bajo el agua**.
-Mucho "Stay the Course" que diría John Bogle pero, ¿no habría una manera de obtener una rentabilidad moderada con nuestra cartera a la vez que los baches por los
+Mucho *"Stay the Course"* que diría John Bogle pero, ¿no habría una manera de obtener una rentabilidad moderada con nuestra cartera a la vez que los baches por los
 que tengamos que pasar fueran menos pronunciados? Por supuesto que la hay, pero antes de entrar de lleno en ella, os voy a explicar los conceptos en los que se
 sustenta.
 
