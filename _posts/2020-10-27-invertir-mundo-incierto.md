@@ -271,9 +271,9 @@ en nuestra posesión podría marcar la diferencia. No obstante, que la opción �
 práctico. De hecho, me atrevería a decir que la mayoría de los inversores que tienen una Cartera Permanente la parte correspondiente al oro la cubren con ETCs
 (fondos cotizados que nos permiten tener acceso a metales preciosos). En mi caso, para esta parte de la cartera he optado por los siguientes ETCs:
 
-*  **Xetra Gold (ETC). Que tiene un TER de 0.36% (0% en Interactive Brokers, etre otros) y cuyo ISIN es el DE000A0S9GB0**. Este ETC tiene como índice de referencia
-el precio del oro en dólares estadounidenses, convertido a euros empleando la tasa de cambio oficial. Cada participación nos otorga derechos sobre 0.033 onzas de
-oro y el subyacente es una réplica física en lingotes de oro que se encuentran en cámaras acorazadas en Alemania.
+*  **Xetra Gold (ETC). Que tiene un TER de 0.36% (0% en Interactive Brokers, entre otros) y cuyo ISIN es el DE000A0S9GB0**. Este ETC tiene como índice de
+referencia el precio del oro en dólares estadounidenses, convertido a euros empleando la tasa de cambio oficial. Cada participación nos otorga derechos sobre
+0.033 onzas de oro y el subyacente es una réplica física en lingotes de oro que se encuentran en cámaras acorazadas en Alemania.
 
 * **WisdomTree Physical Swiss Gold ETC. Que tiene un TER de 0,15% y cuyo ISIN es el DE000A1DCTL3**. Este ETC tiene como índice de referencia el *Spot Gold LBMA*
 (precio del oro en el mercado de Londres). Cada participación nos otorga derechos sobre 0.10 onzas de oro y el subyacente es una réplica física en lingotes de
