@@ -34,7 +34,7 @@ Pero, ¿qué pasa cuando sometemos a esta cartera a un escenario para el cual no
 No hubiéramos obtenido ni siquiera un **1%** de rentabilidad real anualizada tras una década de haber tenido nuestro dinero invertido. Además de todo esto,
 hay que hablar de la **volatilidad** de la cartera. Cuando hablamos de volatilidad, a mi me gusta imaginarlo como la cantidad de baches que vamos a
 encontrarnos en el camino durante nuestra vida como inversores. Hemos visto que en la década del 2010, una de las mejores para la renta variable, hubiéramos
-obtenido un nada desdeñable 8% de rendimiento nominal anualizado, pero, ¿Cuántos baches hubiéramos tenido en el camino?
+obtenido un nada desdeñable 8% de rendimiento real anualizado, pero, ¿Cuántos baches hubiéramos tenido en el camino?
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Classic-60-40-2010-drawdowns.png"/>
