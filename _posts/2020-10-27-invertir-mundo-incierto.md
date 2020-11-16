@@ -15,7 +15,7 @@ Básicamente os animaba a haceros una cartera **Bogle**, de hecho, yo mismo teng
 Este tipo de cartera tiene un marcado sesgo a crecimiento, esto es, estamos apostando que a largo plazo las cosas irán bien y la economía crecerá.
 En este tipo de escenarios, cuanto más porcentaje de renta variable tengamos en la cartera mayor rendimiento sacaremos a la misma.
 Así pues, a modo de ejemplo, si hubiéramos invertido en la última década en una cartera clásica **Bogle 60/40 USA** 
-(60% renta variable / 40% renta fija del mercado estadounidense) hubiéramos obtenido un rendimiento nominal anualizado cercano al **8%** como se muestra
+(60% renta variable / 40% renta fija del mercado estadounidense) hubiéramos obtenido un rendimiento real anualizado cercano al **8%** como se muestra
 a continuación.
 
 <p align="center">
@@ -31,7 +31,7 @@ Pero, ¿qué pasa cuando sometemos a esta cartera a un escenario para el cual no
 <img src="{{ site.baseurl }}/images/Classic-60-40-underperfom.png"/>
 </p>
 
-No hubiéramos obtenido ni siquiera un **1%** de rentabilidad nominal anualizada tras una década de haber tenido nuestro dinero invertido. Además de todo esto,
+No hubiéramos obtenido ni siquiera un **1%** de rentabilidad real anualizada tras una década de haber tenido nuestro dinero invertido. Además de todo esto,
 hay que hablar de la **volatilidad** de la cartera. Cuando hablamos de volatilidad, a mi me gusta imaginarlo como la cantidad de baches que vamos a
 encontrarnos en el camino durante nuestra vida como inversores. Hemos visto que en la década del 2010, una de las mejores para la renta variable, hubiéramos
 obtenido un nada desdeñable 8% de rendimiento nominal anualizado, pero, ¿Cuántos baches hubiéramos tenido en el camino?
@@ -331,5 +331,18 @@ pasadas no garantizan rentabilidades futuras*.
 [blog](https://www.riverpatrimonio.com/post/diversificación-estructural-cap%C3%ADtulo-01).
 
 * Para ayudarnos a rellenar y presentar los modelos D-6 y 720, Jesús del blog [¡al fin libre!](https://alfinlibre.net) escribió [este artículo para el D-6](https://alfinlibre.net/como-presentar-el-modelo-d6-en-4-sencillos-pasos/) y [este otro para el 720](https://alfinlibre.net/modelo-720/).
+
+# Otros recursos
+
+Además de libros y artículos, existen algunos recursos más sobre La Cartera Permanente a los que merece la pena echar un vistazo.
+
+* [Masterclass de 3 horas](https://youtu.be/8rbimzEvr9k) sobre La Cartera Permante dada por Jesús del blog ¡al fin libre! y Rafael Ortega, gestor de River
+Cartera Permanente (Kronos FI).
+
+* Blogs: [carterapermanente.es](http://www.carterapermanente.es), [quenoteloinviertan.com](https://www.quenoteloinviertan.com/categoria/estrategias-de-inversion/cartera-permanente/).
+
+* Foros: [carterapermanente.org](https://www.carterapermanente.org), [gyroscopicinvesting.com](https://www.gyroscopicinvesting.com/forum/index.php).
+
+* Canal de Telegram: [Cartera Permanente](https://t.me/joinchat/H5KZPBMgoFOCKP-BHo3k-A).
 
 ¡Muchas gracias!
