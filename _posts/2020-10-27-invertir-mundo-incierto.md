@@ -293,7 +293,7 @@ una de las mejores opciones, el problema, es que en la actualidad, no podemos cr
 El resto de instrumentos disponibles está dando en la actualidad rentabilidades negativas y tampoco nos ofrecen una seguridad como la de los bonos gubernamentales
 a corto plazo de máxima calidad crediticia. En esta tesitura, el uso de cuentas bancarias remuneradas o depósitos es una opción válida, aunque conviene recordar,
 que los bancos no están exentos de una posible quiebra y deberíamos diversificar nuestro dinero en varias cuentas y bancos, así como, no superar nunca la cantidad
-máxima cubierta por el fondo de garantía de depósitos (*FGD*), que en la actualidad, asciende a la cantidad de *100.000€* por titular y entidad. En mi caso,
+máxima cubierta por el *fondo de garantía de depósitos (FGD)*, que en la actualidad, asciende a la cantidad de **100.000€** por titular y entidad. En mi caso,
 para esta parte de la cartera he optado por los siguientes bancos:
 
 * **ING**. Es mi banco del día a día y donde hago uso de la Cuenta Naranja con una remuneración del 0.01% T.A.E hasta 1.5M€.
