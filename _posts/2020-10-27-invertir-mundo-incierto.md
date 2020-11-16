@@ -158,7 +158,7 @@ Primero echemos un ojo al rendimiento de La Cartera Permanente USA en la última
 <img src="{{ site.baseurl }}/images/Cartera-permanente-performance-2010-2020.png"/>
 </p>
 
-Vemos que obtuvo un rendimiento nominal anualizado de **4,5%** un poco más de la mitad del rendimiento que nos dio la cartera Bogle 60/40 en la misma década.
+Vemos que obtuvo un rendimiento real anualizado de **4,5%** un poco más de la mitad del rendimiento que nos dio la cartera Bogle 60/40 en la misma década.
 Si lo pensamos, tiene todo el sentido puesto que en la última década estuvimos en un escenario de crecimiento económico donde la renta variable brilló más 
 que ningún otro activo. Echemos uno ojo ahora a los baches en el camino.
 
@@ -177,9 +177,9 @@ Sometamos ahora a La Cartera Permanente a la década de la crisis de las .com y 
 <img src="{{ site.baseurl }}/images/Cartera-permanente-performance-2000-2010.png"/>
 </p>
 
-Vemos que obtuvo un rendimiento anualizado de **4,2%** más o menos. ¡Increible!, la cartera Bogle 60/40 a penas obtuvo un 1% de rendimiento anualizado en la misma
-década. De nuevo, La Cartera Permanente nos da una rentabilidad moderada sea cual sea el clima económico en el que nos encontremos. Echemos un ojo ahora a los
-baches en el camino.
+Vemos que obtuvo un rendimiento real anualizado de **4,2%** más o menos. ¡Increible!, la cartera Bogle 60/40 a penas obtuvo un 1% de rendimiento real anualizado en
+la misma década. De nuevo, La Cartera Permanente nos da una rentabilidad moderada sea cual sea el clima económico en el que nos encontremos. Echemos un ojo ahora
+a los baches en el camino.
 
 <p align="center">
 <img src="{{ site.baseurl }}/images/Cartera-permanente-drawdowns-2000-2010.png"/>
