@@ -320,7 +320,7 @@ a su nivel de riesgo original.
 ## ¿Qué rentabilidad esperar?
 
 La Cartera Permanente no puede garantizar que todos los años tengamos beneficios, ninguna cartera puede, pero si podríamos decir con seguridad que ninguna crisis
-nos destuirá. No obstante, podemos esperar una rentabilidad real anualizada (ajustada a la inflacción) de entorno al **4%**, pero recuerda, *rentabilidades
+nos destruirá. No obstante, podemos esperar una rentabilidad real anualizada (ajustada a la inflacción) de entorno al **4%**, pero recuerda, *rentabilidades
 pasadas no garantizan rentabilidades futuras*.
 
 # Lectura recomendada
