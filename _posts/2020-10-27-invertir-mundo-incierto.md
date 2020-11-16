@@ -234,7 +234,7 @@ dicho mes. Las comisiones por compra/venta también son de las más bajas que va
 modelo D-6 en Enero si a 31 de Diciembre del año anterior teníamos posiciones abiertas al tratarse de un broker extranjero. También tendremos que presentar el
 modelo 720 del 1 de Enero al 31 de Marzo si nuestras posiciones abiertas superan más de 50.000€ al tratarse, nuevamente, de un broker extranjero. Quizá esta
 sea la parte que más complica la operativa pero existen una gran cantidad de recursos en Internet donde se explica paso a paso como rellenar dichos modelos,
-existiendo además, la opción de contratar servicios profesionales que nos ayuden a presentar dichos modelos.
+existiendo además, la opción de contratar servicios profesionales que nos ayuden a presentarlos.
 
 ## Renta variable
 
