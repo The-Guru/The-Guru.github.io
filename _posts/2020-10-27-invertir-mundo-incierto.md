@@ -67,7 +67,7 @@ sustenta.
 # Diversificación estructural
 
 Dado que nadie sabe que ocurrirá en la economía ni en los mercados financieros en el futuro. ¿Cómo podemos invertir?
-Bueno, lo que si sabemos con certeza es que la economía transitará por alguno de estos estados: **crecimiento, recesión, inflación y deflación**.
+bueno, lo que si sabemos con certeza es que la economía transitará por alguno de estos estados: **crecimiento, recesión, inflación y deflación**.
 No existen más estados, aunque si una combinación de ellos: crecimiento inflaccionario, recesión deflaccionaria, etc.
 
 <p align="center">
