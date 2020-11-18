@@ -220,7 +220,7 @@ A la hora de montar tu propia Cartera Permanente tendrás que hacer uso de uno o
 diversificación del riesgo de que alguno de ellos pudiera quebrar. Yo hago uso de los siguientes:
 
 * **[My Investor](https://myinvestor.es)**: A parte de tener una cuenta remunerada al 1% T.A.E hasta 15.000€, tiene una gran cantidad de fondos indexados que
-nos vienen de perlas tanto para la parte de renta variable como para la de los bonos a largo plazo de la cartera. De momento no combran comisión de custodia.
+nos vienen de perlas tanto para la parte de renta variable como para la de los bonos a largo plazo de la cartera. De momento no cobran comisión de custodia.
 
 * **[GPM Broker](https://www.gpmbroker.com)**: Al igual que My Investor, tiene una gran cantidad de fondos indexados para la renta variable y bonos a largo plazo
 de la cartera. La operativa es por e-mail y es bastante fluida. Las posiciones se pueden ver a través de un extracto que se descarga desde su web. No cobran
@@ -311,11 +311,10 @@ activos. Por ejemplo, si empezáramos nuestra cartera con 4.000€, éstos se re
 
 ## Rebalancear la cartera
 
-Harry Browne estableció unas reglas básicas para rebalancear la cartera, echando un ojo una vez al año a la misma, si el valor de alguno de los cuatro activos
-que la componen **bajara un 15% o aumentara un 35%** tendríamos que aplicar un rebalanceo para dejar dichos activos en sus porcentajes originales. Esto lo
-conseguiríamos vendiendo los activos que han aumentado hasta dejarlos en el 25% y usaríamos el retorno de dichas ventas para comprar los activos que estén por
-debajo del 25% hasta dejarlos de nuevo en en su porcentaje original. De esta forma conseguiremos *"vender caro y comprar barato"* además de devolver la cartera
-a su nivel de riesgo original.
+Harry Browne estableció unas reglas básicas para rebalancear la cartera, echando un ojo una vez al año a la misma, si alguno de los cuatro activos que la componen
+ponderara hacia **un 15% o un 35%** tendríamos que aplicar un rebalanceo para dejar dichos activos en sus porcentajes originales. Esto lo conseguiríamos vendiendo
+los activos que han aumentado hasta dejarlos en el 25% y usaríamos el retorno de dichas ventas para comprar los activos que estén por debajo del 25% hasta dejarlos
+de nuevo en en su porcentaje original. De esta forma conseguiremos *"vender caro y comprar barato"* además de devolver la cartera a su nivel de riesgo original.
 
 ## ¿Qué rentabilidad esperar?
 
